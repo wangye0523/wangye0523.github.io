@@ -1,4 +1,4 @@
----
+![image](https://github.com/wangye0523/wangye0523.github.io/assets/9684939/dfbce20e-e5ba-4ff8-82a9-14143a5acaa7)---
 permalink: /
 title: ""
 excerpt: ""
@@ -77,7 +77,6 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=wangye0523.github.io)
- <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-   <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
+![访问次数](https://img.shields.io/badge/dynamic/json?color=blue&label=访问次数&query=%24.total&url=https://wangye0523.github.io/)
+
 
