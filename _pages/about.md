@@ -20,13 +20,14 @@ redirect_from:
 
 I am a faculty member in the Department of Computer Science at Chongqing University of Posts and Telecommunications. My primary research focus is on natural language processing and multimodal fusion. With eight years of experience in the United States, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I also have worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/), participating in projects related to AI in 5G. 
 
-Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Education Commission's research program for returnees' entrepreneurship and innovation support, and the Chongqing Municipal Education Commission. 
+Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Education Commission's research program, and Chongqing Municipal Innovation support. 
 
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). 
 
 # 🔥 News
 - *2023.11*: We won Best Paper Candidate from the 2023 IEEE International Symposium on Product Compliance Engineering-Asia ([ISPCE-AS2023](https://dl2link.com/ISPCE-AS2023/index.html)). 
 - *2023.07*: We won 3rd prize in diabetes classification competition at the 2023 International Conference on Neural Computing for Advanced Applications ([NCAA-2023](https://www.dl2link.com/ncaa2023/)).
+- *2023.06*: one paper was accepted by Neural Computing and Applications. 
 
 
 
