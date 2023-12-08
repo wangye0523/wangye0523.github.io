@@ -21,7 +21,7 @@ I am a faculty member in the Department of Computer Science at Chongqing Univers
 
 Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Innovation Support Program for Returning Overseas Students, and the Science and Technology Research Program of Chongqing Municipal Education Commission. 
 
-For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). 
+For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).    
 For the Chinese version of my curriculum vitae, Please refer to my [中文版](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥 News
