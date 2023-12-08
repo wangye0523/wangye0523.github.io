@@ -57,6 +57,19 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Miss. Xinyi Gao, Bachelor 2023 (MS@ University of Rochester)
 - Mr. Guanmeng Xian, Bachelor 2024 (MS@ Sichuan University)
 
+# 🧑🏼‍🤝‍🧑🏻 Collaborator
+- Mi Lu, Texas A&M University
+- Yoonsuck Choe, Texas A&M University
+- Han Wang, Samsung Research America
+- Guoyin Wang, Chongqing University of Posts and Telecommunications
+- Hong Yu, Chongqing University of Posts and Telecommunications
+- Qun Liu, Chongqing University of Posts and Telecommunications
+- Li Liu, Chongqing University of Posts and Telecommunications
+- Jiaxu Leng, Chongqing University of Posts and Telecommunications
+- Fei Tao, Amazon
+- Xinxiang Zhang, Southern Methodist University
+- William K. Cheung, Hong Kong Baptist University
+
 
 # 📖 Educations
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
