@@ -55,7 +55,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. Qi Cheng, Bachelor 2023 (MS@ University of Michigan, Ann Arbor)
 - Mr. Dongyu Xie, Bachelor 2023 (MS@ University of Electronic Science and Technology of China)
 - Miss. Xinyi Gao, Bachelor 2023 (MS@ University of Rochester)
-- Mr. Guanmeng Xian, Bachelor 2024 (MS@ Sichuan University)
+- Mr. [Guanmeng Xian](https://gmxian.github.io/), Bachelor 2024 (MS@ Sichuan University)
 
 # 🧑🏼‍🤝‍🧑🏻 Collaborator
 - Mi Lu, Texas A&M University
