@@ -48,13 +48,14 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. Zhuoyi Yu (Undergraduate student)
 
 # 🎓 Alumni
-- Mr. Guanmeng Xian, Bachelor 2024 (MS@ Sichuan University)
-- Mr. Qi Cheng, Bachelor 2023 (MS@ University of Michigan, Ann Arbor)
-- Mr. Dongyu Xie, Bachelor 2023 (MS@ University of Electronic Science and Technology of China)
-- Miss. Xinyi Gao, Bachelor 2023 (MS@ University of Rochester)
 - Mr. Jingbo Liao, Master 2023 (Alibaba)
 - Mr. Qianmengke Zhao, Master 2023 (Chongqing Rural Commercial Bank)
 - Mr. Wenkang Lu, Master 2023 (Chang'an Tech)
+- Mr. Qi Cheng, Bachelor 2023 (MS@ University of Michigan, Ann Arbor)
+- Mr. Dongyu Xie, Bachelor 2023 (MS@ University of Electronic Science and Technology of China)
+- Miss. Xinyi Gao, Bachelor 2023 (MS@ University of Rochester)
+- Mr. Guanmeng Xian, Bachelor 2024 (MS@ Sichuan University)
+
 
 # 📖 Educations
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
