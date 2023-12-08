@@ -77,6 +77,6 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 
-![访问次数](https://img.shields.io/badge/dynamic/json?color=blue&label=访问次数&query=%24.total&url=https://wangye0523.github.io/)
+![访问次数](https://img.shields.io/github/visitor-count/wangye0523/wangye0523.github.io)
 
 
