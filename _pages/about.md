@@ -69,6 +69,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Fei Tao, Amazon
 - Xinxiang Zhang, Southern Methodist University
 - William K. Cheung, Hong Kong Baptist University
+- Xiao Li, Oxford University
 
 
 # 📖 Educations
