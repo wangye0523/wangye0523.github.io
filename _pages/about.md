@@ -31,7 +31,21 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 
 # 💬 Research teams
-- 
+- Miss. Daitianxia Li 
+- Mr. Zheng Wang
+- Mr. Qi Wei
+- Mr. Xinqiang Jiang
+- Mr. Zixuan Wu
+- Mr. Yongliang Yang
+- Mr. Jiancheng Zhou
+- Mr. Wei Zhang
+- Mr. Jiaqing Du
+- Miss. Qingyan Wang
+- Mr. Xinyang Li
+- Mr. Pan Sun
+- Miss. Xiaolin Zhou
+- Mr. Xuyang Zhou
+- Mr. Zhuoyi Yu
 
 # 💻 Alumni
 - Mr. Guanmeng Xian, Bachelor 2024 (MS@ Sichuan University)
