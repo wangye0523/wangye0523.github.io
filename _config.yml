@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ye Wang"
-description              : "Ye Wang"
+description              : #"Ye Wang"
 repository               : "wangye0523.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ye Wang"
+  name             : #"Ye Wang"
   avatar           : "images/20171116_234708.jpg"
-  bio              : "@Chongqing University of Posts and Telecommunications"
+  bio              : "@Department of Computer Science, Chongqing University of Posts and Telecommunications"
   location         : "Chongqing, China"
   employer         :
   pubmed           : 
