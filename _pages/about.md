@@ -22,7 +22,7 @@ I am a faculty member in the Computer Science Department at Chongqing University
 
 Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Education Commission's research program for returnees' entrepreneurship and innovation support, and projects funded by the Chongqing Municipal Education Commission. 
 
-I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=UNxKb0cAAAAJ'> Google Scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UNxKb0cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=UNxKb0cAAAAJ'> Google Scholar citations <strong><span id='total_cit'>200+</span></strong></a>.
 
 
 # 🔥 News
