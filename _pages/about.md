@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a faculty member in the Computer Science Department at Chongqing University of Posts and Telecommunications. My primary research focus is on natural language processing and multimodal fusion. With eight years of experience in the United States, I obtained my Ph.D. degree in Computer Engineering from <a href='https://www.tamu.edu/index.html'>Texas A&M University<strong> in 2019, along with a full scholarship. I also have worked in companies such as Samsung Research America and T-Mobile, participating in projects related to AI in 5G. Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Education Commission's research program for returnees' entrepreneurship and innovation support, and projects funded by the Chongqing Municipal Education Commission. I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=UNxKb0cAAAAJ'> Google Scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UNxKb0cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a faculty member in the Computer Science Department at Chongqing University of Posts and Telecommunications. My primary research focus is on natural language processing and multimodal fusion. With eight years of experience in the United States, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I also have worked in companies such as Samsung Research America and T-Mobile, participating in projects related to AI in 5G. Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Education Commission's research program for returnees' entrepreneurship and innovation support, and projects funded by the Chongqing Municipal Education Commission. I have published more than 20 papers at the top international journals and conferences with total <a href='https://scholar.google.com/citations?user=UNxKb0cAAAAJ'> Google Scholar citations <strong><span id='total_cit'>200+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UNxKb0cAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -27,17 +27,7 @@ I am a faculty member in the Computer Science Department at Chongqing University
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
