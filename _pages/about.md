@@ -17,7 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 I am a faculty member in the Department of Computer Science at Chongqing University of Posts and Telecommunications. My primary research focus is on natural language processing and multimodal fusion. With eight years of experience in the United States, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I also have worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/), participating in projects related to AI in 5G. 
 
 Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Innovation Support Program for Returning Overseas Students, and the Science and Technology Research Program of Chongqing Municipal Education Commission. 
@@ -78,6 +77,6 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 
- ![visitors](https://visitor-badge.glitch.me/badge?page id=wangye0523.github.io)
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=wangye0523.github.io)
 
 
