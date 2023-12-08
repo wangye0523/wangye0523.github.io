@@ -76,3 +76,8 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
 - M.Sc. Electrical Engineering, University of Texas at Dallas, Texas, United States. 2012.08 ~ 2014.05.
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
+
+
+ ![visitors](https://visitor-badge.glitch.me/badge?page id=wangye0523.github.io)
+
+
