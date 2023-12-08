@@ -1,12 +1,4 @@
-![image](https://github.com/wangye0523/wangye0523.github.io/assets/9684939/dfbce20e-e5ba-4ff8-82a9-14143a5acaa7)---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
