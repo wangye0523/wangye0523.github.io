@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ye Wang"
-description              : "Natural Language Processing, Multimodal Learning"
+description              : "@ Chongqing University of Posts and Telecommunications"
 repository               : "wangye0523.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ye Wang"
   avatar           : "images/20171116_234708.jpg"
-  bio              : "@Computer Science, Chongqing University of Posts and Telecommunications"
+  bio              : "Computer Science"
   location         : "Chongqing, China"
   employer         :
   pubmed           : 
