@@ -31,21 +31,21 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 
 # 💬 Research teams
-- Miss. Daitianxia Li 
-- Mr. Zheng Wang
-- Mr. Qi Wei
-- Mr. Xinqiang Jiang
-- Mr. Zixuan Wu
-- Mr. Yongliang Yang
-- Mr. Jiancheng Zhou
-- Mr. Wei Zhang
-- Mr. Jiaqing Du
-- Miss. Qingyan Wang
-- Mr. Xinyang Li
-- Mr. Pan Sun
-- Miss. Xiaolin Zhou
-- Mr. Xuyang Zhou
-- Mr. Zhuoyi Yu
+- Miss. Daitianxia Li (MS student)
+- Mr. Zheng Wang (MS student)
+- Mr. Qi Wei (MS student)
+- Mr. Xinqiang Jiang (MS student)
+- Mr. Zixuan Wu (MS student)
+- Mr. Yongliang Yang (MS student)
+- Mr. Jiancheng Zhou (MS student)
+- Mr. Wei Zhang (MS student)
+- Mr. Jiaqing Du (MS student)
+- Miss. Qingyan Wang (MS student)
+- Mr. Xinyang Li (MS student)
+- Mr. Pan Sun (MS student)
+- Miss. Xiaolin Zhou (MS student)
+- Mr. Xuyang Zhou (Undergraduate student)
+- Mr. Zhuoyi Yu (Undergraduate student)
 
 # 💻 Alumni
 - Mr. Guanmeng Xian, Bachelor 2024 (MS@ Sichuan University)
