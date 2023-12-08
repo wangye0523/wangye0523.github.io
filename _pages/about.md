@@ -77,6 +77,5 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZfuNYkVmlF9O1cz_sbg-2nplj6eYBUDFG-G6L75zZxM"></script>
-
+<a href="https://clustrmaps.com/site/1bxpb"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=ZfuNYkVmlF9O1cz_sbg-2nplj6eYBUDFG-G6L75zZxM&cl=ffffff" /></a>
 
