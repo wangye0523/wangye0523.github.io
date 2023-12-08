@@ -21,7 +21,7 @@ I am a faculty member in the Department of Computer Science at Chongqing Univers
 
 Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Innovation Support Program for Returning Overseas Students, and the Science and Technology Research Program of Chongqing Municipal Education Commission. 
 
-For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, Please refer to my [中文版](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
+For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥 News
 - *2023.11*: We won Best Paper Candidate from the 2023 IEEE International Symposium on Product Compliance Engineering-Asia ([ISPCE-AS2023](https://dl2link.com/ISPCE-AS2023/index.html)). 
