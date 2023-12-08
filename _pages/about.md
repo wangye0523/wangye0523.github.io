@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a faculty member in the Computer Science Department at Chongqing University of Posts and Telecommunications. My primary research focus is on natural language processing and multimodal fusion. With eight years of experience in the United States, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I also have worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/), participating in projects related to AI in 5G. 
+I am a faculty member in the Department of Computer Science at Chongqing University of Posts and Telecommunications. My primary research focus is on natural language processing and multimodal fusion. With eight years of experience in the United States, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I also have worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/), participating in projects related to AI in 5G. 
 
-Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Education Commission's research program for returnees' entrepreneurship and innovation support, and projects funded by the Chongqing Municipal Education Commission. 
+Since returning to China in 2020, I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists, the Chongqing Municipal Education Commission's research program for returnees' entrepreneurship and innovation support, and the Chongqing Municipal Education Commission. 
 
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). 
 
@@ -30,7 +30,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 
 
-# 💬 Research teams
+# 🏁 Research teams
 - Miss. Daitianxia Li (MS student)
 - Mr. Zheng Wang (MS student)
 - Mr. Qi Wei (MS student)
@@ -47,17 +47,14 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. Xuyang Zhou (Undergraduate student)
 - Mr. Zhuoyi Yu (Undergraduate student)
 
-# 💻 Alumni
+# 🎓 Alumni
 - Mr. Guanmeng Xian, Bachelor 2024 (MS@ Sichuan University)
 - Mr. Qi Cheng, Bachelor 2023 (MS@ University of Michigan, Ann Arbor)
 - Mr. Dongyu Xie, Bachelor 2023 (MS@ University of Electronic Science and Technology of China)
 - Miss. Xinyi Gao, Bachelor 2023 (MS@ University of Rochester)
 - Mr. Jingbo Liao, Master 2023 (Alibaba)
 - Mr. Qianmengke Zhao, Master 2023 (Chongqing Rural Commercial Bank)
-- Mr. Wenkang Lu, Master 2023 (Chang'an Technology)
-
-
-
+- Mr. Wenkang Lu, Master 2023 (Chang'an Tech)
 
 # 📖 Educations
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
