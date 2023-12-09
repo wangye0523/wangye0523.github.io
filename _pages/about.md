@@ -25,8 +25,9 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 # 🔥 News
 - *2023.11*: We won Best Paper Candidate from the 2023 IEEE International Symposium on Product Compliance Engineering-Asia ([ISPCE-AS2023](https://dl2link.com/ISPCE-AS2023/index.html)). 
+- *2023.09*: One paper was accepted by Applied Intelligence. [PDF](https://link.springer.com/article/10.1007/s10489-023-04942-5)
 - *2023.07*: We won 3rd prize in diabetes classification competition at the 2023 International Conference on Neural Computing for Advanced Applications ([NCAA-2023](https://www.dl2link.com/ncaa2023/)).
-- *2023.06*: One paper was accepted by Neural Computing and Applications. 
+- *2023.06*: One paper was accepted by Neural Computing and Applications. [PDF](https://link.springer.com/article/10.1007/s00521-023-08815-3)
 
 
 
