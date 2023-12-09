@@ -36,7 +36,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. Zheng Wang (MS student)
 - Mr. Qi Wei (MS student)
 - Mr. Xinqiang Jiang (MS student)
-- Mr. Zixuan Wu (MS student)
+- Mr. [Zixuan Wu](https://github.com/CQUPTWZX) (MS student)
 - Mr. [Yongliang Yang](https://asenniu.github.io/) (MS student)
 - Mr. Jiancheng Zhou (MS student)
 - Mr. Wei Zhang (MS student)
