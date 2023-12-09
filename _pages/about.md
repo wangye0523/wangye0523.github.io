@@ -24,7 +24,7 @@ Since returning to China in 2020, I have been the principal investigator (PI) of
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥 News
-- *2023.11*: Best Paper Candidate was awarded from the 2023 IEEE International Symposium on Product Compliance Engineering-Asia ([ISPCE-AS2023](https://dl2link.com/ISPCE-AS2023/index.html)). 
+- *2023.11*: The Best Paper Candidate was awarded from the 2023 IEEE International Symposium on Product Compliance Engineering-Asia ([ISPCE-AS2023](https://dl2link.com/ISPCE-AS2023/index.html)). 
 - *2023.09*: One paper was accepted by Applied Intelligence. [[paper]](https://link.springer.com/article/10.1007/s10489-023-04942-5)
 - *2023.07*: The 3rd prize was awarded in the diabetes classification competition at the 2023 International Conference on Neural Computing for Advanced Applications ([NCAA-2023](https://www.dl2link.com/ncaa2023/)).
 - *2023.06*: One paper was accepted by Neural Computing and Applications. [[paper]](https://link.springer.com/article/10.1007/s00521-023-08815-3)
