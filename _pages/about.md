@@ -67,9 +67,10 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Li Liu, Chongqing University of Posts and Telecommunications
 - Jiaxu Leng, Chongqing University of Posts and Telecommunications
 - Fei Tao, Amazon
-- Xinxiang Zhang, Southern Methodist University
-- William K. Cheung, Hong Kong Baptist University
-- Xiao Li, Oxford University
+- [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University
+- [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN), Hong Kong Baptist University
+- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University
+- [Lifeng Shen](https://www.lshenae.cn/), Hong Kong University of Science and Technology
 
 
 # 📖 Educations
