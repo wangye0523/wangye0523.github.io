@@ -68,7 +68,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - [Mi Lu](https://scholar.google.com/citations?user=crjEvpQAAAAJ&hl=en), Texas A&M University, United States.
 - [Yoonsuck Choe](https://scholar.google.com/citations?user=nFb_T4wAAAAJ&hl=en), Texas A&M University, United States.
 - [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en), Samsung Research America, United States.
-- - [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ), Amazon, United States.
+- [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ), Amazon, United States.
 - [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
 - [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University, United Kingdom.
 
