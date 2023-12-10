@@ -31,7 +31,6 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - *2023.05*: Interviewed by People's Education(《人民教育》). [[Link]](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html) 
 - *2023.03*: Interviewed by Chongqing Daily Newspaper(重庆日报新闻会客厅) about ChatGPT. [[Link]](https://v.douyin.com/i8Nre2Cx/) 
 
-
 # 🏁 Research teams
 - Miss. Daitianxia Li (MS student)
 - Mr. Zheng Wang (MS student)
@@ -72,7 +71,6 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN), Hong Kong Baptist University
 - [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University
 - [Lifeng Shen](https://www.lshenae.cn/), Hong Kong University of Science and Technology
-
 
 # 📖 Educations
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
