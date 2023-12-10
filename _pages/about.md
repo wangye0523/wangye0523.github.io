@@ -58,19 +58,20 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. [Guanmeng Xian](https://gmxian.github.io/), Bachelor 2024 (MS@ Sichuan University)
 
 # 🧑🏼‍🤝‍🧑🏻 Collaborator
-- [Mi Lu](https://scholar.google.com/citations?user=crjEvpQAAAAJ&hl=en), Texas A&M University, United States.
-- [Yoonsuck Choe](https://scholar.google.com/citations?user=nFb_T4wAAAAJ&hl=en), Texas A&M University, United States.
-- [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en), Samsung Research America, United States.
 - [Guoyin Wang](https://faculty.cqupt.edu.cn/wanggy/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
 - [Hong Yu](https://faculty.cqupt.edu.cn/yuhong/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
 - [Qun Liu](https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
 - [Li Liu](https://scholar.google.com/citations?user=uoNJ6goAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
 - [Jiaxu Leng](https://scholar.google.com/citations?user=KpX-CCcAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
-- [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ), Amazon, United States.
-- [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
 - [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN), Hong Kong Baptist University, Hong Kong, China.
-- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University, United Kingdom.
 - [Lifeng Shen](https://www.lshenae.cn/), Hong Kong University of Science and Technology, Hong Kong, China.
+- [Mi Lu](https://scholar.google.com/citations?user=crjEvpQAAAAJ&hl=en), Texas A&M University, United States.
+- [Yoonsuck Choe](https://scholar.google.com/citations?user=nFb_T4wAAAAJ&hl=en), Texas A&M University, United States.
+- [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en), Samsung Research America, United States.
+- - [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ), Amazon, United States.
+- [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
+- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University, United Kingdom.
+
 
 # 📖 Educations
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
