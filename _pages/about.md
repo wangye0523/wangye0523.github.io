@@ -63,8 +63,8 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - [Qun Liu](https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
 - [Li Liu](https://scholar.google.com/citations?user=uoNJ6goAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
 - [Jiaxu Leng](https://scholar.google.com/citations?user=KpX-CCcAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
-- [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN), Hong Kong Baptist University, Hong Kong, China.
-- [Lifeng Shen](https://www.lshenae.cn/), Hong Kong University of Science and Technology, Hong Kong, China.
+- [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN), Hong Kong Baptist University, Hong Kong SAR, China.
+- [Lifeng Shen](https://www.lshenae.cn/), Hong Kong University of Science and Technology, Hong Kong SAR, China.
 - [Mi Lu](https://scholar.google.com/citations?user=crjEvpQAAAAJ&hl=en), Texas A&M University, United States.
 - [Yoonsuck Choe](https://scholar.google.com/citations?user=nFb_T4wAAAAJ&hl=en), Texas A&M University, United States.
 - [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en), Samsung Research America, United States.
