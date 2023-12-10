@@ -53,7 +53,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. Jingbo Liao, Master 2023 (Alibaba)
 - Mr. Qianmengke Zhao, Master 2023 (Chongqing Rural Commercial Bank)
 - Mr. Wenkang Lu, Master 2023 (Chang'an Tech)
-- Mr. Qi Cheng, Bachelor 2023 (MS@ University of Michigan, Ann Arbor)
+- Mr. [Qi Cheng](https://www.linkedin.com/in/qi-cheng-4365a9249/), Bachelor 2023 (MS@ University of Michigan, Ann Arbor)
 - Mr. Dongyu Xie, Bachelor 2023 (MS@ University of Electronic Science and Technology of China)
 - Miss. Xinyi Gao, Bachelor 2023 (MS@ University of Rochester)
 - Mr. [Guanmeng Xian](https://gmxian.github.io/), Bachelor 2024 (MS@ Sichuan University)
