@@ -72,10 +72,9 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
 - [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University, United Kingdom.
 
-
 # 📖 Educations
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
-- M.Sc. Electrical Engineering, University of Texas at Dallas, Texas, United States. 2012.08 ~ 2014.05.
+- M.Sc. Electrical Engineering, The University of Texas at Dallas, Texas, United States. 2012.08 ~ 2014.05.
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 # 🌏 Others
