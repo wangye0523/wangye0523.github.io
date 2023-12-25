@@ -27,7 +27,6 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - *2024.01*: One paper was accepted by IEEE Transactions on Consumer Electronics.
 - *2023.11*: The Best Paper Candidate was awarded from the 2023 IEEE International Symposium on Product Compliance Engineering-Asia ([ISPCE-AS2023](https://dl2link.com/ISPCE-AS2023/index.html)). 
 - *2023.09*: One paper was accepted by Applied Intelligence. [[paper]](https://link.springer.com/article/10.1007/s10489-023-04942-5)
-- *2023.07*: The 3rd prize was awarded in the diabetes classification competition at the 2023 International Conference on Neural Computing for Advanced Applications ([NCAA-2023](https://www.dl2link.com/ncaa2023/)).
 - *2023.06*: One paper was accepted by Neural Computing and Applications. [[paper]](https://link.springer.com/article/10.1007/s00521-023-08815-3)
 - *2023.05*: Interviewed by People's Education(《人民教育》). [[Link]](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html) 
 - *2023.03*: Interviewed by Chongqing Daily Newspaper(重庆日报新闻会客厅) about ChatGPT. [[Link]](https://v.douyin.com/i8Nre2Cx/) 
