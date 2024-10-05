@@ -50,7 +50,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Miss. Jie Yang (MS student)
 - Mr. Haokun Ren (MS student)
 - Mr. Yahui Lei (MS student)
-- Mr. [Xuyang Zhou](tristanalkaid.github.io) (Undergraduate student)
+- Mr. [Xuyang Zhou](https://tristanalkaid.github.io) (Undergraduate student)
 - Mr. Zhuoyi Yu (Undergraduate student)
 
 # 🎓 Alumni
