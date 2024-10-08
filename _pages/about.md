@@ -39,7 +39,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. [Zixuan Wu](https://github.com/CQUPTWZX) (MS student)
 - Mr. [Yongliang Yang](https://asenniu.github.io/) (MS student)
 - Mr. Jiancheng Zhou (MS student)
-- Mr. [Wei Zhang](https://github.com/NLPAlchemist) (MS student) 
+- Mr. [Wei Zhang](https://github.com/NLPAlchemist) (MS student)
 - Mr. Jiaqing Du (MS student)
 - Miss. Qingyan Wang (MS student)
 - Mr. Xinyang Li (MS student)
