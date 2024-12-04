@@ -19,7 +19,11 @@ redirect_from:
 
 I am currently a faculty member in the Department of Computer Science at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) since March. 2020. My primary research interest is generative artificial intelligence, including natural language processing and multimodal learning. Before that, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I have also worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/), participating in projects related to AI in 5G. 
 
-I have been the principal investigator (PI) of various research projects, including the National Natural Science Foundation of China for Young Scientists（国自然青年项目）, the Chongqing Municipal Innovation Support Program for Overseas Returned Scholars（重庆市留学人员回国创新支持计划）, and the Science and Technology Research Program of Chongqing Municipal Education Commission（重庆市教委科研项目）. 
+I have been the Principal Investigator (PI) of various research projects, including:
+
+[National Natural Science Foundation of China for Young Scientists （国自然青年项目） ](https://www.nsfc.gov.cn/)
+Chongqing Municipal Innovation Support Program for Overseas Returned Scholars （重庆市留学人员回国创新支持计划）
+Science and Technology Research Program of Chongqing Municipal Education Commission （重庆市教委科研项目）
 
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
