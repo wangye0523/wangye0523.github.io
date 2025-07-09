@@ -24,6 +24,7 @@ I have been the Principal Investigator (PI) of various research projects, such a
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥 News
+- *2025.07*: One paper was accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI)
 - *2025.02*: One paper was accepted by Information Processing and Management: [[paper](https://github.com/TristanAlkaid/HCBS)]
 - *2024.12*: The Best Conference Paper was awarded from the The 17th International Conference on Brain Informatics: ([BI 2024](https://rdcu.be/edXQi))
 - *2024.09*: One paper was accepted by IEEE Transactions on Affective Computing: [[paper]](https://ieeexplore.ieee.org/abstract/document/10680310?casa_token=vcJgQz7-oOoAAAAA:aC1TU8fMzie06qcWov8N29Q5bDk7COkg8VwMmhZGSacbLCh0Rz0w8r8S9FUadoi8IMACLNxTbw)
