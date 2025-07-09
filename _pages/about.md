@@ -25,7 +25,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 # 🔥 News
 - *2025.07*: One paper was accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI). Chinese character structures and boundary features are leveraged to recognize unseen terms and confusing medical entities.
-- *2025.02*: One paper was accepted by Information Processing and Management. A hierarchical chat-based prompting strategy was proposed for MLLMs to improve spatio-temporal action detection in football by generating detailed, structured descriptions of fast-paced multi-player actions.: [[paper](https://github.com/TristanAlkaid/HCBS)]
+- *2025.02*: One paper was accepted by Information Processing and Management. A hierarchical chat-based prompting strategy was proposed for MLLMs to improve spatio-temporal action detection in football by generating detailed, structured descriptions of fast-paced multi-player actions: [[paper](https://github.com/TristanAlkaid/HCBS)]
 - *2024.12*: The Best Conference Paper was awarded from the The 17th International Conference on Brain Informatics: ([BI 2024](https://rdcu.be/edXQi))
 - *2024.09*: One paper was accepted by IEEE Transactions on Affective Computing: [[paper]](https://ieeexplore.ieee.org/abstract/document/10680310?casa_token=vcJgQz7-oOoAAAAA:aC1TU8fMzie06qcWov8N29Q5bDk7COkg8VwMmhZGSacbLCh0Rz0w8r8S9FUadoi8IMACLNxTbw)
 - *2024.08*: One paper was accepted by Artificial Intelligence Review: [[paper]](https://link.springer.com/article/10.1007/s10462-024-10891-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240816&utm_content=10.1007/s10462-024-10891-3)
