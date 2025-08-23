@@ -56,7 +56,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - Mr. [Yongliang Yang](https://asenniu.github.io/) (Tencent PCG)
 - Mr. Jiancheng Zhou (Mashang Consumer Finance)
 - Mr. [Wei Zhang](https://github.com/NLPAlchemist) (Ph.D.@ South China University of Technology)
-- Miss. Qingyan Wang (Mobvista)
+- Miss. [Qingyan Wang](https://github.com/WQYwqy123456/GCFA-123#) (Mobvista)
 - Mr. Xinyang Li (Chang'an)
 - Mr. Zhuoyi Yu (MS@ University of Electronic Science and Technology of China)
 - Mr. [Guanmeng Xian](https://gmxian.github.io/), Bachelor 2024 (MS@ Sichuan University)
