@@ -25,8 +25,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 # 🔥 News
 
-
-- *2025.09*: One paper was accepted by Information Fusion. GCFA is proposed to tackle long-tailed medical text classification by fusing LLM-generated head/tail features and a medical agent attention, improving tail-class performance via semantic diversity and term emphasis.
+- *2025.09*: One paper was accepted by Information Fusion. GCFA is proposed to tackle long-tailed medical text classification by fusing LLM-generated head/tail features and a medical agent attention, improving tail-class performance via semantic diversity and term emphasis: [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)]
 - *2025.09*: One paper was accepted by IEEE Transactions on Consumer Electronics. We develop CRMED, a medical dialogue generation model that leverages LLMs with continuous entity reasoning to capture relationships between medical entities in multi-turn conversations, significantly improving response quality for consumer health technology applications: [[paper](https://ieeexplore.ieee.org/document/11123515)]
 - *2025.08*: One paper was accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI). Chinese character structures and boundary features were leveraged to recognize unseen terms and confusing medical entities: [[paper](https://ieeexplore.ieee.org/document/11112630/authors)]
 - *2025.02*: One paper was accepted by Information Processing and Management. A hierarchical chat-based prompting strategy was proposed for MLLMs to improve spatio-temporal action detection in football by generating detailed, structured descriptions of fast-paced multi-player actions: [[paper](https://github.com/TristanAlkaid/HCBS)]
