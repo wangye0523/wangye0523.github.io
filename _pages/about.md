@@ -1,4 +1,4 @@
-<img width="919" height="108" alt="image" src="https://github.com/user-attachments/assets/9c57bba4-f27a-4c86-bcee-e09dca579cdf" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a faculty member in the Department of Artificial Intelligence at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) since March. 2020. My primary research interest is generative artificial intelligence, including natural language processing and multimodal learning. Before that, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I have also worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/). I have been the Principal Investigator (PI) of various research projects, such as [the National Natural Science Foundation of China for Young Scientists](https://www.nsfc.gov.cn/)（国自然青年项目）.
+I am currently a faculty member in the Department of Computer Science at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) since March. 2020. My primary research interest is generative artificial intelligence, including natural language processing and multimodal learning. Before that, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I have also worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/). I have been the Principal Investigator (PI) of various research projects, such as [the National Natural Science Foundation of China for Young Scientists](https://www.nsfc.gov.cn/)（国自然青年项目）.
 
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
