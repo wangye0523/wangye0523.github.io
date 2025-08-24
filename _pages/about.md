@@ -83,12 +83,12 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
 - [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University, United Kingdom.
 
-# 📖 Educations
+# 🏫 Educations
 - Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
 - M.Sc. Electrical Engineering, The University of Texas at Dallas, Texas, United States. 2012.08 ~ 2014.05.
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
-# 📖 Journal papers
+# 📋 Journal papers
 - [8] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation[J]. IEEE Transactions on Consumer Electronics. 2025 (SCI 2)						
 - [7] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification[J]. Information Fusion. 2025 (SCI 1)	 
 - [6] Ye Wang, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, Dajiang Lei*. Cross-Interaction of Chinese Characters Structures and Boundary Features for Improving Clinical Named Entity Recognition[J]. Journal of Biomedical and Health Informatics (JBHI). 2025 (SCI 1)						
@@ -98,7 +98,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - [2] Ye Wang, Qianmengke Zhao, Qun Liu*, Guoyin Wang, Hong Yu, Li Liu, and Jiaxu Leng. KDDGAN: Knowledge-guided explicit feature disentanglement for Facial Attribute Editing [J]. IEEE Transactions on Consumer Electronics (TCE). V70, pp. 2759-2772. Feb 2024 (SCI 2)						
 - [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM. Neurocomputing, Volume 385, Pages 340-347, 2020 (SCI 2)						
 
-# 📖 Conference papers
+# 📃 Conference papers
 - [4] Yan Xian, Hong Yu, Ye Wang, Guoyin Wang. A Novel Class Incremental Learning Method via Multi-granularity Balance Inspired by Human Granular Cognition Mechanism[C]. 2024 17th International Conference on Brain Informatics. 2024. (Best Conference Paper)
 - [3] XinQiang Jiang, YingNan Geng, Yinzhou Xiong, Fei Tao, Ye Wang. A Privacy-aware Framework for Assessing and Recommending Short Video Advertisement[C]. 2023 IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA). 2023. (Best Paper Candidate)
 - [2] Jiaxu Leng, Ye Wang. RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution[C]. 2022 IEEE International Conference on Multimedia and Expo (ICME). 2022 (CCF-B）
