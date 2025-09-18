@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ye Wang, Ph.D.
-School of Artificial Intelligence at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
+Ye Wang, School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
 
 Dr. Ye Wang received his Ph.D. in Computer Engineering from Texas A&M University. His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in leading journals, including IEEE Transactions on Affective Computing (TAC), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
 
