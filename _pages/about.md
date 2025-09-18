@@ -17,7 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a faculty member in the Department of Computer Science at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) since March. 2020. My primary research interest is generative artificial intelligence, including natural language processing and multimodal learning. Before that, I obtained my Ph.D. degree in Computer Engineering from [Texas A&M University](https://www.tamu.edu/index.html) in 2019, along with a full scholarship. I have also worked in companies such as [Samsung Research America](https://sra.samsung.com/) and [T-Mobile](https://www.t-mobile.com/). I have been the Principal Investigator (PI) of various research projects, such as [the National Natural Science Foundation of China for Young Scientists](https://www.nsfc.gov.cn/)（国自然青年项目）.
+Ye Wang, Ph.D.
+School of Artificial Intelligence at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
+
+Dr. Ye Wang received his Ph.D. in Computer Engineering from Texas A&M University. His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in leading journals, including IEEE Transactions on Affective Computing (TAC), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
+
+He has led research projects funded by the National Natural Science Foundation of China and provincial-level foundations. His work has been recognized with honors such as Best Paper Candidate at ISPCE-AS 2023 and Best Paper Award at the International Conference on Brain Informatics 2024. Before joining CQUPT, he worked as an AI researcher at Samsung Research America.
+
+Dr. Wang is also dedicated to student mentorship. His students have received national innovation program awards, top prizes in competitions such as the “Challenge Cup,” RoboCom, and the MCM/ICM. Many of his graduates now work at leading tech companies including Tencent, ByteDance, and Xiaohongshu, or continue their studies at top institutions such as the University of Michigan and Zhejiang University.
 
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
