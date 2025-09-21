@@ -19,16 +19,16 @@ redirect_from:
 
 Ye Wang, School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
 
-Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in top-tier journals, including IEEE Transactions on Affective Computing (TAC), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
+Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in top-tier journals, including IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
 
 He has led research projects funded by the National Natural Science Foundation of China and provincial-level foundations. His work has been recognized with honors such as Best Paper Candidate at ISPCE-AS 2023 and Best Paper Award at the International Conference on Brain Informatics 2024. Before joining CQUPT, he worked as a research scientist at [Samsung Research America](https://sra.samsung.com/).
 
-Dr. Wang is also dedicated to student mentorship. His students have received national innovation program awards, top prizes in competitions such as the “Challenge Cup,” RoboCom, and the MCM/ICM. Many of his graduates now work at leading tech companies including Tencent, ByteDance, and Xiaohongshu, or continue their studies at top institutions such as the University of Michigan and Zhejiang University.
+Dr. Wang is also dedicated to student mentorship. His students have received national innovation program awards, top prizes in competitions such as the Challenge Cup, RoboCom, and the MCM/ICM. Many of his graduates now work at leading tech companies including Tencent, ByteDance, and Xiaohongshu, or continue their studies at top universities such as the University of Michigan and Zhejiang University.
 
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥 News
-
+- *2025.09*: One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. A visual evidence-aware framework was presented that rectifies object hallucinations and restores missing content in LLM-based video captioning.
 - *2025.09*: One paper was accepted by Information Fusion. GCFA was proposed to tackle long-tailed medical text classification by fusing LLM-generated head/tail features and a medical agent attention, improving tail-class performance via semantic diversity and term emphasis: [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)]
 - *2025.09*: One paper was accepted by IEEE Transactions on Consumer Electronics. We developed CRMED, a medical dialogue generation model that leverages LLMs with continuous entity reasoning to capture relationships between medical entities in multi-turn conversations, significantly improving response quality for consumer health technology applications: [[paper](https://ieeexplore.ieee.org/document/11123515)]
 - *2025.08*: One paper was accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI). Chinese character structures and boundary features were leveraged to recognize unseen terms and confusing medical entities: [[paper](https://ieeexplore.ieee.org/document/11112630/authors)]
@@ -101,8 +101,9 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 # 📋 Journal papers
-- [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification[J]. Information Fusion, V126, Part B, 103639, February 2026. (SCI 1)
-- [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation[J]. IEEE Transactions on Consumer Electronics. 2025. (SCI 2)						
+- [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026. (SCI-1 Top, CCF-B)
+- [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, February 2026. (SCI 1)
+- [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation [J]. IEEE Transactions on Consumer Electronics. 2025. (SCI 2)					
 - [6] Ye Wang, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, Dajiang Lei*. Cross-Interaction of Chinese Characters Structures and Boundary Features for Improving Clinical Named Entity Recognition[J]. Journal of Biomedical and Health Informatics (JBHI). 2025. (SCI 1)						
 - [5] Xuyang Zhou, Ye Wang∗, Fei Tao, Hong Yu, Qun Liu. Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection [J].Information Processing and Management. V62, I4, 104094. 2025. (SCI 1)		
 - [4] Ye Wang, Wei Zhang, Ke Liu*, Wei Wu, Feng Hu, Hong Yu, Guoyin Wang. Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition [J]. IEEE Transactions on Affective Computing. V16, I2, pp 712-712. 2025. (SCI 1)						
