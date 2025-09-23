@@ -102,14 +102,14 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 # 📋 Journal papers
 - [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026. (SCI-1 Top, CCF-B)
-- [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, February 2026. (SCI 1)
+- [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, February 2026. (SCI-1 Top)
 - [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation [J]. IEEE Transactions on Consumer Electronics. 2025. (SCI 2)					
-- [6] Ye Wang, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, Dajiang Lei*. Cross-Interaction of Chinese Characters Structures and Boundary Features for Improving Clinical Named Entity Recognition[J]. Journal of Biomedical and Health Informatics (JBHI). 2025. (SCI 1)						
-- [5] Xuyang Zhou, Ye Wang∗, Fei Tao, Hong Yu, Qun Liu. Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection [J].Information Processing and Management. V62, I4, 104094. 2025. (SCI 1)		
-- [4] Ye Wang, Wei Zhang, Ke Liu*, Wei Wu, Feng Hu, Hong Yu, Guoyin Wang. Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition [J]. IEEE Transactions on Affective Computing. V16, I2, pp 712-712. 2025. (SCI 1)						
-- [3] Ye Wang, Zheng Wang, Hong Yu, Guoyin Wang* and Dajiang Lei*. The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition [J]. Artificial Intelligence Review. V57, I258, pp 1-21. 2024. (SCI 1)
+- [6] Ye Wang, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, Dajiang Lei*. Cross-Interaction of Chinese Characters Structures and Boundary Features for Improving Clinical Named Entity Recognition[J]. Journal of Biomedical and Health Informatics (JBHI). 2025. (SCI-1 Top)						
+- [5] Xuyang Zhou, Ye Wang∗, Fei Tao, Hong Yu, Qun Liu. Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection [J].Information Processing and Management. V62, I4, 104094. 2025. (SCI-1 Top, CCF-B)		
+- [4] Ye Wang, Wei Zhang, Ke Liu*, Wei Wu, Feng Hu, Hong Yu, Guoyin Wang. Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition [J]. IEEE Transactions on Affective Computing. V16, I2, pp 712-712. 2025. (SCI-1 Top, CCF-B)						
+- [3] Ye Wang, Zheng Wang, Hong Yu, Guoyin Wang* and Dajiang Lei*. The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition [J]. Artificial Intelligence Review. V57, I258, pp 1-21. 2024. (SCI-1 Top)
 - [2] Ye Wang, Qianmengke Zhao, Qun Liu*, Guoyin Wang, Hong Yu, Li Liu, and Jiaxu Leng. KDDGAN: Knowledge-guided explicit feature disentanglement for Facial Attribute Editing [J]. IEEE Transactions on Consumer Electronics (TCE). V70, pp. 2759-2772, Feb 2024. (SCI 2)						
-- [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM. Neurocomputing, V385, pp 340-347, 2020. (SCI 2)						
+- [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM. Neurocomputing, V385, pp 340-347, 2020. (SCI-2 Top)						
 
 # 📃 Conference papers
 - [4] Yan Xian, Hong Yu, Ye Wang, Guoyin Wang. A Novel Class Incremental Learning Method via Multi-granularity Balance Inspired by Human Granular Cognition Mechanism[C]. 2024 17th International Conference on Brain Informatics, pp 375–387, Bangkok, Thailand, 2024. (Best Conference Paper)
