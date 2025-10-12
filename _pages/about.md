@@ -59,8 +59,8 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 
 # 🎓 Alumni
 - Mr. [Yongliang Yang](https://asenniu.github.io/) (Tencent PCG)
-- Mr. Jiancheng Zhou (Mashang Consumer Finance)
-- Mr. [Wei Zhang](https://github.com/NLPAlchemist) (Ph.D.@ South China University of Technology)
+- Mr. [Jiancheng Zhou](https://github.com/no-zjc/VEaCap) (Mashang Consumer Finance)
+- Mr. [Wei Zhang](https://github.com/ZhangW1212) (Ph.D.@ South China University of Technology)
 - Miss. [Qingyan Wang](https://github.com/WQYwqy123456/GCFA-123#) (Mobvista)
 - Mr. [Xinyang Li](https://github.com/xinyang183/CRMED) (Chang'an)
 - Mr. Zhuoyi Yu (MS@ University of Electronic Science and Technology of China)
