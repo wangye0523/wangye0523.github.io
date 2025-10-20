@@ -19,13 +19,14 @@ redirect_from:
 
 Ye Wang, School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
 
-Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in top-tier journals, including IEEE Transactions on Affective Computing (TAC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
+Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in top-tier journals, including IEEE Transactions on Affective Computing (TAFFC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
 
 He has led research projects funded by the National Natural Science Foundation of China and provincial-level foundations. His work has been recognized with honors such as Best Paper Candidate at ISPCE-AS 2023 and Best Paper Award at the International Conference on Brain Informatics 2024. Before joining CQUPT, he worked as a research scientist at [Samsung Research America](https://sra.samsung.com/).
 
 Dr. Wang is also dedicated to student mentorship. His students have received national innovation program awards, top prizes in competitions such as the Challenge Cup, RoboCom, and the MCM/ICM. Many of his graduates now work at leading tech companies including Tencent, ByteDance, and Xiaohongshu, or continue their studies at top universities such as the University of Michigan and Zhejiang University.
 
-For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN).  <br />  For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
+For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). 
+For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥News 
 - *2025.09*: One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. A visual evidence-aware framework was presented that rectifies object hallucinations and restores missing content in LLM-based video captioning: [[paper](https://ieeexplore.ieee.org/document/11177574)][[code](https://github.com/no-zjc/VEaCap)]
