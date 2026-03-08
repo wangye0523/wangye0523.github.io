@@ -98,10 +98,10 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 # 📋 Journal papers
-- [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2026. (SCI-1 Top, CCF-B)
+- [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), V36, I3, pp. 2842-2853, 2026. (SCI-1 Top, CCF-B)
 - [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, 2026. (SCI-1 Top)
 - [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation [J]. IEEE Transactions on Consumer Electronics. V71, I4, pp. 10681-10694, 2025. (SCI 2)
-- [6] Ye Wang, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, Dajiang Lei*. Cross-Interaction of Chinese Characters Structures and Boundary Features for Improving Clinical Named Entity Recognition[J]. Journal of Biomedical and Health Informatics (JBHI). V29, I11, pp. 8508-8521, 2025. (SCI-1 Top)						
+- [6] Ye Wang, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, Dajiang Lei*. Cross-Interaction of Chinese Characters Structures and Boundary Features for Improving Clinical Named Entity Recognition [J]. IEEE Journal of Biomedical and Health Informatics (JBHI). V29, I11, pp. 8508-8521, 2025. (SCI-1 Top)						
 - [5] Xuyang Zhou, Ye Wang∗, Fei Tao, Hong Yu, Qun Liu. Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection [J].Information Processing and Management. V62, I4, 104094. 2025. (SCI-1 Top, CCF-B)		
 - [4] Ye Wang, Wei Zhang, Ke Liu*, Wei Wu, Feng Hu, Hong Yu, Guoyin Wang. Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition [J]. IEEE Transactions on Affective Computing. V16, I2, pp. 712-712. 2025. (SCI-1 Top, CCF-B)						
 - [3] Ye Wang, Zheng Wang, Hong Yu, Guoyin Wang* and Dajiang Lei*. The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition [J]. Artificial Intelligence Review. V57, I258, pp. 1-21. 2024. (SCI-1 Top)
@@ -109,11 +109,11 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM. Neurocomputing, V385, pp 340-347, 2020. (SCI-2 Top)						
 
 # 📃 Conference papers
-- [5] Wenbo Wu, Qingyi Si, Xiurui Pan, Ye Wang, Jie Zhang. LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences[C]. 2026 International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026.
-- [4] Yan Xian, Hong Yu, Ye Wang, Guoyin Wang. A Novel Class Incremental Learning Method via Multi-granularity Balance Inspired by Human Granular Cognition Mechanism[C]. 2024 International Conference on Brain Informatics, pp 375–387, Bangkok, Thailand, 2024. (Best Conference Paper)
-- [3] XinQiang Jiang, YingNan Geng, Yinzhou Xiong, Fei Tao, Ye Wang. A Privacy-aware Framework for Assessing and Recommending Short Video Advertisement[C]. 2023 IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA), pp 1-7, Shanghai, China, 2023. (Best Paper Candidate)
-- [2] Jiaxu Leng, Ye Wang. RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution[C]. 2022 IEEE International Conference on Multimedia and Expo (ICME), pp 1-6, Taipei, Taiwan, 2022. (CCF-B）
-- [1] Ye Wang, Han Wang, Xinxiang Zhang, Theodora Chaspari, Yoonsuck Choe, Mi Lu, An attention-aware bidirectional multi-residual recurrent neural network (abmrnn): A study about better short-term text classification[C]. 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp 3582-3586, Brighton, UK, 2019. (CCF-B)						
+- [5] Wenbo Wu, Qingyi Si, Xiurui Pan, Ye Wang, Jie Zhang. LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences [C]. 2026 International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026. (CCF-A)
+- [4] Yan Xian, Hong Yu, Ye Wang, Guoyin Wang. A Novel Class Incremental Learning Method via Multi-granularity Balance Inspired by Human Granular Cognition Mechanism [C]. 2024 International Conference on Brain Informatics, pp 375–387, Bangkok, Thailand, 2024. (Best Conference Paper)
+- [3] XinQiang Jiang, YingNan Geng, Yinzhou Xiong, Fei Tao, Ye Wang. A Privacy-aware Framework for Assessing and Recommending Short Video Advertisement [C]. 2023 IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA), pp 1-7, Shanghai, China, 2023. (Best Paper Candidate)
+- [2] Jiaxu Leng, Ye Wang. RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution [C]. 2022 IEEE International Conference on Multimedia and Expo (ICME), pp 1-6, Taipei, Taiwan, 2022. (CCF-B）
+- [1] Ye Wang, Han Wang, Xinxiang Zhang, Theodora Chaspari, Yoonsuck Choe, Mi Lu, An attention-aware bidirectional multi-residual recurrent neural network (abmrnn): A study about better short-term text classification [C]. 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp 3582-3586, Brighton, UK, 2019. (CCF-B)						
 						
 # 🌏 Global attention
 <div align=center> <a href='https://clustrmaps.com/site/1bxpb'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=292828&w=a&t=tt&d=ZfuNYkVmlF9O1cz_sbg-2nplj6eYBUDFG-G6L75zZxM&co=ffffff&ct=ffffff'/></a></div> 
