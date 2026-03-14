@@ -98,6 +98,7 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 # 📋 Journal papers
+- [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing. 2026. (SCI-1 Top, CCF-B)
 - [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), V36, I3, pp. 2842-2853, 2026. (SCI-1 Top, CCF-B)
 - [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, 2026. (SCI-1 Top)
 - [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation [J]. IEEE Transactions on Consumer Electronics. V71, I4, pp. 10681-10694, 2025. (SCI 2)
@@ -106,7 +107,7 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - [4] Ye Wang, Wei Zhang, Ke Liu*, Wei Wu, Feng Hu, Hong Yu, Guoyin Wang. Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition [J]. IEEE Transactions on Affective Computing. V16, I2, pp. 712-712. 2025. (SCI-1 Top, CCF-B)						
 - [3] Ye Wang, Zheng Wang, Hong Yu, Guoyin Wang* and Dajiang Lei*. The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition [J]. Artificial Intelligence Review. V57, I258, pp. 1-21. 2024. (SCI-1 Top)
 - [2] Ye Wang, Qianmengke Zhao, Qun Liu*, Guoyin Wang, Hong Yu, Li Liu, and Jiaxu Leng. KDDGAN: Knowledge-guided explicit feature disentanglement for Facial Attribute Editing [J]. IEEE Transactions on Consumer Electronics (TCE). V70, I1, pp. 2759-2772, Feb 2024. (SCI 2)						
-- [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM. Neurocomputing, V385, pp 340-347, 2020. (SCI-2 Top)						
+- [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM [J]. Neurocomputing, V385, pp 340-347, 2020. (SCI-2 Top)						
 
 # 📃 Conference papers
 - [5] Wenbo Wu, Qingyi Si, Xiurui Pan, Ye Wang, Jie Zhang. LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences [C]. 2026 International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026. (CCF-A)
