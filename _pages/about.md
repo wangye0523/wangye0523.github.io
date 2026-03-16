@@ -1,6 +1,6 @@
 ---
-title: "About"
-date: 2026-03-16T14:39:20Z
+layout: page
+title: About
 ---
 
-This is the about page content. Feel free to update it with more information about yourself or your project.
+Ye Wang is a highly skilled professional with expertise in software development, data analysis, and project management. He has a strong background in computer science and a passion for leveraging technology to solve complex problems. Ye is recognized for his innovative thinking and ability to work effectively in team settings. His contributions have made a significant impact on various projects and organizations, showcasing his dedication to excellence in his field.
