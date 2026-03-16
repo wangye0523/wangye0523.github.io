@@ -25,7 +25,7 @@ He has led research projects funded by the National Natural Science Foundation o
 
 Dr. Wang is also dedicated to student mentorship. His students have received national innovation program awards, top prizes in competitions such as the Challenge Cup, RoboCom, and the MCM/ICM. Many of his graduates now work at leading tech companies including Tencent, ByteDance, and Xiaohongshu, or continue their studies at top universities such as the University of Michigan and Zhejiang University.
 
-For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). 
+For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). <br>
 For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥News 
