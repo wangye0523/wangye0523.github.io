@@ -20,7 +20,7 @@ redirect_from:
 
 Ye Wang, School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
 
-Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in top-tier journals, including IEEE Transactions on Affective Computing (TAFFC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
+Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in top-tier journals, including IEEE Transactions on Affective Computing (TAFFC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Journal of Biomedical and Health Informatics (J-BHI), IEEE Transactions on Consumer Electronics (TCE), Information Fusion, and Information Processing & Management.
 
 He has led research projects funded by the National Natural Science Foundation of China and provincial-level foundations. His work has been recognized with honors such as Best Paper Candidate at ISPCE-AS 2023 and Best Paper Award at the International Conference on Brain Informatics 2024. Before joining CQUPT, he worked as a research scientist at [Samsung Research America](https://sra.samsung.com/).
 
@@ -100,7 +100,6 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 # 📋 Journal papers
-- [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing. 2026. (SCI-1 Top, CCF-B)
 - [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing (TASLP). 2026. (SCI-1 Top, CCF-B)
 - [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), V36, I3, pp. 2842-2853, 2026. (SCI-1 Top, CCF-B)
 - [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, 2026. (SCI-1 Top)
