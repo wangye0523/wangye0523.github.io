@@ -30,6 +30,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥News 
+- *2026.04*: One paper was accepted by IEEE Transactions on Image Processing (TIP). **HCFace** uses hierarchical causal learning to disentangle facial attributes for age synthesis, improving age accuracy by **2.47%** and particular attribute editing by **9.69%**: [[paper]](https://ieeexplore.ieee.org/document/xxxx)[[code]](https://github.com/SE-hash/HCFace)
 - *2026.03*: One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses imbalanced sequence learning with sequential expert specialization and Dempster-Shafer theory-based uncertainty fusion, reducing trainable parameters by up to 10.32%:  [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)][[code]( https://github.com/CQUPTWZX/Multi-experts)]
 - *2026.01*: One paper was accepted by the 2026 International Conference on Learning Representations (ICLR). LouisKV is proposed, which efficiently retrieves KV cache at semantic boundaries, boosting long-sequence reasoning performance by up to 4.7x: [[paper](https://openreview.net/forum?id=6RJ8fZwm4P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))]
 - *2025.09*: One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. A visual evidence-aware framework was presented that rectifies object hallucinations and restores missing content in LLM-based video captioning: [[paper](https://ieeexplore.ieee.org/document/11177574)][[code](https://github.com/no-zjc/VEaCap)]
@@ -100,7 +101,8 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 # 📋 Journal papers
-- [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing (TASLP). 2026. (SCI-1 Top, CCF-B)
+- [11] Ye Wang, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, Hong Yu*. Hierarchical Causal Learning for Face Age Synthesis [J]. IEEE Transactions on Image Processing (TIP). 2026. (SCI-1 Top, CCF-A)
+- [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu*, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing (TASLP). 2026. (SCI-1 Top, CCF-B)
 - [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), V36, I3, pp. 2842-2853, 2026. (SCI-1 Top, CCF-B)
 - [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, 2026. (SCI-1 Top)
 - [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation [J]. IEEE Transactions on Consumer Electronics. V71, I4, pp. 10681-10694, 2025. (SCI 2)
