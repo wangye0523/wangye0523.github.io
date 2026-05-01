@@ -20,7 +20,7 @@ redirect_from:
 
 Ye Wang, School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
 
-Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal dialogue generation, intention reasoning, and affective computing. He has published widely in top-tier journals, including IEEE Transactions on Image Processing (TIP), IEEE Transactions on Affective Computing (TAFFC), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Audio, Speech, and Language Processing (TASLP), IEEE Journal of Biomedical and Health Informatics (J-BHI), and IEEE Transactions on Consumer Electronics (TCE).
+Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal content generation, intention reasoning, and affective computing. He has published widely in top-tier journals and conferences, including TIP, TAFFC, TCSVT, TASLP, ICML, and ICLR.
 
 He has led research projects funded by the National Natural Science Foundation of China and provincial-level foundations. His work has been recognized with honors such as Best Paper Candidate at ISPCE-AS 2023 and Best Paper Award at the International Conference on Brain Informatics 2024. Before joining CQUPT, he worked as a research scientist at [Samsung Research America](https://sra.samsung.com/).
 
@@ -30,6 +30,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥News 
+- *2026.04*: One paper was accepted as a Spotlight paper at the 43rd International Conference on Machine Learning (ICML 2026, Top 2.2%). AGREE advances human–AI aesthetic preference alignment by revealing and mitigating gradient conflict among multiple aesthetic attributes in image aesthetic assessment: [paper_TBD][code_TBD]
 - *2026.04*: One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to reveal layered dependencies and nonlinear patterns among age-related facial attributes, reducing feature interference in face age synthesis: [[paper TBD]]()[[code]](https://github.com/SE-hash/HCFace)
 - *2026.03*: One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses imbalanced sequence learning with sequential expert specialization and Dempster-Shafer theory-based uncertainty fusion, reducing trainable parameters by up to 10.32%:  [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)][[code]( https://github.com/CQUPTWZX/Multi-experts)]
 - *2026.01*: One paper was accepted by the 2026 International Conference on Learning Representations (ICLR). LouisKV is proposed, which efficiently retrieves KV cache at semantic boundaries, boosting long-sequence reasoning performance by up to 4.7x: [[paper](https://openreview.net/forum?id=6RJ8fZwm4P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))]
@@ -46,7 +47,7 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 # 🏁 Research teams
 - Mr. [Xuyang Zhou](https://tristanalkaid.github.io) (Ph.D. student)
 - Mr. [Zixuan Wu](https://github.com/CQUPTWZX) (Ph.D. student)
-- Mr. Pan Sun (MS student)
+- Mr. [Pan Sun](https://github.com/SE-hash/HCFace) (MS student)
 - Miss. Xiaolin Zhou (MS student)
 - Mr. Maocai Dai (MS student)
 - Miss. Hongbing Chen (MS student)
@@ -114,6 +115,7 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM [J]. Neurocomputing, V385, pp 340-347, 2020. (SCI-2 Top)						
 
 # 📃 Conference papers
+- [6] Ye Wang, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, Hong Yu. When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment [C]. International Conference on Machine Learning (ICML), Seoul, South Korea. 2026. (CCF-A, Spotlight)
 - [5] Wenbo Wu, Qingyi Si, Xiurui Pan, Ye Wang, Jie Zhang. LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences [C]. 2026 International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026. (CCF-A)
 - [4] Yan Xian, Hong Yu, Ye Wang, Guoyin Wang. A Novel Class Incremental Learning Method via Multi-granularity Balance Inspired by Human Granular Cognition Mechanism [C]. 2024 International Conference on Brain Informatics, pp 375–387, Bangkok, Thailand, 2024. (Best Conference Paper)
 - [3] XinQiang Jiang, YingNan Geng, Yinzhou Xiong, Fei Tao, Ye Wang. A Privacy-aware Framework for Assessing and Recommending Short Video Advertisement [C]. 2023 IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA), pp 1-7, Shanghai, China, 2023. (Best Paper Candidate)
