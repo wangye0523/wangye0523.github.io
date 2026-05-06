@@ -17,16 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Ye Wang is an Associate Professor at the School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). Before joining CQUPT, he worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
 
-Ye Wang, School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/).
+His research focuses on multimodal content understanding, generation, and reasoning, with an emphasis on modeling human intentions, emotions, and preferences. He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TCSVT, IEEE TASLP, ICML, and ICLR.
 
-Dr. Wang received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). His research focuses on natural language processing, particularly multimodal content generation, intention reasoning, and affective computing. He has published widely in top-tier journals and conferences, including TIP, TAFFC, TCSVT, TASLP, ICML, and ICLR.
+Dr. Wang has led projects supported by the National Natural Science Foundation of China and provincial-level research programs. His research has been recognized with several honors, including a Spotlight paper at ICML 2026, the Best Paper Award at the International Conference on Brain Informatics 2024, and Best Paper Candidate at IEEE ISPCE-AS 2023.
 
-He has led research projects funded by the National Natural Science Foundation of China and provincial-level foundations. His work has been recognized with honors such as Best Paper Candidate at ISPCE-AS 2023 and Best Paper Award at the International Conference on Brain Informatics 2024. Before joining CQUPT, he worked as a research scientist at [Samsung Research America](https://sra.samsung.com/).
-
-Dr. Wang is also dedicated to student mentorship. His students have received national innovation program awards, top prizes in competitions such as the Challenge Cup, RoboCom, and the MCM/ICM. Many of his graduates now work at leading tech companies including Tencent, ByteDance, and Xiaohongshu, or continue their studies at top universities such as the University of Michigan and Zhejiang University.
+Beyond research, he is actively involved in student mentorship. His students have received national innovation awards and major competition prizes in the Challenge Cup, RoboCom, and the MCM/ICM. Many of his graduates have joined leading technology companies, including Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities such as the University of Michigan and Zhejiang University.
 
 For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). 
+
 For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥News 
