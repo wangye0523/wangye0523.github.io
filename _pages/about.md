@@ -30,7 +30,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥News 
-- *2026.05*: One paper was accepted as a Spotlight paper at the 43rd International Conference on Machine Learning (ICML 2026, Top 2.2%). AGREE advances human–AI aesthetic preference alignment by revealing and mitigating gradient conflict among multiple aesthetic attributes in image aesthetic assessment: [paper_TBD][[code]](https://github.com/Dahat364/When-Attributes-Disagree)
+- *2026.05*: One paper was accepted as a Spotlight paper at the 43rd International Conference on Machine Learning (ICML 2026, Top 2.2%). AGREE advances human–AI aesthetic preference alignment by revealing and mitigating gradient conflict among multiple aesthetic attributes in image aesthetic assessment: [paper_TBD][[code]](https://github.com/Dahat364/AGREE)
 - *2026.04*: One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to reveal layered dependencies and nonlinear patterns among age-related facial attributes, reducing feature interference in face age synthesis: [[paper](https://ieeexplore.ieee.org/document/11511429)][[code]](https://github.com/SE-hash/HCFace)
 - *2026.03*: One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses imbalanced sequence learning with sequential expert specialization and Dempster-Shafer theory-based uncertainty fusion, reducing trainable parameters by up to 10.32%:  [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)][[code]( https://github.com/CQUPTWZX/Multi-experts)]
 - *2026.01*: One paper was accepted by the 2026 International Conference on Learning Representations (ICLR). LouisKV is proposed, which efficiently retrieves KV cache at semantic boundaries, boosting long-sequence reasoning performance by up to 4.7x: [[paper](https://openreview.net/forum?id=6RJ8fZwm4P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))]
@@ -49,7 +49,7 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - Mr. [Zixuan Wu](https://github.com/CQUPTWZX) (Ph.D. student)
 - Mr. [Pan Sun](https://github.com/SE-hash/HCFace) (MS student)
 - Miss. Xiaolin Zhou (MS student)
-- Mr. [Maocai Dai](https://github.com/Dahat364/When-Attributes-Disagree) (MS student)
+- Mr. [Maocai Dai](https://github.com/Dahat364) (MS student)
 - Miss. Hongbing Chen (MS student)
 - Miss. Jie Yang (MS student)
 - Mr. Haokun Ren (MS student)
