@@ -49,7 +49,7 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - Mr. [Zixuan Wu](https://github.com/CQUPTWZX) (Ph.D. student)
 - Mr. [Pan Sun](https://github.com/SE-hash/HCFace) (MS student)
 - Miss. Xiaolin Zhou (MS student)
-- Mr. Maocai Dai (MS student)
+- Mr. [Maocai Dai](https://github.com/Dahat364/When-Attributes-Disagree) (MS student)
 - Miss. Hongbing Chen (MS student)
 - Miss. Jie Yang (MS student)
 - Mr. Haokun Ren (MS student)
