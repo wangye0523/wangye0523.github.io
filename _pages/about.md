@@ -38,14 +38,14 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - *2025.09*: One paper was accepted by Information Fusion. GCFA was proposed to tackle long-tailed medical text classification by fusing LLM-generated head/tail features and a medical agent attention, improving tail-class performance via semantic diversity and term emphasis: [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)][[code](https://github.com/WQYwqy123456/GCFA-123#)]
 - *2025.09*: One paper was accepted by IEEE Transactions on Consumer Electronics. We developed CRMED, a medical dialogue generation model that leverages LLMs with continuous entity reasoning to capture relationships between medical entities in multi-turn conversations, significantly improving response quality for consumer health technology applications: [[paper](https://ieeexplore.ieee.org/document/11123515)][[code](https://github.com/xinyang183/CRMED)]
 - *2025.08*: One paper was accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI). Chinese character structures and boundary features were leveraged to recognize unseen terms and confusing medical entities: [[paper](https://ieeexplore.ieee.org/document/11112630/authors)][[code](https://github.com/jl7650/CCS.git)]
-- *2025.02*: One paper was accepted by Information Processing and Management. A hierarchical chat-based prompting strategy was proposed for MLLMs to improve spatio-temporal action detection in football by generating detailed, structured descriptions of fast-paced multi-player actions: [[paper](https://github.com/TristanAlkaid/HCBS)][[code](https://tristanalkaid.github.io/)]
+- *2025.02*: One paper was accepted by Information Processing and Management. A hierarchical chat-based prompting strategy was proposed for MLLMs to improve spatio-temporal action detection in football by generating detailed, structured descriptions of fast-paced multi-player actions: [[paper](https://doi.org/10.1016/j.ipm.2025.104094)][[code](https://github.com/LeopoldSimmons/HCBS)]
 - *2024.12*: The Best Conference Paper was awarded from the The 17th International Conference on Brain Informatics. To address catastrophic forgetting in class incremental learning, we introduced a multi-granularity balance strategy that combines batch-level weighted loss, task-level contrastive learning, and decision-level knowledge distillation: ([BI 2024](https://rdcu.be/edXQi))
 - *2024.09*: One paper was accepted by IEEE Transactions on Affective Computing. DEDNet was proposed, which improves multimodal emotion recognition in conversations by disentangling inter-/intra-speaker emotional dependencies via relational subgraphs and incremental interaction: [[paper]](https://ieeexplore.ieee.org/abstract/document/10680310?casa_token=vcJgQz7-oOoAAAAA:aC1TU8fMzie06qcWov8N29Q5bDk7COkg8VwMmhZGSacbLCh0Rz0w8r8S9FUadoi8IMACLNxTbw)[[code](https://github.com/ZhangW1212)]
 
 
 
 # 🏁 Research teams
-- Mr. [Xuyang Zhou](https://tristanalkaid.github.io) (Ph.D. student)
+- Mr. [Xuyang Zhou](https://leopoldsimmons.github.io/) (Ph.D. student)
 - Mr. [Zixuan Wu](https://github.com/CQUPTWZX) (Ph.D. student)
 - Mr. [Pan Sun](https://github.com/SE-hash/HCFace) (MS student)
 - Miss. Xiaolin Zhou (MS student)
