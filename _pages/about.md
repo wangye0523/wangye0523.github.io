@@ -108,7 +108,7 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 
 # 📋 Journal papers
 - [11] Ye Wang, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, Hong Yu*. Hierarchical Causal Learning for Face Age Synthesis [J]. IEEE Transactions on Image Processing (TIP). 2026. (SCI-1 Top, CCF-A)
-- [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu*, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing (TASLP). 2026. (SCI-1 Top, CCF-B)
+- [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu*, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing (TASLP), V34, pp. 1802-1814. 2026. (SCI-1 Top, CCF-B)
 - [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), V36, I3, pp. 2842-2853, 2026. (SCI-1 Top, CCF-B)
 - [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, 2026. (SCI-1 Top)
 - [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation [J]. IEEE Transactions on Consumer Electronics. V71, I4, pp. 10681-10694, 2025. (SCI 2)
