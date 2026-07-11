@@ -121,7 +121,8 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM [J]. Neurocomputing, V385, pp 340-347, 2020. (SCI-2 Top)						
 
 # 📃 Conference papers
-- [6] Ye Wang, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, Hong Yu. When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment [C]. International Conference on Machine Learning (ICML), Seoul, South Korea. 2026. (CCF-A, Spotlight, Top 2.2%)
+- [7] Ye Wang, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, Hong Yu. When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment [C]. International Conference on Machine Learning (ICML), Seoul, South Korea. 2026. (CCF-A, Spotlight, Top 2.2%)
+- [6] Tingting Lei, Yifan Zhu, Runxi Zhang, Feng Hu, Hong Yu, and Ye Wang, NLG-Gen: Natural Language-Guided Generation of Long-Tail Critical Scenarios for Autonomous Driving [C]. 2026 International Conference on Neural Computing for Advanced Applications (NCAA), Osaka, Japan. (Best Student Paper Award)
 - [5] Wenbo Wu, Qingyi Si, Xiurui Pan, Ye Wang, Jie Zhang. LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences [C]. 2026 International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026. (CCF-A)
 - [4] Yan Xian, Hong Yu, Ye Wang, Guoyin Wang. A Novel Class Incremental Learning Method via Multi-granularity Balance Inspired by Human Granular Cognition Mechanism [C]. 2024 International Conference on Brain Informatics, pp 375–387, Bangkok, Thailand, 2024. (Best Conference Paper)
 - [3] XinQiang Jiang, YingNan Geng, Yinzhou Xiong, Fei Tao, Ye Wang. A Privacy-aware Framework for Assessing and Recommending Short Video Advertisement [C]. 2023 IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA), pp 1-7, Shanghai, China, 2023. (Best Paper Candidate)
