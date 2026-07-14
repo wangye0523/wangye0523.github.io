@@ -21,7 +21,7 @@ Ye Wang is an Associate Professor at the School of Artificial Intelligence, [Cho
 
 His research focuses on multimodal content understanding, generation, and reasoning, with an emphasis on modeling human intentions, emotions, and preferences. He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TCSVT, IEEE TASLP, ICML, and ICLR.
 
-Dr. Wang has led projects supported by the National Natural Science Foundation of China and provincial-level research programs. His research has been recognized with several honors, including a Spotlight paper at ICML 2026, the Best Paper Award at the International Conference on Brain Informatics 2024, and Best Paper Candidate at IEEE ISPCE-AS 2023.
+Dr. Wang has led projects supported by the National Natural Science Foundation of China and provincial-level research programs. His research has been recognized with several honors, including a Spotlight paper at ICML 2026, the Best Student Paper Award at NCAA 2026, the Best Paper Award at the International Conference on Brain Informatics 2024, and Best Paper Candidate at IEEE ISPCE-AS 2023.
 
 Beyond research, he is actively involved in student mentorship. His students have received national innovation awards and major competition prizes in the Challenge Cup, RoboCom, and the MCM/ICM. Many of his graduates have joined leading technology companies, including Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities such as the University of Michigan and Zhejiang University.
 
