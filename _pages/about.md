@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ye Wang is an Associate Professor at the School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). Before joining CQUPT, he worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
+Ye Wang is an Associate Professor at the School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) (CQUPT). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). Before joining CQUPT, he worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
 
 His research focuses on multimodal content understanding, generation, and reasoning, with an emphasis on modeling human intentions, emotions, and preferences. He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TCSVT, IEEE TASLP, ICML, and ICLR.
 
