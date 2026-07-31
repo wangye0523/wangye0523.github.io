@@ -19,7 +19,7 @@ redirect_from:
 
 Ye Wang is an Associate Professor at the School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) (CQUPT). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). Before joining CQUPT, he worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
 
-His research focuses on multimodal content understanding, generation, and reasoning, with an emphasis on modeling human intentions, emotions, and preferences. He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TCSVT, IEEE TASLP, ICML, and ICLR.
+His research focuses on multimodal content understanding, generation, and reasoning, with an emphasis on modeling human intentions, emotions, and preferences. He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, ICML, and ICLR.
 
 Dr. Wang has led projects supported by the National Natural Science Foundation of China and provincial-level research programs. His research has been recognized with several honors, including a Spotlight paper at ICML 2026, the Best Student Paper Award at NCAA 2026, the Best Paper Award at the International Conference on Brain Informatics 2024, and Best Paper Candidate at IEEE ISPCE-AS 2023.
 
@@ -30,6 +30,7 @@ For detailed research papers, please refer to my [Google Scholar](https://schola
 For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
 
 # 🔥News 
+- *2026.08*: One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). EnDist improves GNN explainers by correcting distribution shifts in explanatory subgraphs through consistency-guided generation: [[paper](https://ieeexplore.ieee.org/document/11627428)][[code](https://github.com/hegy1024/EnDist)]
 - *2026.07*: Our paper received the Best Student Paper Award at the 2026 International Conference on Neural Computing for Advanced Applications (NCAA 2026). This work explores natural-language-guided generation for autonomous driving, aiming to support safety evaluation under rare and high-risk traffic conditions: ([NCAA 2026](https://aaci.org.hk/ncaa2026/))
 - *2026.05*: One paper was accepted as a Spotlight paper at the 43rd International Conference on Machine Learning (ICML 2026, Top 2.2%). AGREE advances human–AI aesthetic preference alignment by revealing and mitigating gradient conflict among multiple aesthetic attributes in image aesthetic assessment: [[paper](https://openreview.net/pdf?id=GrIs035ec3)][[code]](https://github.com/Dahat364/AGREE)
 - *2026.04*: One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to reveal layered dependencies and nonlinear patterns among age-related facial attributes, reducing feature interference in face age synthesis: [[paper](https://ieeexplore.ieee.org/document/11511429)][[code]](https://github.com/SE-hash/HCFace)
@@ -108,7 +109,8 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
 
 # 📋 Journal papers
-- [11] Ye Wang, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, Hong Yu*. Hierarchical Causal Learning for Face Age Synthesis [J]. IEEE Transactions on Image Processing (TIP). 2026. (SCI-1 Top, CCF-A)
+- [12] Ye Wang, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, Hong Yu*. Hierarchical Causal Learning for Face Age Synthesis [J]. IEEE Transactions on Image Processing (TIP). 2026. (SCI-1 Top, CCF-A)
+- [11] Guangyong He, Li Liu*, Youmin Zhang, Ye Wang, Qun Liu, Guoyin Wang. Enhancing Graph Neural Network Explainers Using a Distribution Shift Consistency-Guided Generator [J]. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. (SCI-1 Top, CCF-A)
 - [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu*, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing (TASLP), V34, pp. 1802-1814. 2026. (SCI-1 Top, CCF-B)
 - [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), V36, I3, pp. 2842-2853, 2026. (SCI-1 Top, CCF-B)
 - [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, 2026. (SCI-1 Top)
