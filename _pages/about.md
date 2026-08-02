@@ -25,6 +25,8 @@ He has published in leading journals and conferences, including IEEE TIP, IEEE T
 
 He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He is also actively involved in teaching and student mentorship. His students have received national competition and innovation awards and have continued their careers at leading universities and technology companies.
 
+Beyond research, he is deeply committed to student mentorship. His students have received national innovation awards and major prizes in competitions including the Challenge Cup, RoboCom, and the MCM/ICM. His graduates have joined leading technology companies such as Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities including the University of Michigan and Zhejiang University.
+
 [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm)
 
 <!-- After uploading your CV to /files/Ye_Wang_CV.pdf, add: · [CV](/files/Ye_Wang_CV.pdf) -->
