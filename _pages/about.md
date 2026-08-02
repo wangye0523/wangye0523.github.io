@@ -84,32 +84,29 @@ He is deeply committed to student mentorship. His students have received nationa
 
 # Research
 
-My research studies how AI can comprehensively understand people, reflect diverse human judgments, and remain reliable when evidence is uncertain. I pursue this question through three connected directions:
+My research develops **human-centered cognitive AI** that can understand individuals and groups, reflect diverse human judgments, and reason reliably from incomplete, uncertain, or conflicting evidence. I pursue this goal through three connected directions:
 
-- **Human Understanding** — modeling emotions, preferences, human attributes and activities from multimodal data ([J12](#J12), [J5](#J5), [J4](#J4), [C7](#C7)).
-- **Human–AI Alignment** — aligning model learning and generation with human preferences and multiple criteria ([J12](#J12), [J2](#J2), [C7](#C7)).
-- **Evidence-Grounded Reasoning** — improving reliability under hallucinations, uncertainty, and distribution shifts ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
+- **Human and Collective Understanding** — modeling emotions, intentions, preferences, human attributes, activities, social narratives, and collective behavior from multimodal and behavioral data ([J12](#J12), [J5](#J5), [J4](#J4), [J2](#J2)).
+- **Human–AI Alignment** — representing plural and sometimes conflicting human judgments in model learning and generation rather than reducing them to a single target or average response ([C7](#C7), [J12](#J12), [J2](#J2)).
+- **Evidence-Grounded Reasoning** — building systems that remain reliable under partial observability, hallucinations, uncertainty, long-tailed conditions, and distribution shifts ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
 
 # Ongoing Research
 
-- **Multimodal alignment with diverse human judgments.** I study how AI systems can represent emotions, intentions, aesthetic preferences, and multiple criteria without collapsing disagreement into a single target. Current work extends conflict-aware learning from image aesthetics to broader multimodal evaluation and generation.
-- **Reasoning beyond visible or complete evidence.** I develop models that reason about missing, conflicting, and uncertain evidence in video understanding, long-tailed learning, autonomous driving, and multimodal generation. Current projects focus on occluded-road-user reasoning and reliable correction of model hallucinations.
-- **Cross-societal narratives and value-aware AI.** I examine how different societies interpret shared events through different facts, responsibilities, legitimacy judgments, and value frames. The goal is to build multilingual models that preserve and explain these differences rather than averaging them away.
+- **Human Difference and Individual Dynamics.** I study how AI can represent structured differences in human judgment and model temporal changes in identity and attributes without forcing people into a single average target or trajectory. Current work extends conflict-aware preference learning from image aesthetics and causal age modeling toward context-sensitive evaluation and personalized facial-aging trajectories.
+- **Reasoning Beyond Visible Evidence.** I study how AI can infer safety-critical risks before the relevant object or actor becomes directly observable. Current work focuses on autonomous driving under occlusion, using visible agents and environmental context as reliability-dependent evidence of hidden road users, while also examining mixed human–autonomous traffic, cascading occlusions, and risk-aware planning.
+- **Latent Patterns in Social and Multi-Agent Systems.** In multilingual news, I study why the same international event is narrated differently across societies by identifying and explaining differences in factual emphasis, stance, responsibility attribution, legitimacy judgment, and value framing. In sports, I study latent strategies, coordination patterns, and match dynamics from player actions and interactions. Together, these settings examine how local choices produce collective structures that can be explained and predicted.
 
 # Selected Research Contributions
 
-The following ten publications are most closely connected to my current research agenda. The complete publication list remains below.
+The following publications provide the main foundations for the research directions and ongoing programs above. The complete publication list remains below.
 
-- **Conflict-aware preference alignment** ([C7](#C7)): AGREE identifies gradient conflict among aesthetic attributes and coordinates competing objectives to improve both overall prediction and attribute-level consistency.
-- **Causal modeling of human attributes** ([J12](#J12)): HCFace models dependencies among age-related facial attributes to produce coherent age progression while preserving identity.
+- **Conflict-aware preference alignment** ([C7](#C7)): AGREE identifies systematic gradient conflicts among aesthetic attributes and coordinates competing objectives to improve both overall assessment and attribute-level consistency.
+- **Causal modeling of individual change** ([J12](#J12)): HCFace models dependencies among age-related facial attributes to produce coherent age progression while preserving identity.
 - **Reasoning over difficult tail cases** ([J10](#J10)): UME separates difficult tail samples from ordinary long-tail imbalance and combines expert specialization with uncertainty-aware fusion.
 - **Visual evidence against hallucination** ([J9](#J9)): VEaCap uses video evidence to correct hallucinated objects and restore omitted content in LLM-based captioning.
-- **Generative support for rare medical classes** ([J8](#J8)): GCFA generates class-level features and integrates them with observed samples to improve severely imbalanced medical text classification.
-- **Continuous clinical entity reasoning** ([J7](#J7)): CRMED tracks entities and their evolving relations across dialogue turns to improve multi-turn medical response generation.
-- **Hierarchical multimodal activity reasoning** ([J5](#J5)): HCBS structures multimodal large-model interactions into hierarchical chats for spatio-temporal football action detection.
+- **Safety-critical scenario generation** ([C6](#C6)): NLG-Gen turns natural-language safety requirements into rare and high-risk driving scenarios for targeted autonomous-driving evaluation.
+- **Multi-agent sports understanding** ([J5](#J5)): HCBS organizes multimodal large-model interactions hierarchically to reason about actors, actions, and temporal context in football.
 - **Relational emotion understanding** ([J4](#J4)): DEDNet models within-speaker and between-speaker dependencies through interacting relational subgraphs.
-- **Controllable facial-attribute generation** ([J2](#J2)): KDDGAN uses knowledge-guided disentanglement to enable explicit attribute editing while reducing unintended changes.
-- **Efficient long-sequence reasoning** ([C5](#C5)): LouisKV retrieves KV-cache segments at semantic boundaries and reports up to 4.7× acceleration.
 
 # Honors and Awards
 
