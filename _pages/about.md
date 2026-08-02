@@ -49,6 +49,27 @@ My research studies how AI can comprehensively understand people, reflect divers
 - **Human–AI Alignment** — aligning model learning and generation with human preferences and multiple criteria ([J12](#J12), [J2](#J2), [C7](#C7)).
 - **Evidence-Grounded Reasoning** — improving reliability under hallucinations, uncertainty, and distribution shifts ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
 
+# Ongoing Research
+
+- **Multimodal alignment with diverse human judgments.** I study how AI systems can represent emotions, intentions, aesthetic preferences, and multiple criteria without collapsing disagreement into a single target. Current work extends conflict-aware learning from image aesthetics to broader multimodal evaluation and generation.
+- **Reasoning beyond visible or complete evidence.** I develop models that reason about missing, conflicting, and uncertain evidence in video understanding, long-tailed learning, autonomous driving, and multimodal generation. Current projects focus on occluded-road-user reasoning and reliable correction of model hallucinations.
+- **Cross-societal narratives and value-aware AI.** I examine how different societies interpret shared events through different facts, responsibilities, legitimacy judgments, and value frames. The goal is to build multilingual models that preserve and explain these differences rather than averaging them away.
+
+# Selected Research Contributions
+
+The following ten publications are most closely connected to my current research agenda. The complete publication list remains below.
+
+- **Conflict-aware preference alignment** ([C7](#C7)): AGREE identifies gradient conflict among aesthetic attributes and coordinates competing objectives to improve both overall prediction and attribute-level consistency.
+- **Causal modeling of human attributes** ([J12](#J12)): HCFace models dependencies among age-related facial attributes to produce coherent age progression while preserving identity.
+- **Reasoning over difficult tail cases** ([J10](#J10)): UME separates difficult tail samples from ordinary long-tail imbalance and combines expert specialization with uncertainty-aware fusion.
+- **Visual evidence against hallucination** ([J9](#J9)): VEaCap uses video evidence to correct hallucinated objects and restore omitted content in LLM-based captioning.
+- **Generative support for rare medical classes** ([J8](#J8)): GCFA generates class-level features and integrates them with observed samples to improve severely imbalanced medical text classification.
+- **Continuous clinical entity reasoning** ([J7](#J7)): CRMED tracks entities and their evolving relations across dialogue turns to improve multi-turn medical response generation.
+- **Hierarchical multimodal activity reasoning** ([J5](#J5)): HCBS structures multimodal large-model interactions into hierarchical chats for spatio-temporal football action detection.
+- **Relational emotion understanding** ([J4](#J4)): DEDNet models within-speaker and between-speaker dependencies through interacting relational subgraphs.
+- **Controllable facial-attribute generation** ([J2](#J2)): KDDGAN uses knowledge-guided disentanglement to enable explicit attribute editing while reducing unintended changes.
+- **Efficient long-sequence reasoning** ([C5](#C5)): LouisKV retrieves KV-cache segments at semantic boundaries and reports up to 4.7× acceleration.
+
 # Honors and Awards
 
 - **2026** — Spotlight Paper, International Conference on Machine Learning (ICML), Top 2.2% ([C7](#C7)).
@@ -64,6 +85,14 @@ My research studies how AI can comprehensively understand people, reflect divers
 - **2024–2026:** National Natural Science Foundation of China, Young Scientists Fund (No. 62306056).
 - **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program.
 - **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (No. KJQN202100629).
+
+<!--
+Add a visible "Selected Collaborative Projects" subsection only after confirming
+the official title, project number, duration, and your formal role. Recommended form:
+- **20XX–20XX:** Official project title (No. XXXX), Core Member/Participant; PI: Guoyin Wang.
+- **20XX–20XX:** Official project title (No. XXXX), Core Member/Participant; PI: Hong Yu.
+Do not describe these projects as your own PI funding.
+-->
 
 # News
 
