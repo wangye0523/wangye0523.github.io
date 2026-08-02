@@ -21,7 +21,7 @@ Ye Wang is an Associate Professor in the School of Artificial Intelligence at [C
 
 His research develops **human-centered multimodal AI** systems that understand human intentions and emotions, align with human preferences, and reason from reliable evidence under uncertainty. His work spans affective computing, image aesthetics, multimodal generation, hallucination correction, long-tailed learning, and multimodal reasoning.
 
-He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, IEEE TCSVT, ICML, and ICLR. His work has received an **ICML 2026 Spotlight designation (Top 2.2%)**, the **Best Student Paper Award at NCAA 2026**, the **Best Conference Paper Award at Brain Informatics 2024**, and a **Best Paper Candidate recognition at IEEE ISPCE-ASIA 2023**.
+He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, IEEE TCSVT, ICML, and ICLR. His work has received **ICML 2026 Spotlight (Top 2.2%)**, the **Best Student Paper Award at NCAA 2026**, the **Best Conference Paper Award at Brain Informatics 2024**, and a **Best Paper Candidate recognition at IEEE ISPCE-ASIA 2023**.
 
 He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He is also actively involved in teaching and student mentorship. His students have received national competition and innovation awards and have continued their careers at leading universities and technology companies.
 
@@ -29,7 +29,6 @@ Beyond research, he is deeply committed to student mentorship. His students have
 
 [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · [Curriculum Vitae (July 2026)](https://wangye0523.github.io/Ye_Wang_CV.pdf)
 
-<!-- Keep the PDF at /docs/Ye_Wang_CV.pdf so this link remains valid. -->
 
 # Employment
 
@@ -46,7 +45,7 @@ Beyond research, he is deeply committed to student mentorship. His students have
 
 # Research
 
-My research asks how multimodal AI can better understand people, reflect diverse human judgments, and remain reliable when evidence is incomplete or uncertain. I pursue this question through three connected directions:
+My research studies how AI can comprehensively understand people, reflect diverse human judgments, and remain reliable when evidence is uncertain. I pursue this question through three connected directions:
 
 - **Human Understanding** — modeling emotions, intentions, preferences, human attributes, and complex activities from multimodal data ([J12](#J12), [J5](#J5), [J4](#J4), [C7](#C7)).
 - **Human–AI Alignment** — aligning model learning and generation with human preferences, cognitive structures, and multiple criteria ([J12](#J12), [J2](#J2), [C7](#C7)).
