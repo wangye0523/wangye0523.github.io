@@ -41,6 +41,49 @@ He has served as principal investigator for projects supported by the National N
 - **M.S. in Electrical Engineering**, The University of Texas at Dallas, 2012–2014.
 - **B.Eng. in Microelectronics**, Chongqing University of Posts and Telecommunications, 2007–2011.
 
+
+# News
+
+- **2026.08:** One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). EnDist corrects distribution shifts in explanatory subgraphs for more reliable GNN explanations. [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
+- **2026.07:** Our paper received the Best Student Paper Award at NCAA 2026. The work studies natural-language-guided generation of rare and high-risk scenarios for autonomous-driving safety evaluation. [[conference](https://aaci.org.hk/ncaa2026/)]
+- **2026.05:** Our paper was accepted as an ICML 2026 Spotlight paper (Top 2.2%). AGREE reveals and mitigates gradient conflict among aesthetic attributes in image aesthetic assessment. [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
+- **2026.04:** One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to model dependencies among age-related facial attributes. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
+- **2026.03:** One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses challenging-tailed sequence learning through expert specialization and uncertainty fusion. [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
+- **2026.01:** One paper was accepted at ICLR 2026. LouisKV retrieves KV cache at semantic boundaries and accelerates long-sequence reasoning by up to 4.7 times. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
+
+<details markdown="1">
+<summary><strong>Earlier news</strong></summary>
+
+- **2025.09:** One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. The work rectifies object hallucinations and restores missing content in LLM-based video captioning. [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
+
+- **2025.09:** One paper was accepted by Information Fusion. GCFA improves long-tailed medical text classification through generative class features and agent attention. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
+
+- **2025.09:** One paper was accepted by IEEE Transactions on Consumer Electronics. CRMED performs continuous entity reasoning for multi-turn medical dialogue generation. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
+
+- **2025.08:** One paper was accepted by IEEE Journal of Biomedical and Health Informatics. The work models Chinese character structures and boundaries for clinical named entity recognition. [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
+
+- **2025.02:** One paper was accepted by Information Processing & Management. The work uses multimodal large language models for spatio-temporal action detection in football. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
+
+- **2024.12:** Our paper received the Best Conference Paper Award at the 17th International Conference on Brain Informatics. [[paper](https://rdcu.be/edXQi)]
+
+- **2024.09:** One paper was accepted by IEEE Transactions on Affective Computing. DEDNet models inter- and intra-speaker dependencies for multimodal emotion recognition. [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
+
+- **2024.08:** One paper was accepted by Artificial Intelligence Review. The work models interactions between Chinese characters and lexical information for Chinese named entity recognition. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
+
+- **2024.08:** One paper was accepted by Neural Computing and Applications. SMOT reduces cross-modal distribution gaps through self-supervised modal optimization for image captioning. [[paper](https://link.springer.com/article/10.1007/s00521-024-10211-4)]
+
+- **2024.01:** One paper was accepted by IEEE Transactions on Consumer Electronics. KDDGAN enables explicit and independent manipulation of facial attributes through knowledge-guided feature disentanglement. [[paper](https://ieeexplore.ieee.org/document/10374272)]
+
+- **2023.11:** Our paper was selected as a Best Paper Candidate at IEEE ISPCE-ASIA 2023. [[conference](https://dl2link.com/ISPCE-AS2023/index.html)]
+
+- **2023.05:** Interviewed by *People's Education* (《人民教育》). [[link](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html)]
+
+- **2023.03:** Interviewed by *Chongqing Daily* about ChatGPT. [[article](https://www.cqrb.cn/topics/2022xwhkt/hy/)] [[video](https://v.douyin.com/i8Nre2Cx/)]
+
+</details>
+
+
+
 # Research
 
 My research studies how AI can comprehensively understand people, reflect diverse human judgments, and remain reliable when evidence is uncertain. I pursue this question through three connected directions:
@@ -83,6 +126,7 @@ The following ten publications are most closely connected to my current research
 **Principal Investigator**
 
 - **2024–2026:** National Natural Science Foundation of China, Young Scientists Fund (No. 62306056).
+- **2024-2026:** Chongqing Energy Big Data Center.
 - **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program.
 - **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (No. KJQN202100629).
 
@@ -93,46 +137,6 @@ the official title, project number, duration, and your formal role. Recommended 
 - **20XX–20XX:** Official project title (No. XXXX), Core Member/Participant; PI: Hong Yu.
 Do not describe these projects as your own PI funding.
 -->
-
-# News
-
-- **2026.08:** One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). EnDist corrects distribution shifts in explanatory subgraphs for more reliable GNN explanations. [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
-- **2026.07:** Our paper received the Best Student Paper Award at NCAA 2026. The work studies natural-language-guided generation of rare and high-risk scenarios for autonomous-driving safety evaluation. [[conference](https://aaci.org.hk/ncaa2026/)]
-- **2026.05:** Our paper was accepted as an ICML 2026 Spotlight paper (Top 2.2%). AGREE reveals and mitigates gradient conflict among aesthetic attributes in image aesthetic assessment. [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
-- **2026.04:** One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to model dependencies among age-related facial attributes. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
-- **2026.03:** One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses challenging-tailed sequence learning through expert specialization and uncertainty fusion. [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
-- **2026.01:** One paper was accepted at ICLR 2026. LouisKV retrieves KV cache at semantic boundaries and accelerates long-sequence reasoning by up to 4.7 times. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
-
-<details markdown="1">
-<summary><strong>Earlier news</strong></summary>
-
-- **2025.09:** One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. The work rectifies object hallucinations and restores missing content in LLM-based video captioning. [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
-
-- **2025.09:** One paper was accepted by Information Fusion. GCFA improves long-tailed medical text classification through generative class features and agent attention. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
-
-- **2025.09:** One paper was accepted by IEEE Transactions on Consumer Electronics. CRMED performs continuous entity reasoning for multi-turn medical dialogue generation. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
-
-- **2025.08:** One paper was accepted by IEEE Journal of Biomedical and Health Informatics. The work models Chinese character structures and boundaries for clinical named entity recognition. [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
-
-- **2025.02:** One paper was accepted by Information Processing & Management. The work uses multimodal large language models for spatio-temporal action detection in football. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
-
-- **2024.12:** Our paper received the Best Conference Paper Award at the 17th International Conference on Brain Informatics. [[paper](https://rdcu.be/edXQi)]
-
-- **2024.09:** One paper was accepted by IEEE Transactions on Affective Computing. DEDNet models inter- and intra-speaker dependencies for multimodal emotion recognition. [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
-
-- **2024.08:** One paper was accepted by Artificial Intelligence Review. The work models interactions between Chinese characters and lexical information for Chinese named entity recognition. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
-
-- **2024.08:** One paper was accepted by Neural Computing and Applications. SMOT reduces cross-modal distribution gaps through self-supervised modal optimization for image captioning. [[paper](https://link.springer.com/article/10.1007/s00521-024-10211-4)]
-
-- **2024.01:** One paper was accepted by IEEE Transactions on Consumer Electronics. KDDGAN enables explicit and independent manipulation of facial attributes through knowledge-guided feature disentanglement. [[paper](https://ieeexplore.ieee.org/document/10374272)]
-
-- **2023.11:** Our paper was selected as a Best Paper Candidate at IEEE ISPCE-ASIA 2023. [[conference](https://dl2link.com/ISPCE-AS2023/index.html)]
-
-- **2023.05:** Interviewed by *People's Education* (《人民教育》). [[link](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html)]
-
-- **2023.03:** Interviewed by *Chongqing Daily* about ChatGPT. [[article](https://www.cqrb.cn/topics/2022xwhkt/hy/)] [[video](https://v.douyin.com/i8Nre2Cx/)]
-
-</details>
 
 # Publications
 
