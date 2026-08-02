@@ -19,9 +19,11 @@ redirect_from:
 
 Ye Wang is an Associate Professor in the School of Artificial Intelligence at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) (CQUPT). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html) and previously worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
 
-His research develops **human-centered multimodal AI** systems that understand human intentions and emotions, align with human preferences, and reason from reliable evidence under uncertainty. His work spans affective computing, image aesthetics, multimodal generation, hallucination correction, long-tailed learning, and multimodal reasoning. He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, IEEE TCSVT, ICML, and ICLR. His work has received **ICML 2026 Spotlight (Top 2.2%)**, the **Best Student Paper Award at NCAA 2026**, the **Best Conference Paper Award at Brain Informatics 2024**, and a **Best Paper Candidate recognition at IEEE ISPCE-ASIA 2023**.
+His research develops **human-centered multimodal AI** systems that understand human intentions and emotions, align with human preferences, and reason from reliable evidence under uncertainty. His work spans affective computing, image aesthetics, multimodal generation, hallucination correction, long-tailed learning, and multimodal reasoning.
 
-He is deeply committed to student mentorship. His students have received national innovation awards and major prizes in the Challenge Cup, RoboCom, and the MCM/ICM. His graduates have joined leading technology companies such as Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities including the University of Michigan and Zhejiang University.
+He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, IEEE TCSVT, ICML, and ICLR. His work has received **ICML 2026 Spotlight (Top 2.2%)**, the **Best Student Paper Award at NCAA 2026**, the **Best Conference Paper Award at Brain Informatics 2024**, and a **Best Paper Candidate recognition at IEEE ISPCE-ASIA 2023**.
+
+He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He is deeply committed to student mentorship. His students have received national innovation awards and major prizes in the Challenge Cup, RoboCom, and the MCM/ICM. His graduates have joined leading technology companies such as Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities including the University of Michigan and Zhejiang University.
 
 [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · [Curriculum Vitae (August 2026)](https://wangye0523.github.io/Ye_Wang_CV.pdf)
 
@@ -178,7 +180,59 @@ Do not describe these projects as your own PI funding.
 
 <sup>*</sup> Corresponding author.
 
-For a complete and up-to-date publication list, please visit [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en), [DBLP](https://dblp.org/pid/44/6292-6.html), or [CV](https://wangye0523.github.io/Ye_Wang_CV.pdf).
+For a complete publication list, please visit [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en), [DBLP](https://dblp.org/pid/44/6292-6.html), or [CV](https://wangye0523.github.io/Ye_Wang_CV.pdf).
+
+
+# Academic Service
+
+## Editorial Service
+
+- **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
+
+## Conference Organization
+
+- **Session Chair**, Mesoscopic Cognitive Machine Learning Workshop, International Joint Conference on Rough Sets (IJCRS), 2026.
+- **Competition Chair**, International Conference on Neural Computing for Advanced Applications (NCAA), 2023–2026.
+- **Web Chair**, IEEE International Conference on Medical Artificial Intelligence (MedAI), 2024.
+
+## Conference Reviewer
+
+- **International Conference on Machine Learning (ICML):** 2026.
+- **AAAI Conference on Artificial Intelligence (AAAI):** 2026.
+- **Conference on Language Modeling (COLM):** 2024, 2025, 2026.
+- **ACM International Conference on Multimedia (ACM MM):** 2026.
+- **ACL Rolling Review**: 2025, 2026.
+- **European Conference on Artificial Intelligence (ECAI):** 2022, 2023, 2024, 2025.
+- **International Joint Conference on Artificial Intelligence:** 2023, 2024.
+
+## Journal Reviewer
+- **IEEE Transactions on Image Processing (TIP)**
+- **IEEE Transactions on Audio, Speech, and Language Processing (TASLP)**
+- **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**
+- **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
+- **IEEE Transactions on Multimedia (TMM)**
+- **IEEE Transactions on Affective Computing (TAFFC)**
+
+## Professional Society Service
+
+- **Committee Member**, CAAI Technical Committee on Granular Computing and Knowledge Discovery.
+- **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
+
+# Invited Talks, Lectures, and Media
+
+## Invited Talks and Lectures
+
+- **2025:** *Visual Intelligence through Multi-Granularity Cognitive Computing*, CCF@U (No. 1323), Sichuan University, Chengdu. [[link](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/hyhdzxdt/2025-10-30/850684.shtml)]
+- **2023:** *Generative Modeling through Latent-Space Disentanglement*, Doctoral Forum, Yan'an University. [[link](https://yau.edu.cn/info/1122/67356.htm)]
+- **2023:** Summer Training Program on Machine Learning, National Center for Applied Mathematics, Chongqing. [[link](https://cqcam.cqnu.edu.cn/info/2018/3631.htm)]
+- **2023:** *Generative AI in Education: Opportunities and Challenges*, Faculty Salon, Chongqing Nankai Secondary School. [[link](https://mp.weixin.qq.com/s/DF7obFf5G6xy2vjqfyu7qg)]
+
+## Media Interviews
+
+- **2023:** Interviewed by *People's Education* (《人民教育》). [[link](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html)]
+- **2023:** *ChatGPT Is Here: Should We Be Anxious?*, interview with *Chongqing Daily*. [[article](https://www.cqrb.cn/topics/2022xwhkt/hy/)] [[video](https://v.douyin.com/i8Nre2Cx/)]
+
+
 
 # Teaching
 
@@ -187,6 +241,18 @@ For a complete and up-to-date publication list, please visit [Google Scholar](ht
 - **2025:** Course Leader, *Data Structures for International Students*, designated as a Chongqing Municipal First-Class Undergraduate Course.
 - **2024:** Award for Outstanding Contribution to International Student Education in Chongqing.
 - **2023:** Outstanding Advisor, National Finals of the RoboCom Robot Developer Competition.
+
+## Student Awards
+
+- **2025:** National Third Prize, 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Contest.
+- **2025:** CQUPT Outstanding Undergraduate Thesis Awards.
+- **2024:** National Third Prize, RoboCom Robot Developer Competition.
+- **2024:** Outstanding Undergraduate Thesis of Chongqing.
+- **2024:** National Undergraduate Innovation and Entrepreneurship Training Program, rated Outstanding upon completion.
+- **2023:** Second Prize, Mathematical Contest in Modeling.
+- **2023:** CQUPT Outstanding Undergraduate Thesis Award.
+- **2023:** National First Prize, Math China Mathematical Modeling Competition.
+- **2023:** National Second Prize, China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
 
 ## Courses at CQUPT
 
@@ -240,6 +306,24 @@ For a complete and up-to-date publication list, please visit [Google Scholar](ht
 - Yi Huang
 - Ruizhe Kang
 
+
+# Collaborators
+
+- [Guoyin Wang](https://faculty.cqupt.edu.cn/wanggy/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
+- [Hong Yu](https://faculty.cqupt.edu.cn/yuhong/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
+- [Qun Liu](https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
+- [Li Liu](https://scholar.google.com/citations?user=uoNJ6goAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
+- [Jiaxu Leng](https://scholar.google.com/citations?user=KpX-CCcAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
+- [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN), Hong Kong Baptist University, Hong Kong SAR, China.
+- [Lifeng Shen](https://www.lshenae.cn/), Hong Kong University of Science and Technology, Hong Kong SAR, China.
+- [Mi Lu](https://scholar.google.com/citations?user=crjEvpQAAAAJ&hl=en), Texas A&M University, United States.
+- [Yoonsuck Choe](https://scholar.google.com/citations?user=nFb_T4wAAAAJ&hl=en), Texas A&M University, United States.
+- [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en), Samsung Research America, United States.
+- [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ), Amazon, United States.
+- [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
+- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), University of Oxford, United Kingdom.
+
+
 # Alumni and Former Advisees
 
 ## Former M.S. Students
@@ -272,80 +356,6 @@ For a complete and up-to-date publication list, please visit [Google Scholar](ht
 - **Dongyu Xie** (2023) — M.S. student at the University of Electronic Science and Technology of China.
 - **Xinyi Gao** (2023) — M.S. student at the University of Rochester.
 
-## Selected Student Awards
-
-- **2025:** National Third Prize, 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Contest.
-- **2025:** CQUPT Outstanding Undergraduate Thesis Awards.
-- **2024:** National Third Prize, RoboCom Robot Developer Competition.
-- **2024:** Outstanding Undergraduate Thesis of Chongqing.
-- **2024:** National Undergraduate Innovation and Entrepreneurship Training Program, rated Outstanding upon completion.
-- **2023:** Second Prize, Mathematical Contest in Modeling.
-- **2023:** CQUPT Outstanding Undergraduate Thesis Award.
-- **2023:** National First Prize, Math China Mathematical Modeling Competition.
-- **2023:** National Second Prize, China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
-
-# Collaborators
-
-- [Guoyin Wang](https://faculty.cqupt.edu.cn/wanggy/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
-- [Hong Yu](https://faculty.cqupt.edu.cn/yuhong/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
-- [Qun Liu](https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
-- [Li Liu](https://scholar.google.com/citations?user=uoNJ6goAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
-- [Jiaxu Leng](https://scholar.google.com/citations?user=KpX-CCcAAAAJ&hl=zh-CN), Chongqing University of Posts and Telecommunications, China.
-- [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN), Hong Kong Baptist University, Hong Kong SAR, China.
-- [Lifeng Shen](https://www.lshenae.cn/), Hong Kong University of Science and Technology, Hong Kong SAR, China.
-- [Mi Lu](https://scholar.google.com/citations?user=crjEvpQAAAAJ&hl=en), Texas A&M University, United States.
-- [Yoonsuck Choe](https://scholar.google.com/citations?user=nFb_T4wAAAAJ&hl=en), Texas A&M University, United States.
-- [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en), Samsung Research America, United States.
-- [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ), Amazon, United States.
-- [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
-- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), University of Oxford, United Kingdom.
-
-# Academic Service
-
-## Editorial Service
-
-- **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
-
-## Conference Organization
-
-- **Session Chair**, Mesoscopic Cognitive Machine Learning Workshop, International Joint Conference on Rough Sets (IJCRS), 2026.
-- **Competition Chair**, International Conference on Neural Computing for Advanced Applications (NCAA), 2023–2026.
-- **Web Chair**, IEEE International Conference on Medical Artificial Intelligence (MedAI), 2024.
-
-## Conference Reviewer and Program Committee
-
-- **International Conference on Machine Learning (ICML):** 2026.
-- **AAAI Conference on Artificial Intelligence (AAAI):** 2026.
-- **Conference on Language Modeling (COLM):** 2024, 2025, 2026.
-- **ACM International Conference on Multimedia (ACM MM):** 2026.
-- **ACL Rolling Review**: 2025, 2026.
-- **European Conference on Artificial Intelligence (ECAI):** 2022, 2023, 2024, 2025.
-- **International Joint Conference on Artificial Intelligence:** 2023, 2024.
-
-## Journal Reviewer
-- **IEEE Transactions on Image Processing (TIP)**
-- **IEEE Transactions on Audio, Speech, and Language Processing (TASLP)**
-- **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**
-- **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
-- **IEEE Transactions on Multimedia (TMM)**
-- **IEEE Transactions on Affective Computing (TAFFC)**
 
 
-## Professional Society Service
 
-- **Committee Member**, CAAI Technical Committee on Granular Computing and Knowledge Discovery.
-- **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
-
-# Invited Talks, Lectures, and Media
-
-## Invited Talks and Lectures
-
-- **2025:** *Visual Intelligence through Multi-Granularity Cognitive Computing*, CCF@U (No. 1323), Sichuan University, Chengdu. [[link](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/hyhdzxdt/2025-10-30/850684.shtml)]
-- **2023:** *Generative Modeling through Latent-Space Disentanglement*, Doctoral Forum, Yan'an University. [[link](https://yau.edu.cn/info/1122/67356.htm)]
-- **2023:** Summer Training Program on Machine Learning, National Center for Applied Mathematics, Chongqing. [[link](https://cqcam.cqnu.edu.cn/info/2018/3631.htm)]
-- **2023:** *Generative AI in Education: Opportunities and Challenges*, Faculty Salon, Chongqing Nankai Secondary School. [[link](https://mp.weixin.qq.com/s/DF7obFf5G6xy2vjqfyu7qg)]
-
-## Media Interviews
-
-- **2023:** Interviewed by *People's Education* (《人民教育》). [[link](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html)]
-- **2023:** *ChatGPT Is Here: Should We Be Anxious?*, interview with *Chongqing Daily*. [[article](https://www.cqrb.cn/topics/2022xwhkt/hy/)] [[video](https://v.douyin.com/i8Nre2Cx/)]
