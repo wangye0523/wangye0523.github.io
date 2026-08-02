@@ -23,11 +23,9 @@ His research develops **human-centered multimodal AI** systems that understand h
 
 He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, IEEE TCSVT, ICML, and ICLR. His work has received **ICML 2026 Spotlight (Top 2.2%)**, the **Best Student Paper Award at NCAA 2026**, the **Best Conference Paper Award at Brain Informatics 2024**, and a **Best Paper Candidate recognition at IEEE ISPCE-ASIA 2023**.
 
-He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He is also actively involved in teaching and student mentorship. His students have received national competition and innovation awards and have continued their careers at leading universities and technology companies.
+He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He is deeply committed to student mentorship. His students have received national innovation awards and major prizes in the Challenge Cup, RoboCom, and the MCM/ICM. His graduates have joined leading technology companies such as Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities including the University of Michigan and Zhejiang University.
 
-Beyond research, he is deeply committed to student mentorship. His students have received national innovation awards and major prizes in competitions including the Challenge Cup, RoboCom, and the MCM/ICM. His graduates have joined leading technology companies such as Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities including the University of Michigan and Zhejiang University.
-
-[Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · [Curriculum Vitae (July 2026)](https://wangye0523.github.io/Ye_Wang_CV.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · [Curriculum Vitae (August 2026)](https://wangye0523.github.io/Ye_Wang_CV.pdf)
 
 
 # Employment
@@ -47,13 +45,14 @@ Beyond research, he is deeply committed to student mentorship. His students have
 
 My research studies how AI can comprehensively understand people, reflect diverse human judgments, and remain reliable when evidence is uncertain. I pursue this question through three connected directions:
 
-- **Human Understanding** — modeling emotions, intentions, preferences, human attributes, and complex activities from multimodal data ([J12](#J12), [J5](#J5), [J4](#J4), [C7](#C7)).
+- **Human Understanding** — modeling emotions, preferences, human attributes and activities from multimodal data ([J12](#J12), [J5](#J5), [J4](#J4), [C7](#C7)).
 - **Human–AI Alignment** — aligning model learning and generation with human preferences, cognitive structures, and multiple criteria ([J12](#J12), [J2](#J2), [C7](#C7)).
 - **Evidence-Grounded Reasoning** — improving reliability under hallucinations, missing evidence, uncertainty, distribution shifts, and long-tailed data ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
 
-# Selected Research Highlights
+# Honors and Awards
 
 - **2026** — Spotlight Paper, International Conference on Machine Learning (ICML), Top 2.2% ([C7](#C7)).
+- **2026** — ICML 2026 Gold Reviewer.
 - **2026** — Best Student Paper Award, International Conference on Neural Computing for Advanced Applications (NCAA) ([C6](#C6)).
 - **2024** — Best Conference Paper, International Conference on Brain Informatics ([C4](#C4)).
 - **2023** — Best Paper Candidate, IEEE ISPCE-ASIA ([C3](#C3)).
@@ -150,9 +149,7 @@ My research studies how AI can comprehensively understand people, reflect divers
 
 <span id="C1"></span>**[C1]** **Ye Wang**, Han Wang, Xinxiang Zhang, Theodora Chaspari, Yoonsuck Choe, and Mi Lu. **An Attention-Aware Bidirectional Multi-Residual Recurrent Neural Network: A Study on Short-Term Text Classification.** *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2019.
 
-\* Corresponding author.
-
-For a complete and up-to-date publication list, please visit [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/44/6292-6.html).
+For a complete and up-to-date publication list, please visit [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en), [DBLP](https://dblp.org/pid/44/6292-6.html), or [CV](https://wangye0523.github.io/Ye_Wang_CV.pdf).
 
 # Teaching
 
@@ -276,9 +273,37 @@ For a complete and up-to-date publication list, please visit [Google Scholar](ht
 
 # Academic Service
 
-- **Professional Societies:** Committee Member, CAAI Technical Committee on Granular Computing and Knowledge Discovery; Corresponding Member, CAAI Technical Committee on Artificial Intelligence Foundations.
-- **Editorial Service:** Young Editorial Board Member, *CAAI Transactions on Intelligent Systems*.
-- **Conference Organization:** Organizer and Session Chair, Mesoscopic Cognitive Machine Learning Workshop, IJCRS 2026; Competition Chair, NCAA, 2023–2026; Web Chair, IEEE MedAI 2024.
+## Editorial Service
+
+- **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
+
+## Conference Organization
+
+- **Session Chair**, Mesoscopic Cognitive Machine Learning Workshop, International Joint Conference on Rough Sets (IJCRS), 2026.
+- **Competition Chair**, International Conference on Neural Computing for Advanced Applications (NCAA), 2023–2026.
+- **Web Chair**, IEEE International Conference on Medical Artificial Intelligence (MedAI), 2024.
+
+## Conference Reviewer and Program Committee
+
+- **International Conference on Machine Learning (ICML):** 2026.
+- **AAAI Conference on Artificial Intelligence (AAAI):** 2026.
+- **Conference on Language Modeling (COLM):** 2025, 2026.
+- **ACM International Conference on Multimedia (ACM MM):** 2026.
+- **ACL Rolling Review**: 2025-2026.
+- **European Conference on Artificial Intelligence (ECAI):** 2025.
+- **International Joint Conference on Artificial Intelligence:** 2025.
+
+## Journal Reviewer
+- *IEEE Transactions on Image Processing (TIP)*
+- *IEEE Transactions on Audio, Speech, and Language Processing (TASLP)*
+- *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*
+- *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+- *IEEE Transactions on Multimedia (TMM)*
+
+## Professional Society Service
+
+- **Committee Member**, CAAI Technical Committee on Granular Computing and Knowledge Discovery.
+- **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
 
 # Invited Talks, Lectures, and Media
 
