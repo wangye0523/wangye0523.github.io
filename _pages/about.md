@@ -142,27 +142,27 @@ Do not describe these projects as your own PI funding.
 
 ## Journal Papers
 
-<span id="J12"></span>**[J12]** **Ye Wang**, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, and Hong Yu<sup>*</sup>. **Hierarchical Causal Learning for Face Age Synthesis.** *IEEE Transactions on Image Processing (TIP)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
+<span id="J12"></span>**[J12]** **Ye Wang**, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, and Hong Yu<sup>&#42;</sup>. **Hierarchical Causal Learning for Face Age Synthesis.** *IEEE Transactions on Image Processing (TIP)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
 
-<span id="J11"></span>**[J11]** Guangyong He, Li Liu<sup>*</sup>, Youmin Zhang, **Ye Wang**, Qun Liu, and Guoyin Wang. **Enhancing Graph Neural Network Explainers Using a Distribution Shift Consistency-Guided Generator.** *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
+<span id="J11"></span>**[J11]** Guangyong He, Li Liu<sup>&#42;</sup>, Youmin Zhang, **Ye Wang**, Qun Liu, and Guoyin Wang. **Enhancing Graph Neural Network Explainers Using a Distribution Shift Consistency-Guided Generator.** *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
 
-<span id="J10"></span>**[J10]** **Ye Wang**, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu<sup>*</sup>, and Guoyin Wang. **Mastering the Minority: An Uncertainty-Guided Multi-Expert Framework for Challenging-Tailed Sequence Learning.** *IEEE Transactions on Audio, Speech, and Language Processing (TASLP)*, 2026. [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
+<span id="J10"></span>**[J10]** **Ye Wang**, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu<sup>&#42;</sup>, and Guoyin Wang. **Mastering the Minority: An Uncertainty-Guided Multi-Expert Framework for Challenging-Tailed Sequence Learning.** *IEEE Transactions on Audio, Speech, and Language Processing (TASLP)*, 2026. [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
 
-<span id="J9"></span>**[J9]** **Ye Wang**, Jiancheng Zhou, Qun Liu<sup>*</sup>, Feng Hu, and Guoyin Wang. **Visual Evidence-Aware for Object Hallucinations Rectification in LLM-Based Video Captioning.** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
+<span id="J9"></span>**[J9]** **Ye Wang**, Jiancheng Zhou, Qun Liu<sup>&#42;</sup>, Feng Hu, and Guoyin Wang. **Visual Evidence-Aware for Object Hallucinations Rectification in LLM-Based Video Captioning.** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
 
-<span id="J8"></span>**[J8]** **Ye Wang**, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, and Dajiang Lei<sup>*</sup>. **GCFA: Generative Class Feature Fusion with Agent Attention for Medical Text Classification.** *Information Fusion*, 2026. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
+<span id="J8"></span>**[J8]** **Ye Wang**, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, and Dajiang Lei<sup>&#42;</sup>. **GCFA: Generative Class Feature Fusion with Agent Attention for Medical Text Classification.** *Information Fusion*, 2026. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
 
-<span id="J7"></span>**[J7]** **Ye Wang**, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang<sup>*</sup>, and Dajiang Lei<sup>*</sup>. **Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation.** *IEEE Transactions on Consumer Electronics*, 2025. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
+<span id="J7"></span>**[J7]** **Ye Wang**, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang<sup>&#42;</sup>, and Dajiang Lei<sup>&#42;</sup>. **Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation.** *IEEE Transactions on Consumer Electronics*, 2025. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
 
-<span id="J6"></span>**[J6]** **Ye Wang**, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, and Dajiang Lei<sup>*</sup>. **Cross-Interaction of Chinese Character Structures and Boundary Features for Improving Clinical Named Entity Recognition.** *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, 2025. [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
+<span id="J6"></span>**[J6]** **Ye Wang**, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, and Dajiang Lei<sup>&#42;</sup>. **Cross-Interaction of Chinese Character Structures and Boundary Features for Improving Clinical Named Entity Recognition.** *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, 2025. [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
 
-<span id="J5"></span>**[J5]** Xuyang Zhou, **Ye Wang**<sup>*</sup>, Fei Tao, Hong Yu, and Qun Liu. **Hierarchical Chat-Based Strategies with MLLMs for Spatio-Temporal Action Detection.** *Information Processing & Management*, 2025. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
+<span id="J5"></span>**[J5]** Xuyang Zhou, **Ye Wang**<sup>&#42;</sup>, Fei Tao, Hong Yu, and Qun Liu. **Hierarchical Chat-Based Strategies with MLLMs for Spatio-Temporal Action Detection.** *Information Processing & Management*, 2025. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
 
-<span id="J4"></span>**[J4]** **Ye Wang**, Wei Zhang, Ke Liu<sup>*</sup>, Wei Wu, Feng Hu, Hong Yu, and Guoyin Wang. **Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition.** *IEEE Transactions on Affective Computing*, 2025. [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
+<span id="J4"></span>**[J4]** **Ye Wang**, Wei Zhang, Ke Liu<sup>&#42;</sup>, Wei Wu, Feng Hu, Hong Yu, and Guoyin Wang. **Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition.** *IEEE Transactions on Affective Computing*, 2025. [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
 
-<span id="J3"></span>**[J3]** **Ye Wang**, Zheng Wang, Hong Yu, Guoyin Wang<sup>*</sup>, and Dajiang Lei<sup>*</sup>. **The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition.** *Artificial Intelligence Review*, 2024. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
+<span id="J3"></span>**[J3]** **Ye Wang**, Zheng Wang, Hong Yu, Guoyin Wang<sup>&#42;</sup>, and Dajiang Lei<sup>&#42;</sup>. **The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition.** *Artificial Intelligence Review*, 2024. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
 
-<span id="J2"></span>**[J2]** **Ye Wang**, Qianmengke Zhao, Qun Liu<sup>*</sup>, Guoyin Wang, Hong Yu, Li Liu, and Jiaxu Leng. **KDDGAN: Knowledge-Guided Explicit Feature Disentanglement for Facial Attribute Editing.** *IEEE Transactions on Consumer Electronics*, 2024. [[paper](https://ieeexplore.ieee.org/document/10374272)]
+<span id="J2"></span>**[J2]** **Ye Wang**, Qianmengke Zhao, Qun Liu<sup>&#42;</sup>, Guoyin Wang, Hong Yu, Li Liu, and Jiaxu Leng. **KDDGAN: Knowledge-Guided Explicit Feature Disentanglement for Facial Attribute Editing.** *IEEE Transactions on Consumer Electronics*, 2024. [[paper](https://ieeexplore.ieee.org/document/10374272)]
 
 <span id="J1"></span>**[J1]** **Ye Wang**, Xinxiang Zhang, Mi Lu, Han Wang, and Yoonsuck Choe. **Attention Augmentation with Multi-Residual in Bidirectional LSTM.** *Neurocomputing*, 2020.
 
@@ -182,9 +182,7 @@ Do not describe these projects as your own PI funding.
 
 <span id="C1"></span>**[C1]** **Ye Wang**, Han Wang, Xinxiang Zhang, Theodora Chaspari, Yoonsuck Choe, and Mi Lu. **An Attention-Aware Bidirectional Multi-Residual Recurrent Neural Network: A Study on Short-Term Text Classification.** *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2019.
 
-<sup>*</sup> Corresponding author.
-
-For a complete publication list, please visit [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en), [DBLP](https://dblp.org/pid/44/6292-6.html), or [CV](https://wangye0523.github.io/Ye_Wang_CV.pdf).
+<sup>&#42;</sup> Corresponding author. For a complete publication list, please visit [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en), [DBLP](https://dblp.org/pid/44/6292-6.html), or [CV](https://wangye0523.github.io/Ye_Wang_CV.pdf).
 
 
 # Academic Service
