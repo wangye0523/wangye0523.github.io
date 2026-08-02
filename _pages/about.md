@@ -284,7 +284,7 @@ For a complete and up-to-date publication list, please visit [Google Scholar](ht
 
 ## Invited Talks and Lectures
 
-- **2025:** *Visual Intelligence through Multi-Granularity Cognitive Computing*, CCF@U Lecture Series (No. 1323), Sichuan University, Chengdu. [[link](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/hyhdzxdt/2025-10-30/850684.shtml)]
+- **2025:** *Visual Intelligence through Multi-Granularity Cognitive Computing*, CCF@U (No. 1323), Sichuan University, Chengdu. [[link](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/hyhdzxdt/2025-10-30/850684.shtml)]
 - **2023:** *Generative Modeling through Latent-Space Disentanglement*, Doctoral Forum, Yan'an University. [[link](https://yau.edu.cn/info/1122/67356.htm)]
 - **2023:** Summer Training Program on Machine Learning, National Center for Applied Mathematics, Chongqing. [[link](https://cqcam.cqnu.edu.cn/info/2018/3631.htm)]
 - **2023:** *Generative AI in Education: Opportunities and Challenges*, Faculty Salon, Chongqing Nankai Secondary School. [[link](https://mp.weixin.qq.com/s/DF7obFf5G6xy2vjqfyu7qg)]
