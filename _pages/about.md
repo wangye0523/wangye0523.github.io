@@ -37,7 +37,6 @@ Beyond research, he is deeply committed to student mentorship. His students have
 - **Assistant Professor**, School of Computer Science and Technology, Chongqing University of Posts and Telecommunications, 2020–2025.
 - **Project Manager (on secondment)**, China Scholarship Council, 2020–2021.
 - **Research Scientist**, Samsung Research America, 2019.
-- **Research Intern**, T-Mobile USA, 2013.
 
 # Education
 
