@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,78 +17,237 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Ye Wang is an Associate Professor at the School of Artificial Intelligence, [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) (CQUPT). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html). Before joining CQUPT, he worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
+Ye Wang is an Associate Professor in the School of Artificial Intelligence at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) (CQUPT). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html) and previously worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
 
-His research focuses on multimodal content understanding, generation, and reasoning, with an emphasis on modeling human intentions, emotions, and preferences. He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, ICML, and ICLR.
+His research develops **human-centered multimodal AI** systems that understand human intentions and emotions, align with human preferences, and reason from reliable evidence under uncertainty. His work spans affective computing, image aesthetics, multimodal generation, hallucination correction, long-tailed learning, and multimodal reasoning.
 
-Dr. Wang has led projects supported by the National Natural Science Foundation of China and provincial-level research programs. His research has been recognized with several honors, including a Spotlight paper at ICML 2026, the Best Student Paper Award at NCAA 2026, the Best Paper Award at the International Conference on Brain Informatics 2024, and Best Paper Candidate at IEEE ISPCE-AS 2023.
+He has published in leading journals and conferences, including IEEE TIP, IEEE TAFFC, IEEE TKDE, IEEE TASLP, IEEE TCSVT, ICML, and ICLR. His work has received an **ICML 2026 Spotlight designation (Top 2.2%)**, the **Best Student Paper Award at NCAA 2026**, the **Best Conference Paper Award at Brain Informatics 2024**, and a **Best Paper Candidate recognition at IEEE ISPCE-ASIA 2023**.
 
-Beyond research, he is actively involved in student mentorship. His students have received national innovation awards and major competition prizes in the Challenge Cup, RoboCom, and the MCM/ICM. Many of his graduates have joined leading technology companies, including Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities such as the University of Michigan and Zhejiang University.
+He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He is also actively involved in teaching and student mentorship. His students have received national competition and innovation awards and have continued their careers at leading universities and technology companies.
 
-For detailed research papers, please refer to my [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN). 
+[Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm)
 
-For the Chinese version of my curriculum vitae, please refer to my [中文版个人主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm).
+<!-- After uploading your CV to /files/Ye_Wang_CV.pdf, add: · [CV](/files/Ye_Wang_CV.pdf) -->
 
-# 🔥News 
-- *2026.08*: One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). EnDist improves GNN explainers by correcting distribution shifts in explanatory subgraphs through consistency-guided generation: [[paper](https://ieeexplore.ieee.org/document/11627428)][[code](https://github.com/hegy1024/EnDist)]
-- *2026.07*: Our paper received the Best Student Paper Award at the 2026 International Conference on Neural Computing for Advanced Applications (NCAA 2026). This work explores natural-language-guided generation for autonomous driving, aiming to support safety evaluation under rare and high-risk traffic conditions: ([NCAA 2026](https://aaci.org.hk/ncaa2026/))
-- *2026.05*: One paper was accepted as a Spotlight paper at the 43rd International Conference on Machine Learning (ICML 2026, Top 2.2%). AGREE advances human–AI aesthetic preference alignment by revealing and mitigating gradient conflict among multiple aesthetic attributes in image aesthetic assessment: [[paper](https://openreview.net/pdf?id=GrIs035ec3)][[code]](https://github.com/Dahat364/AGREE)
-- *2026.04*: One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to reveal layered dependencies and nonlinear patterns among age-related facial attributes, reducing feature interference in face age synthesis: [[paper](https://ieeexplore.ieee.org/document/11511429)][[code]](https://github.com/SE-hash/HCFace)
-- *2026.03*: One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses imbalanced sequence learning with sequential expert specialization and Dempster-Shafer theory-based uncertainty fusion, reducing trainable parameters by up to 10.32%:  [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)][[code]( https://github.com/CQUPTWZX/Multi-experts)]
-- *2026.01*: One paper was accepted by the 2026 International Conference on Learning Representations (ICLR). LouisKV is proposed, which efficiently retrieves KV cache at semantic boundaries, boosting long-sequence reasoning performance by up to 4.7x: [[paper](https://openreview.net/forum?id=6RJ8fZwm4P&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions))]
-- *2025.09*: One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. A visual evidence-aware framework was presented that rectifies object hallucinations and restores missing content in LLM-based video captioning: [[paper](https://ieeexplore.ieee.org/document/11177574)][[code](https://github.com/no-zjc/VEaCap)]
-- *2025.09*: One paper was accepted by Information Fusion. GCFA was proposed to tackle long-tailed medical text classification by fusing LLM-generated head/tail features and a medical agent attention, improving tail-class performance via semantic diversity and term emphasis: [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)][[code](https://github.com/WQYwqy123456/GCFA-123#)]
-- *2025.09*: One paper was accepted by IEEE Transactions on Consumer Electronics. We developed CRMED, a medical dialogue generation model that leverages LLMs with continuous entity reasoning to capture relationships between medical entities in multi-turn conversations, significantly improving response quality for consumer health technology applications: [[paper](https://ieeexplore.ieee.org/document/11123515)][[code](https://github.com/xinyang183/CRMED)]
-- *2025.08*: One paper was accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI). Chinese character structures and boundary features were leveraged to recognize unseen terms and confusing medical entities: [[paper](https://ieeexplore.ieee.org/document/11112630/authors)][[code](https://github.com/jl7650/CCS.git)]
-- *2025.02*: One paper was accepted by Information Processing and Management. A hierarchical chat-based prompting strategy was proposed for MLLMs to improve spatio-temporal action detection in football by generating detailed, structured descriptions of fast-paced multi-player actions: [[paper](https://doi.org/10.1016/j.ipm.2025.104094)][[code](https://github.com/LeopoldSimmons/HCBS)]
-- *2024.12*: The Best Conference Paper was awarded from the The 17th International Conference on Brain Informatics. To address catastrophic forgetting in class incremental learning, we introduced a multi-granularity balance strategy that combines batch-level weighted loss, task-level contrastive learning, and decision-level knowledge distillation: ([BI 2024](https://rdcu.be/edXQi))
-- *2024.09*: One paper was accepted by IEEE Transactions on Affective Computing. DEDNet was proposed, which improves multimodal emotion recognition in conversations by disentangling inter-/intra-speaker emotional dependencies via relational subgraphs and incremental interaction: [[paper]](https://ieeexplore.ieee.org/abstract/document/10680310?casa_token=vcJgQz7-oOoAAAAA:aC1TU8fMzie06qcWov8N29Q5bDk7COkg8VwMmhZGSacbLCh0Rz0w8r8S9FUadoi8IMACLNxTbw)[[code](https://github.com/ZhangW1212)]
+# Employment
 
+- **Associate Professor**, School of Artificial Intelligence, Chongqing University of Posts and Telecommunications, 2026–present.
+- **Assistant Professor**, School of Computer Science and Technology, Chongqing University of Posts and Telecommunications, 2020–2025.
+- **Project Manager (on secondment)**, China Scholarship Council, 2020–2021.
+- **Research Scientist**, Samsung Research America, 2019.
+- **Research Intern**, T-Mobile USA, 2013.
 
+# Education
 
-# 🏁 Research teams
-- Mr. [Xuyang Zhou](https://leopoldsimmons.github.io/) (Ph.D. student)
-- Mr. [Zixuan Wu](https://github.com/CQUPTWZX) (Ph.D. student)
-- Mr. [Maocai Dai](https://github.com/Dahat364) (MS student)
-- Miss. Hongbing Chen (MS student)
-- Miss. Jie Yang (MS student)
-- Mr. Haokun Ren (MS student)
-- Mr. Yahui Lei (MS student)
-- Mr. Siyi Liu (MS student)
-- Mr. Gezhang Cao (MS student)
-- Mr. Jingying Peng (MS student)
-- Mr. Jun Hu (MS student)
-- Mr. Hao You (MS student)
-- Miss. Tingting Lei (MS student)
-- Mr. Jie Tang (MS student)
-- Miss. Jiayi Qiu (MS student)
-- Miss. Haiyan She (MS student)
-- Mr. Zhiyu Zhou (MS student)
-- Mr. Qingbin Su (MS student)
-- Mr. Mingyue Wang (MS student)
-- Mr. Jinhang Yao (MS student)
+- **Ph.D. in Computer Engineering**, Texas A&M University, 2014–2019.
+- **M.S. in Electrical Engineering**, The University of Texas at Dallas, 2012–2014.
+- **B.Eng. in Microelectronics**, Chongqing University of Posts and Telecommunications, 2007–2011.
 
-# 🎓 Alumni
-- Mr. [Pan Sun](https://github.com/SE-hash/HCFace) (Bambu Lab)
-- Miss. Xiaolin Zhou (China Tower)
-- Mr. [Yongliang Yang](https://asenniu.github.io/) (Tencent PCG)
-- Mr. [Jiancheng Zhou](https://github.com/no-zjc/VEaCap) (Mashang Consumer Finance)
-- Mr. [Wei Zhang](https://github.com/ZhangW1212) (Ph.D.@ South China University of Technology)
-- Miss. [Qingyan Wang](https://github.com/WQYwqy123456/GCFA-123#) (Zhihu)
-- Mr. [Xinyang Li](https://github.com/xinyang183/CRMED) (Chang'an)
-- Mr. Zhuoyi Yu (MS@ University of Electronic Science and Technology of China)
-- Mr. [Guanmeng Xian](https://gmxian.github.io/), Bachelor 2024 (MS@ Sichuan University)
-- Miss. Daitianxia Li, Master 2024 (Chongqing City Management College)
-- Mr. Zheng Wang, Master 2024 (Enmo tech)
-- Mr. [Qi Wei](https://github.com/jl7650/CCS), Master 2024 (Guangdong Planning and Designing Institute of Telecommunications)
-- Mr. Jingbo Liao, Master 2023 (Alibaba)
-- Mr. Qianmengke Zhao, Master 2023 (Chongqing Rural Commercial Bank)
-- Mr. Wenkang Lu, Master 2023 (Chang'an Tech)
-- Mr. [Qi Cheng](https://www.linkedin.com/in/qi-cheng-4365a9249/), Bachelor 2023 (MS@ University of Michigan, Ann Arbor)
-- Mr. Dongyu Xie, Bachelor 2023 (MS@ University of Electronic Science and Technology of China)
-- Miss. Xinyi Gao, Bachelor 2023 (MS@ University of Rochester)
+# Research
 
-# 🧑🏼‍🤝‍🧑🏻 Collaborators
+My research asks how multimodal AI can better understand people, reflect diverse human judgments, and remain reliable when evidence is incomplete or uncertain. I pursue this question through three connected directions:
+
+- **Human Understanding** — modeling emotions, intentions, preferences, human attributes, and complex activities from multimodal data ([J12](#J12), [J5](#J5), [J4](#J4), [C7](#C7)).
+- **Human–AI Alignment** — aligning model learning and generation with human preferences, cognitive structures, and multiple criteria ([J12](#J12), [J2](#J2), [C7](#C7)).
+- **Evidence-Grounded Reasoning** — improving reliability under hallucinations, missing evidence, uncertainty, distribution shifts, and long-tailed data ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
+
+# Selected Research Highlights
+
+- **2026** — Spotlight Paper, International Conference on Machine Learning (ICML), Top 2.2% ([C7](#C7)).
+- **2026** — Best Student Paper Award, International Conference on Neural Computing for Advanced Applications (NCAA) ([C6](#C6)).
+- **2024** — Best Conference Paper, International Conference on Brain Informatics ([C4](#C4)).
+- **2023** — Best Paper Candidate, IEEE ISPCE-ASIA ([C3](#C3)).
+
+# Research Funding
+
+**Principal Investigator**
+
+- **2024–2026:** National Natural Science Foundation of China, Young Scientists Fund (No. 62306056).
+- **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program.
+- **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (No. KJQN202100629).
+
+# News
+
+- **2026.08:** One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). EnDist corrects distribution shifts in explanatory subgraphs for more reliable GNN explanations. [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
+- **2026.07:** Our paper received the Best Student Paper Award at NCAA 2026. The work studies natural-language-guided generation of rare and high-risk scenarios for autonomous-driving safety evaluation. [[conference](https://aaci.org.hk/ncaa2026/)]
+- **2026.05:** Our paper was accepted as an ICML 2026 Spotlight paper (Top 2.2%). AGREE reveals and mitigates gradient conflict among aesthetic attributes in image aesthetic assessment. [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
+- **2026.04:** One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to model dependencies among age-related facial attributes. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
+- **2026.03:** One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses challenging-tailed sequence learning through expert specialization and uncertainty fusion. [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
+- **2026.01:** One paper was accepted at ICLR 2026. LouisKV retrieves KV cache at semantic boundaries and accelerates long-sequence reasoning by up to 4.7 times. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
+
+<details>
+<summary><strong>Earlier news</strong></summary>
+
+- **2025.09:** One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. The work rectifies object hallucinations and restores missing content in LLM-based video captioning. [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
+- **2025.09:** One paper was accepted by Information Fusion. GCFA improves long-tailed medical text classification through generative class features and agent attention. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
+- **2025.09:** One paper was accepted by IEEE Transactions on Consumer Electronics. CRMED performs continuous entity reasoning for multi-turn medical dialogue generation. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
+- **2025.08:** One paper was accepted by IEEE Journal of Biomedical and Health Informatics. The work models Chinese character structures and boundaries for clinical named entity recognition. [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
+- **2025.02:** One paper was accepted by Information Processing & Management. The work uses multimodal large language models for spatio-temporal action detection in football. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
+- **2024.12:** Our paper received the Best Conference Paper Award at the 17th International Conference on Brain Informatics. [[paper](https://rdcu.be/edXQi)]
+- **2024.09:** One paper was accepted by IEEE Transactions on Affective Computing. DEDNet models inter- and intra-speaker dependencies for multimodal emotion recognition. [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
+- **2024.08:** One paper was accepted by Artificial Intelligence Review. The work models interactions between Chinese characters and lexical information for Chinese named entity recognition. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
+- **2024.08:** One paper was accepted by Neural Computing and Applications. SMOT reduces cross-modal distribution gaps through self-supervised modal optimization for image captioning. [[paper](https://link.springer.com/article/10.1007/s00521-024-10211-4)]
+- **2024.01:** One paper was accepted by IEEE Transactions on Consumer Electronics. KDDGAN enables explicit and independent manipulation of facial attributes through knowledge-guided feature disentanglement. [[paper](https://ieeexplore.ieee.org/document/10374272)]
+- **2023.11:** Our paper was selected as a Best Paper Candidate at IEEE ISPCE-ASIA 2023. [[conference](https://dl2link.com/ISPCE-AS2023/index.html)]
+- **2023.05:** Interviewed by *People's Education* (《人民教育》). [[link](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html)]
+- **2023.03:** Interviewed by *Chongqing Daily* about ChatGPT. [[article](https://www.cqrb.cn/topics/2022xwhkt/hy/)] [[video](https://v.douyin.com/i8Nre2Cx/)]
+
+</details>
+
+# Publications
+
+## Journal Papers
+
+<span id="J12"></span>**[J12]** **Ye Wang**, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, and Hong Yu*. **Hierarchical Causal Learning for Face Age Synthesis.** *IEEE Transactions on Image Processing (TIP)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
+
+<span id="J11"></span>**[J11]** Guangyong He, Li Liu*, Youmin Zhang, **Ye Wang**, Qun Liu, and Guoyin Wang. **Enhancing Graph Neural Network Explainers Using a Distribution Shift Consistency-Guided Generator.** *IEEE Transactions on Knowledge and Data Engineering (TKDE)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
+
+<span id="J10"></span>**[J10]** **Ye Wang**, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu*, and Guoyin Wang. **Mastering the Minority: An Uncertainty-Guided Multi-Expert Framework for Challenging-Tailed Sequence Learning.** *IEEE Transactions on Audio, Speech, and Language Processing (TASLP)*, 2026. [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
+
+<span id="J9"></span>**[J9]** **Ye Wang**, Jiancheng Zhou, Qun Liu*, Feng Hu, and Guoyin Wang. **Visual Evidence-Aware for Object Hallucinations Rectification in LLM-Based Video Captioning.** *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
+
+<span id="J8"></span>**[J8]** **Ye Wang**, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, and Dajiang Lei*. **GCFA: Generative Class Feature Fusion with Agent Attention for Medical Text Classification.** *Information Fusion*, 2026. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
+
+<span id="J7"></span>**[J7]** **Ye Wang**, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang*, and Dajiang Lei*. **Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation.** *IEEE Transactions on Consumer Electronics*, 2025. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
+
+<span id="J6"></span>**[J6]** **Ye Wang**, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, and Dajiang Lei*. **Cross-Interaction of Chinese Character Structures and Boundary Features for Improving Clinical Named Entity Recognition.** *IEEE Journal of Biomedical and Health Informatics (J-BHI)*, 2025. [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
+
+<span id="J5"></span>**[J5]** Xuyang Zhou, **Ye Wang***, Fei Tao, Hong Yu, and Qun Liu. **Hierarchical Chat-Based Strategies with MLLMs for Spatio-Temporal Action Detection.** *Information Processing & Management*, 2025. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
+
+<span id="J4"></span>**[J4]** **Ye Wang**, Wei Zhang, Ke Liu*, Wei Wu, Feng Hu, Hong Yu, and Guoyin Wang. **Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition.** *IEEE Transactions on Affective Computing*, 2025. [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
+
+<span id="J3"></span>**[J3]** **Ye Wang**, Zheng Wang, Hong Yu, Guoyin Wang*, and Dajiang Lei*. **The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition.** *Artificial Intelligence Review*, 2024. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
+
+<span id="J2"></span>**[J2]** **Ye Wang**, Qianmengke Zhao, Qun Liu*, Guoyin Wang, Hong Yu, Li Liu, and Jiaxu Leng. **KDDGAN: Knowledge-Guided Explicit Feature Disentanglement for Facial Attribute Editing.** *IEEE Transactions on Consumer Electronics*, 2024. [[paper](https://ieeexplore.ieee.org/document/10374272)]
+
+<span id="J1"></span>**[J1]** **Ye Wang**, Xinxiang Zhang, Mi Lu, Han Wang, and Yoonsuck Choe. **Attention Augmentation with Multi-Residual in Bidirectional LSTM.** *Neurocomputing*, 2020.
+
+## Conference Papers
+
+<span id="C7"></span>**[C7]** **Ye Wang**, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, and Hong Yu. **When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment.** *International Conference on Machine Learning (ICML)*, 2026. **Spotlight, Top 2.2%.** [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
+
+<span id="C6"></span>**[C6]** Tingting Lei, Yifan Zhu, Runxi Zhang, Feng Hu, Hong Yu, and **Ye Wang**. **NLG-Gen: Natural Language-Guided Generation of Long-Tail Critical Scenarios for Autonomous Driving.** *International Conference on Neural Computing for Advanced Applications (NCAA)*, 2026. **Best Student Paper Award.** [[conference](https://aaci.org.hk/ncaa2026/)]
+
+<span id="C5"></span>**[C5]** Wenbo Wu, Qingyi Si, Xiurui Pan, **Ye Wang**, and Jie Zhang. **LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences.** *International Conference on Learning Representations (ICLR)*, 2026. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
+
+<span id="C4"></span>**[C4]** Yan Xian, Hong Yu, **Ye Wang**, and Guoyin Wang. **A Novel Class Incremental Learning Method via Multi-Granularity Balance Inspired by Human Granular Cognition Mechanism.** *International Conference on Brain Informatics*, 2024. **Best Conference Paper.** [[paper](https://rdcu.be/edXQi)]
+
+<span id="C3"></span>**[C3]** Xinqiang Jiang, Yingnan Geng, Yinzhou Xiong, Fei Tao, and **Ye Wang**. **A Privacy-Aware Framework for Assessing and Recommending Short Video Advertisement.** *IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA)*, 2023. **Best Paper Candidate.** [[conference](https://dl2link.com/ISPCE-AS2023/index.html)]
+
+<span id="C2"></span>**[C2]** Jiaxu Leng and **Ye Wang**. **RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution.** *IEEE International Conference on Multimedia and Expo (ICME)*, 2022.
+
+<span id="C1"></span>**[C1]** **Ye Wang**, Han Wang, Xinxiang Zhang, Theodora Chaspari, Yoonsuck Choe, and Mi Lu. **An Attention-Aware Bidirectional Multi-Residual Recurrent Neural Network: A Study on Short-Term Text Classification.** *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2019.
+
+\* Corresponding author.
+
+For a complete and up-to-date publication list, please visit [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) or [DBLP](https://dblp.org/pid/44/6292-6.html).
+
+# Teaching
+
+## Teaching Honors
+
+- **2025:** Course Leader, *Data Structures for International Students*, designated as a Chongqing Municipal First-Class Undergraduate Course.
+- **2024:** Award for Outstanding Contribution to International Student Education in Chongqing.
+- **2023:** Outstanding Advisor, National Finals of the RoboCom Robot Developer Competition.
+
+## Courses at CQUPT
+
+- **Natural Language Processing**, Fall 2024 and Fall 2025.
+- **AI Literacy and Practice: From Fundamentals to DeepSeek Applications**, Spring 2025 and Fall 2025.
+- **Algorithm Analysis and Design for International Students**, Fall 2025.
+- **Data Structures for International Students**, Spring 2023 and Spring 2025.
+- **Fundamentals of Data Mining**, Spring 2022 and Fall 2024.
+- **Machine Learning Models and Algorithms**, Fall 2022.
+- **Principles of Artificial Intelligence**, Fall 2020.
+- **Data Mining**, Fall 2022.
+- **Big Data Analytics and Mining**, Fall 2023 and Fall 2024.
+
+## Teaching Experience at Texas A&M University
+
+- **Teaching Assistant, ECEN 651: Microprogrammed Control of Digital Systems**, Fall 2014 and Spring 2015.
+- **Teaching Assistant, ECEN 350: Computer Architecture**, Spring 2015, Fall 2017, Fall 2018, and Spring 2019.
+- **Teaching Assistant, ECEN 214: Electrical Circuit Theory**, Spring 2016.
+
+# Research Team
+
+## Ph.D. Students
+
+- [Xuyang Zhou](https://leopoldsimmons.github.io/) — direct-entry Ph.D. student; multimodal football understanding and reasoning ([J5](#J5)).
+- [Zixuan Wu](https://github.com/CQUPTWZX) — uncertainty-aware learning and autonomous-driving reasoning ([J10](#J10)).
+
+## M.S. Students
+
+- [Maocai Dai](https://github.com/Dahat364) — image aesthetic assessment and human–AI preference alignment ([C7](#C7)).
+- Hongbing Chen
+- Jie Yang
+- Haokun Ren
+- Yahui Lei
+- Siyi Liu
+- Gezhang Cao
+- Jingying Peng
+- Jun Hu
+- Hao You
+- Tingting Lei — long-tail critical scenario generation for autonomous driving ([C6](#C6)).
+- Jie Tang
+- Jiayi Qiu
+- Haiyan She
+- Zhiyu Zhou
+- Qingbin Su
+- Mingyue Wang
+- Jinhang Yao
+
+## Undergraduate Students
+
+- Xinzhe Wang
+- Yi Huang
+- Ruizhe Kang
+
+# Alumni and Former Advisees
+
+## Former M.S. Students
+
+- **Xiaolin Zhou** (2026) — Project Manager, China Tower; research on multimodal sarcasm understanding.
+- **[Pan Sun](https://github.com/SE-hash/HCFace)** (2026) — Big Data Engineer, Bambu Lab; research on causal modeling for face age synthesis ([J12](#J12)).
+- **[Zixuan Wu](https://github.com/CQUPTWZX)** (2025) — Ph.D. student at CQUPT; research on uncertainty-aware sequence learning ([J10](#J10)).
+- **[Wei Zhang](https://github.com/ZhangW1212)** (2025) — Ph.D. student at South China University of Technology; research on multimodal emotion understanding ([J4](#J4)).
+- **[Yongliang Yang](https://asenniu.github.io/)** (2025) — Software Engineer, Tencent PCG.
+- **[Xinyang Li](https://github.com/xinyang183/CRMED)** (2025) — Software Engineer, Changan Automobile; research on multi-turn medical dialogue generation ([J7](#J7)).
+- **[Qingyan Wang](https://github.com/WQYwqy123456/GCFA-123)** (2025) — Algorithm Engineer, Zhihu; research on medical text classification ([J8](#J8)).
+- **[Jiancheng Zhou](https://github.com/no-zjc/VEaCap)** (2025) — Software Engineer, Mashang Consumer Finance; research on hallucination rectification in video captioning ([J9](#J9)).
+- **Daitianxia Li** (2024) — Lecturer, Chongqing City Management College; research on self-supervised and multi-granularity image captioning.
+- **[Qi Wei](https://github.com/jl7650/CCS)** (2024) — IT Consulting Engineer, Guangdong Telecom Planning and Design Institute; research on clinical named entity recognition ([J6](#J6)).
+- **Zheng Wang** (2024) — Software Engineer, Enmotech; research on character- and lexical-level Chinese named entity recognition ([J3](#J3)).
+- **Jingbo Liao** (2023) — Software Engineer, Alibaba; research on interpretable and diverse open-domain dialogue generation.
+- **Qianmengke Zhao** (2023) — Software Engineer, Chongqing Rural Commercial Bank; research on knowledge-guided facial attribute editing ([J2](#J2)).
+- **Wenkang Lu** (2023) — Algorithm Engineer, Changan Technology.
+
+## Former Undergraduate Advisees
+
+- **Jie Wei** (2026) — M.S. student at City University of Hong Kong.
+- **Wenqi Dong** (2026) — M.S. student at the University of Hong Kong.
+- **[Xuyang Zhou](https://leopoldsimmons.github.io/)** (2025) — direct-entry Ph.D. student at CQUPT; research on spatio-temporal action understanding ([J5](#J5)).
+- **Zhuoyi Yu** (2025) — M.S. student at the University of Electronic Science and Technology of China.
+- **Tingting Lei** (2025) — M.S. student at CQUPT; research on long-tail critical scenario generation ([C6](#C6)).
+- **[Guanmeng Xian](https://gmxian.github.io/)** (2024) — M.S. student at Sichuan University.
+- **[Maocai Dai](https://github.com/Dahat364)** (2024) — M.S. student at CQUPT; research on conflict-aware image aesthetic assessment ([C7](#C7)).
+- **[Qi Cheng](https://www.linkedin.com/in/qi-cheng-4365a9249/)** (2023) — M.S. student at the University of Michigan, Ann Arbor.
+- **Dongyu Xie** (2023) — M.S. student at the University of Electronic Science and Technology of China.
+- **Xinyi Gao** (2023) — M.S. student at the University of Rochester.
+
+## Selected Student Awards
+
+- **2025:** National Third Prize, 19th Challenge Cup National College Students' Extracurricular Academic Science and Technology Contest.
+- **2025:** CQUPT Outstanding Undergraduate Thesis Awards.
+- **2024:** National Third Prize, RoboCom Robot Developer Competition.
+- **2024:** Outstanding Undergraduate Thesis of Chongqing.
+- **2024:** National Undergraduate Innovation and Entrepreneurship Training Program, rated Outstanding upon completion.
+- **2023:** Second Prize, Mathematical Contest in Modeling.
+- **2023:** CQUPT Outstanding Undergraduate Thesis Award.
+- **2023:** National First Prize, Math China Mathematical Modeling Competition.
+- **2023:** National Second Prize, China College Students' Service Outsourcing Innovation and Entrepreneurship Competition.
+
+# Collaborators
+
 - [Guoyin Wang](https://faculty.cqupt.edu.cn/wanggy/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
 - [Hong Yu](https://faculty.cqupt.edu.cn/yuhong/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
 - [Qun Liu](https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm), Chongqing University of Posts and Telecommunications, China.
@@ -101,41 +260,24 @@ For the Chinese version of my curriculum vitae, please refer to my [中文版个
 - [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en), Samsung Research America, United States.
 - [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ), Amazon, United States.
 - [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN), Southern Methodist University, United States.
-- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), Oxford University, United Kingdom.
+- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), University of Oxford, United Kingdom.
 
-# 🏫 Educations
-- Ph.D. Computer Engineering, Texas A&M University, Texas, United States. 2014.08 ~ 2019.12.
-- M.Sc. Electrical Engineering, The University of Texas at Dallas, Texas, United States. 2012.08 ~ 2014.05.
-- B.Eng. Microelectronics, Chongqing University of Posts and Telecommunications, Chongqing, China. 2007.09 ~ 2011.07.
+# Academic Service
 
-# 📋 Journal papers
-- [12] Ye Wang, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, Hong Yu*. Hierarchical Causal Learning for Face Age Synthesis [J]. IEEE Transactions on Image Processing (TIP). 2026. (SCI-1 Top, CCF-A)
-- [11] Guangyong He, Li Liu*, Youmin Zhang, Ye Wang, Qun Liu, Guoyin Wang. Enhancing Graph Neural Network Explainers Using a Distribution Shift Consistency-Guided Generator [J]. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2026. (SCI-1 Top, CCF-A)
-- [10] Ye Wang, Zixuan Wu, Lifeng Shen, Jiang Xie, Xiaoling Wang, Hong Yu*, and Guoyin Wang. Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning [J]. IEEE Transactions on Audio, Speech and Language Processing (TASLP), V34, pp. 1802-1814. 2026. (SCI-1 Top, CCF-B)
-- [9] Ye Wang, Jiancheng Zhou, Qun Liu*, Feng Hu, Guoyin Wang. Visual Evidence-aware for Object Hallucinations Rectification in LLM-based Video Captioning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), V36, I3, pp. 2842-2853, 2026. (SCI-1 Top, CCF-B)
-- [8] Ye Wang, Qingyan Wang, Hong Yu, Jiang Xie, Feng Hu, Xiaoling Wang, Dajiang Lei*. GCFA: Generative class feature fusion with agent attention for medical text classification [J]. Information Fusion, V126, Part B, 103639, 2026. (SCI-1 Top)
-- [7] Ye Wang, Xinyang Li, Hong Yu, Feng Hu, Guoyin Wang* and Dajiang Lei*. Continuous Entity Reasoning for Multi-Turn Medical Dialogue Generation [J]. IEEE Transactions on Consumer Electronics. V71, I4, pp. 10681-10694, 2025. (SCI 2)
-- [6] Ye Wang, Qi Wei, Hong Yu, Guoyin Wang, Chunmeng Shi, Dajiang Lei*. Cross-Interaction of Chinese Characters Structures and Boundary Features for Improving Clinical Named Entity Recognition [J]. IEEE Journal of Biomedical and Health Informatics (JBHI). V29, I11, pp. 8508-8521, 2025. (SCI-1 Top)						
-- [5] Xuyang Zhou, Ye Wang∗, Fei Tao, Hong Yu, Qun Liu. Hierarchical Chat-Based Strategies with MLLMs For Spatio-Temporal Action Detection [J].Information Processing and Management. V62, I4, 104094. 2025. (SCI-1 Top, CCF-B)		
-- [4] Ye Wang, Wei Zhang, Ke Liu*, Wei Wu, Feng Hu, Hong Yu, Guoyin Wang. Dynamic Emotion-Dependent Network with Relational Subgraph Interaction for Multimodal Emotion Recognition [J]. IEEE Transactions on Affective Computing. V16, I2, pp. 712-712. 2025. (SCI-1 Top, CCF-B)
-- [3] Ye Wang, Zheng Wang, Hong Yu, Guoyin Wang* and Dajiang Lei*. The Interactive Fusion of Characters and Lexical Information for Chinese Named Entity Recognition [J]. Artificial Intelligence Review. V57, I258, pp. 1-21. 2024. (SCI-1 Top)
-- [2] Ye Wang, Qianmengke Zhao, Qun Liu*, Guoyin Wang, Hong Yu, Li Liu, and Jiaxu Leng. KDDGAN: Knowledge-guided explicit feature disentanglement for Facial Attribute Editing [J]. IEEE Transactions on Consumer Electronics (TCE). V70, I1, pp. 2759-2772, Feb 2024. (SCI 2)
-- [1] Ye Wang, Xinxiang Zhang, Mi Lu, Han Wang, Yoonsuck Choe. Attention augmentation with multi-residual in bidirectional LSTM [J]. Neurocomputing, V385, pp 340-347, 2020. (SCI-2 Top)						
+- **Professional Societies:** Committee Member, CAAI Technical Committee on Granular Computing and Knowledge Discovery; Corresponding Member, CAAI Technical Committee on Artificial Intelligence Foundations.
+- **Editorial Service:** Young Editorial Board Member, *CAAI Transactions on Intelligent Systems*.
+- **Conference Organization:** Organizer and Session Chair, Mesoscopic Cognitive Machine Learning Workshop, IJCRS 2026; Competition Chair, NCAA, 2023–2026; Web Chair, IEEE MedAI 2024.
 
-# 📃 Conference papers
-- [7] Ye Wang, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, Hong Yu. When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment [C]. International Conference on Machine Learning (ICML), Seoul, South Korea. 2026. (CCF-A, Spotlight, Top 2.2%)
-- [6] Tingting Lei, Yifan Zhu, Runxi Zhang, Feng Hu, Hong Yu, and Ye Wang, NLG-Gen: Natural Language-Guided Generation of Long-Tail Critical Scenarios for Autonomous Driving [C]. 2026 International Conference on Neural Computing for Advanced Applications (NCAA), Osaka, Japan. (Best Student Paper Award)
-- [5] Wenbo Wu, Qingyi Si, Xiurui Pan, Ye Wang, Jie Zhang. LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences [C]. 2026 International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, 2026. (CCF-A)
-- [4] Yan Xian, Hong Yu, Ye Wang, Guoyin Wang. A Novel Class Incremental Learning Method via Multi-granularity Balance Inspired by Human Granular Cognition Mechanism [C]. 2024 International Conference on Brain Informatics, pp 375–387, Bangkok, Thailand, 2024. (Best Conference Paper)
-- [3] XinQiang Jiang, YingNan Geng, Yinzhou Xiong, Fei Tao, Ye Wang. A Privacy-aware Framework for Assessing and Recommending Short Video Advertisement [C]. 2023 IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA), pp 1-7, Shanghai, China, 2023. (Best Paper Candidate)
-- [2] Jiaxu Leng, Ye Wang. RCNet: Recurrent Collaboration Network Guided by Facial Priors for Face Super-Resolution [C]. 2022 IEEE International Conference on Multimedia and Expo (ICME), pp 1-6, Taipei, Taiwan, 2022. (CCF-B）
-- [1] Ye Wang, Han Wang, Xinxiang Zhang, Theodora Chaspari, Yoonsuck Choe, Mi Lu, An attention-aware bidirectional multi-residual recurrent neural network (abmrnn): A study about better short-term text classification [C]. 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp 3582-3586, Brighton, UK, 2019. (CCF-B)						
+# Invited Talks, Lectures, and Media
 
+## Invited Talks and Lectures
 
-# 📰 Previous News
-- *2024.08*: One paper was accepted by Artificial Intelligence Review. We proposed an interactive fusion approach that fully models the interaction between characters and lexical information through graph attention networks and secondary fusion, achieving more comprehensive feature representations and significantly improving performance in Chinese Named Entity Recognition:[[paper]](https://link.springer.com/article/10.1007/s10462-024-10891-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240816&utm_content=10.1007/s10462-024-10891-3)[[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
-- *2024.08*: One paper was accepted by Neural Computing and Applications. We proposed a self-supervised modal optimization transformer (SMOT) that reduces cross-modal distribution gaps by optimizing image features with paired captions and fusing them with complementary features, which enables more efficient learning, better generalization on small datasets, and improved performance in image captioning: [[paper]](https://link.springer.com/article/10.1007/s00521-024-10211-4)
-- *2024.01*: One paper was accepted by IEEE Transactions on Consumer Electronics. We introduced a knowledge-guided explicit feature disentanglement network that transforms implicit feature representations into explicit semantics with prior knowledge, enabling independent manipulation of facial attributes in facial attribute editing: [[paper]](https://ieeexplore.ieee.org/document/10374272)
-- *2023.11*: The Best Paper Candidate was awarded from the 2023 IEEE ISPCE-AS: ([ISPCE-AS2023](https://dl2link.com/ISPCE-AS2023/index.html))
-- *2023.05*: Interviewed by People's Education(《人民教育》): [[Link]](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html) 
-- *2023.03*: Interviewed by Chongqing Daily Newspaper(重庆日报新闻会客厅) about ChatGPT: [[Link]](https://v.douyin.com/i8Nre2Cx/) 
+- **2025:** *Visual Intelligence through Multi-Granularity Cognitive Computing*, CCF@U Lecture Series (No. 1323), Sichuan University, Chengdu. [[link](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/hyhdzxdt/2025-10-30/850684.shtml)]
+- **2023:** *Generative Modeling through Latent-Space Disentanglement*, Doctoral Forum, Yan'an University. [[link](https://yau.edu.cn/info/1122/67356.htm)]
+- **2023:** Summer Training Program on Machine Learning, National Center for Applied Mathematics, Chongqing. [[link](https://cqcam.cqnu.edu.cn/info/2018/3631.htm)]
+- **2023:** *Generative AI in Education: Opportunities and Challenges*, Faculty Salon, Chongqing Nankai Secondary School. [[link](https://mp.weixin.qq.com/s/DF7obFf5G6xy2vjqfyu7qg)]
+
+## Media Interviews
+
+- **2023:** Interviewed by *People's Education* (《人民教育》). [[link](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html)]
+- **2023:** *ChatGPT Is Here: Should We Be Anxious?*, interview with *Chongqing Daily*. [[article](https://www.cqrb.cn/topics/2022xwhkt/hy/)] [[video](https://v.douyin.com/i8Nre2Cx/)]
