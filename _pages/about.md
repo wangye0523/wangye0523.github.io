@@ -289,18 +289,20 @@ For a complete and up-to-date publication list, please visit [Google Scholar](ht
 
 - **International Conference on Machine Learning (ICML):** 2026.
 - **AAAI Conference on Artificial Intelligence (AAAI):** 2026.
-- **Conference on Language Modeling (COLM):** 2025, 2026.
+- **Conference on Language Modeling (COLM):** 2024, 2025, 2026.
 - **ACM International Conference on Multimedia (ACM MM):** 2026.
-- **ACL Rolling Review**: 2025-2026.
-- **European Conference on Artificial Intelligence (ECAI):** 2025.
-- **International Joint Conference on Artificial Intelligence:** 2025.
+- **ACL Rolling Review**: 2025, 2026.
+- **European Conference on Artificial Intelligence (ECAI):** 2022, 2023, 2024, 2025.
+- **International Joint Conference on Artificial Intelligence:** 2023, 2024.
 
 ## Journal Reviewer
-- *IEEE Transactions on Image Processing (TIP)*
-- *IEEE Transactions on Audio, Speech, and Language Processing (TASLP)*
-- *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*
-- *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
-- *IEEE Transactions on Multimedia (TMM)*
+- **IEEE Transactions on Image Processing (TIP)**
+- **IEEE Transactions on Audio, Speech, and Language Processing (TASLP)**
+- **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**
+- **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
+- **IEEE Transactions on Multimedia (TMM)**
+- **IEEE Transactions on Affective Computing (TAFFC)**
+
 
 ## Professional Society Service
 
