@@ -55,7 +55,7 @@ My research studies how AI can comprehensively understand people, reflect divers
 - **2026** — ICML 2026 Gold Reviewer.
 - **2026** — Best Student Paper Award, International Conference on Neural Computing for Advanced Applications (NCAA) ([C6](#C6)).
 - **2024** — Best Conference Paper, International Conference on Brain Informatics ([C4](#C4)).
-- **2023** — Best Paper Candidate, IEEE ISPCE-ASIA ([C3](#C3)).
+- **2023** — Best Paper Candidate, IEEE International Symposium on Product Compliance Engineering - Asia (ISPCE-ASIA) ([C3](#C3)).
 
 # Research Funding
 
