@@ -27,7 +27,7 @@ He has served as principal investigator for projects supported by the National N
 
 Beyond research, he is deeply committed to student mentorship. His students have received national innovation awards and major prizes in competitions including the Challenge Cup, RoboCom, and the MCM/ICM. His graduates have joined leading technology companies such as Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities including the University of Michigan and Zhejiang University.
 
-[Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · <a href="{{ 'docs/Ye_Wang_CV.pdf' | relative_url }}" target="_blank">Curriculum Vitae (July 2026)</a>
+[Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · <a href="{{ 'Ye_Wang_CV.pdf' | relative_url }}" target="_blank">Curriculum Vitae (July 2026)</a>
 
 <!-- Keep the PDF at /docs/Ye_Wang_CV.pdf so this link remains valid. -->
 
