@@ -46,8 +46,8 @@ He has served as principal investigator for projects supported by the National N
 My research studies how AI can comprehensively understand people, reflect diverse human judgments, and remain reliable when evidence is uncertain. I pursue this question through three connected directions:
 
 - **Human Understanding** — modeling emotions, preferences, human attributes and activities from multimodal data ([J12](#J12), [J5](#J5), [J4](#J4), [C7](#C7)).
-- **Human–AI Alignment** — aligning model learning and generation with human preferences, cognitive structures, and multiple criteria ([J12](#J12), [J2](#J2), [C7](#C7)).
-- **Evidence-Grounded Reasoning** — improving reliability under hallucinations, missing evidence, uncertainty, distribution shifts, and long-tailed data ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
+- **Human–AI Alignment** — aligning model learning and generation with human preferences and multiple criteria ([J12](#J12), [J2](#J2), [C7](#C7)).
+- **Evidence-Grounded Reasoning** — improving reliability under hallucinations, uncertainty, and distribution shifts ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
 
 # Honors and Awards
 
