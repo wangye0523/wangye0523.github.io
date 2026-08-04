@@ -186,7 +186,7 @@ Do not describe these projects as your own PI funding.
 
 - **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
 
-## Conference Organization
+## Conference Service
 
 - **Session Chair**, Mesoscopic Cognitive Machine Learning Workshop, International Joint Conference on Rough Sets (IJCRS), 2026.
 - **Competition Chair**, International Conference on Neural Computing for Advanced Applications (NCAA), 2023–2026.
@@ -215,9 +215,9 @@ Do not describe these projects as your own PI funding.
 - **Committee Member**, CAAI Technical Committee on Granular Computing and Knowledge Discovery.
 - **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
 
-# Invited Talks, Lectures, and Media
+# Invited Talks and Media
 
-## Invited Talks and Lectures
+## Invited Talks
 
 - **2025:** *Visual Intelligence through Multi-Granularity Cognitive Computing*, CCF@U (No. 1323), Sichuan University, Chengdu. [[link](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/hyhdzxdt/2025-10-30/850684.shtml)]
 - **2023:** *Generative Modeling through Latent-Space Disentanglement*, Doctoral Forum, Yan'an University. [[link](https://yau.edu.cn/info/1122/67356.htm)]
