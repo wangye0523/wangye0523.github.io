@@ -321,9 +321,9 @@ Do not describe these projects as your own PI funding.
 - [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en), University of Oxford, United Kingdom.
 
 
-# Alumni and Former Advisees
+# Alumni
 
-## Former M.S. Students
+## M.S. Students
 
 - **Xiaolin Zhou** (2026) — Project Manager, China Tower; research on multimodal sarcasm understanding.
 - **[Pan Sun](https://github.com/SE-hash/HCFace)** (2026) — Big Data Engineer, Bambu Lab; research on causal modeling for face age synthesis ([J12](#J12)).
@@ -340,7 +340,7 @@ Do not describe these projects as your own PI funding.
 - **Qianmengke Zhao** (2023) — Software Engineer, Chongqing Rural Commercial Bank; research on knowledge-guided facial attribute editing ([J2](#J2)).
 - **Wenkang Lu** (2023) — Algorithm Engineer, Changan Technology.
 
-## Former Undergraduate Advisees
+## Undergraduate Students
 
 - **Jie Wei** (2026) — M.S. student at City University of Hong Kong.
 - **Wenqi Dong** (2026) — M.S. student at the University of Hong Kong.
