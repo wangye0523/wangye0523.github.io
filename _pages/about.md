@@ -42,71 +42,54 @@ He is deeply committed to student mentorship. His students have received nationa
 
 # News
 
-- **2026.08:** One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). EnDist corrects distribution shifts in explanatory subgraphs for more reliable GNN explanations. [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
-- **2026.07:** Our paper received the Best Student Paper Award at NCAA 2026. The work studies natural-language-guided generation of rare and high-risk scenarios for autonomous-driving safety evaluation. [[conference](https://aaci.org.hk/ncaa2026/)]
-- **2026.05:** Our paper was accepted as an ICML 2026 Spotlight paper (Top 2.2%). AGREE reveals and mitigates gradient conflict among aesthetic attributes in image aesthetic assessment. [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
-- **2026.04:** One paper was accepted by IEEE Transactions on Image Processing (TIP). HCFace uses hierarchical causal learning to model dependencies among age-related facial attributes. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
-- **2026.03:** One paper was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). UME addresses challenging-tailed sequence learning through expert specialization and uncertainty fusion. [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
-- **2026.01:** One paper was accepted at ICLR 2026. LouisKV retrieves KV cache at semantic boundaries and accelerates long-sequence reasoning by up to 4.7 times. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
+- **2026.08:** EnDist was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
+- **2026.07:** NLG-Gen received the Best Student Paper Award at NCAA 2026. [[conference](https://aaci.org.hk/ncaa2026/)]
+- **2026.05:** AGREE was selected as an ICML 2026 Spotlight paper (Top 2.2%). [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
+- **2026.04:** HCFace was accepted by IEEE Transactions on Image Processing (TIP). [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
+- **2026.03:** UME was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
+- **2026.01:** LouisKV was accepted at ICLR 2026. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
 
 <details markdown="1">
 <summary><strong>Earlier news</strong></summary>
 
-- **2025.09:** One paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology. The work rectifies object hallucinations and restores missing content in LLM-based video captioning. [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
-
-- **2025.09:** One paper was accepted by Information Fusion. GCFA improves long-tailed medical text classification through generative class features and agent attention. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
-
-- **2025.09:** One paper was accepted by IEEE Transactions on Consumer Electronics. CRMED performs continuous entity reasoning for multi-turn medical dialogue generation. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
-
-- **2025.08:** One paper was accepted by IEEE Journal of Biomedical and Health Informatics. The work models Chinese character structures and boundaries for clinical named entity recognition. [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
-
-- **2025.02:** One paper was accepted by Information Processing & Management. The work uses multimodal large language models for spatio-temporal action detection in football. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
-
+- **2025.09:** VEaCap was accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT). [[paper](https://ieeexplore.ieee.org/document/11177574)] [[code](https://github.com/no-zjc/VEaCap)]
+- **2025.09:** GCFA was accepted by Information Fusion. [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525007110)] [[code](https://github.com/WQYwqy123456/GCFA-123)]
+- **2025.09:** CRMED was accepted by IEEE Transactions on Consumer Electronics. [[paper](https://ieeexplore.ieee.org/document/11123515)] [[code](https://github.com/xinyang183/CRMED)]
+- **2025.08:** Our clinical named entity recognition paper was accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI). [[paper](https://ieeexplore.ieee.org/document/11112630/authors)] [[code](https://github.com/jl7650/CCS)]
+- **2025.02:** HCBS was accepted by Information Processing & Management. [[paper](https://doi.org/10.1016/j.ipm.2025.104094)] [[code](https://github.com/LeopoldSimmons/HCBS)]
 - **2024.12:** Our paper received the Best Conference Paper Award at the 17th International Conference on Brain Informatics. [[paper](https://rdcu.be/edXQi)]
-
-- **2024.09:** One paper was accepted by IEEE Transactions on Affective Computing. DEDNet models inter- and intra-speaker dependencies for multimodal emotion recognition. [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
-
-- **2024.08:** One paper was accepted by Artificial Intelligence Review. The work models interactions between Chinese characters and lexical information for Chinese named entity recognition. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
-
-- **2024.08:** One paper was accepted by Neural Computing and Applications. SMOT reduces cross-modal distribution gaps through self-supervised modal optimization for image captioning. [[paper](https://link.springer.com/article/10.1007/s00521-024-10211-4)]
-
-- **2024.01:** One paper was accepted by IEEE Transactions on Consumer Electronics. KDDGAN enables explicit and independent manipulation of facial attributes through knowledge-guided feature disentanglement. [[paper](https://ieeexplore.ieee.org/document/10374272)]
-
+- **2024.09:** DEDNet was accepted by IEEE Transactions on Affective Computing (TAFFC). [[paper](https://ieeexplore.ieee.org/document/10680310)] [[code](https://github.com/ZhangW1212)]
+- **2024.08:** Our Chinese named entity recognition paper was accepted by Artificial Intelligence Review. [[paper](https://link.springer.com/article/10.1007/s10462-024-10891-3)] [[code](https://github.com/wangye0523/The-interactive-fusion-of-characters-and-lexical-information-for-Chinese-named-entity-recognition)]
+- **2024.08:** SMOT was accepted by Neural Computing and Applications. [[paper](https://link.springer.com/article/10.1007/s00521-024-10211-4)]
+- **2024.01:** KDDGAN was accepted by IEEE Transactions on Consumer Electronics. [[paper](https://ieeexplore.ieee.org/document/10374272)]
 - **2023.11:** Our paper was selected as a Best Paper Candidate at IEEE ISPCE-ASIA 2023. [[conference](https://dl2link.com/ISPCE-AS2023/index.html)]
-
 - **2023.05:** Interviewed by *People's Education* (《人民教育》). [[link](https://news.cqnews.net/1/detail/1109608325812756480/web/content_1109608325812756480.html)]
-
 - **2023.03:** Interviewed by *Chongqing Daily* about ChatGPT. [[article](https://www.cqrb.cn/topics/2022xwhkt/hy/)] [[video](https://v.douyin.com/i8Nre2Cx/)]
 
 </details>
 
-
-
 # Research
 
-My research develops **human-centered cognitive AI** that can understand individuals and groups, reflect diverse human judgments, and reason reliably from incomplete, uncertain, or conflicting evidence. I pursue this goal through three connected directions:
+My research develops **human-centered cognitive AI** that can understand individuals and groups, preserve structured differences in human judgment, and reason reliably from incomplete, uncertain, or conflicting evidence. I pursue this goal through three connected directions:
 
 - **Human and Collective Understanding** — modeling emotions, intentions, preferences, human attributes, activities, social narratives, and collective behavior from multimodal and behavioral data ([J12](#J12), [J5](#J5), [J4](#J4), [J2](#J2)).
-- **Human–AI Alignment** — representing plural and sometimes conflicting human judgments in model learning and generation rather than reducing them to a single target or average response ([C7](#C7), [J12](#J12), [J2](#J2)).
+- **Human–AI Alignment** — representing plural and sometimes conflicting human judgments rather than reducing them to a single target or average response ([C7](#C7), [J12](#J12), [J2](#J2)).
 - **Evidence-Grounded Reasoning** — building systems that remain reliable under partial observability, hallucinations, uncertainty, long-tailed conditions, and distribution shifts ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
-
-# Ongoing Research
-
-- **Human Difference and Individual Dynamics.** I study how AI can represent structured differences in human judgment and model temporal changes in identity and attributes without forcing people into a single average target or trajectory. Current work extends conflict-aware preference learning from image aesthetics and causal age modeling toward context-sensitive evaluation and personalized facial-aging trajectories.
-- **Reasoning Beyond Visible Evidence.** I study how AI can infer safety-critical risks before the relevant object or actor becomes directly observable. Current work focuses on autonomous driving under occlusion, using visible agents and environmental context as reliability-dependent evidence of hidden road users, while also examining mixed human–autonomous traffic, cascading occlusions, and risk-aware planning.
-- **Latent Patterns in Social and Multi-Agent Systems.** In multilingual news, I study why the same international event is narrated differently across societies by identifying and explaining differences in factual emphasis, stance, responsibility attribution, legitimacy judgment, and value framing. In sports, I study latent strategies, coordination patterns, and match dynamics from player actions and interactions. Together, these settings examine how local choices produce collective structures that can be explained and predicted.
 
 # Selected Research Contributions
 
-The following publications provide the main foundations for the research directions and ongoing programs above. The complete publication list remains below.
+The following contributions provide the methodological foundations for my ongoing research programs.
 
-- **Conflict-aware preference alignment** ([C7](#C7)): AGREE identifies systematic gradient conflicts among aesthetic attributes and coordinates competing objectives to improve both overall assessment and attribute-level consistency.
-- **Causal modeling of individual change** ([J12](#J12)): HCFace models dependencies among age-related facial attributes to produce coherent age progression while preserving identity.
-- **Reasoning over difficult tail cases** ([J10](#J10)): UME separates difficult tail samples from ordinary long-tail imbalance and combines expert specialization with uncertainty-aware fusion.
-- **Visual evidence against hallucination** ([J9](#J9)): VEaCap uses video evidence to correct hallucinated objects and restore omitted content in LLM-based captioning.
-- **Safety-critical scenario generation** ([C6](#C6)): NLG-Gen turns natural-language safety requirements into rare and high-risk driving scenarios for targeted autonomous-driving evaluation.
-- **Multi-agent sports understanding** ([J5](#J5)): HCBS organizes multimodal large-model interactions hierarchically to reason about actors, actions, and temporal context in football.
-- **Relational emotion understanding** ([J4](#J4)): DEDNet models within-speaker and between-speaker dependencies through interacting relational subgraphs.
+- **Representing human difference and individual change** ([C7](#C7), [J12](#J12)). AGREE reveals and coordinates systematic conflicts among aesthetic attributes, while HCFace models dependencies among age-related attributes to generate coherent, identity-preserving trajectories.
+- **Reasoning under difficult and unreliable evidence** ([J10](#J10), [J9](#J9)). UME identifies challenging tail cases and combines expert specialization with uncertainty-aware fusion, while VEaCap uses visual evidence to correct hallucinated objects and recover omitted content in video captioning.
+- **Understanding structured human and multi-agent interactions** ([J5](#J5), [J4](#J4)). HCBS reasons about actors, actions, and temporal context through hierarchical multimodal interactions, while DEDNet captures within-speaker and between-speaker dependencies for relational emotion understanding.
+- **Generating safety-critical scenarios from language** ([C6](#C6)). NLG-Gen translates natural-language safety requirements into rare and high-risk driving scenarios for targeted autonomous-driving evaluation.
+
+# Ongoing Research
+
+- **Human Difference and Individual Dynamics.** I study how AI can represent structured differences in human judgment and model temporal changes in identity and attributes without forcing people into a single average target or trajectory. Current work extends conflict-aware preference learning and causal age modeling toward context-sensitive evaluation, plural preference alignment, and personalized facial-aging trajectories.
+- **Reasoning Beyond Visible Evidence.** I study how AI can infer safety-critical risks before the relevant object or actor becomes directly observable. Current work focuses on autonomous driving under occlusion, using visible agents and environmental context as reliability-dependent evidence of hidden road users, while also examining mixed human–autonomous traffic, cascading occlusions, and risk-aware planning.
+- **Latent Patterns in Social and Multi-Agent Systems.** In multilingual news, I study why the same international event is narrated differently across societies by identifying and explaining differences in factual emphasis, stance, responsibility attribution, legitimacy judgment, and value framing. In sports, I study latent strategies, coordination patterns, and match dynamics from player actions and interactions. Together, these settings examine how local choices produce collective structures that can be explained and predicted.
 
 # Honors and Awards
 
