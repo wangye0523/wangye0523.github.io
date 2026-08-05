@@ -82,9 +82,11 @@ My research develops **human-centered cognitive AI** that can understand individ
 
 # Ongoing Research
 
-- **Human Difference and Individual Dynamics.** I study how AI can represent structured differences in human judgment and model temporal changes in identity and attributes without forcing people into a single average target or trajectory. Current work extends conflict-aware preference learning and causal age modeling toward context-sensitive evaluation, plural preference alignment, and personalized facial-aging trajectories.
-- **Reasoning Beyond Visible Evidence.** I study how AI can infer safety-critical risks before the relevant object or actor becomes directly observable. Current work focuses on autonomous driving under occlusion, using visible agents and environmental context as reliability-dependent evidence of hidden road users, while also examining mixed human–autonomous traffic, cascading occlusions, and risk-aware planning.
-- **Latent Patterns in Social and Multi-Agent Systems.** In multilingual news, I study why the same international event is narrated differently across societies by identifying and explaining differences in factual emphasis, stance, responsibility attribution, legitimacy judgment, and value framing. In sports, I study latent strategies, coordination patterns, and match dynamics from player actions and interactions. Together, these settings examine how local choices produce collective structures that can be explained and predicted.
+- **Human Difference and Individual Dynamics.** Building AI systems that preserve differences in human judgment and individual change, with current work extending conflict-aware preference learning and causal age modeling toward context-sensitive evaluation, plural alignment, and personalized trajectories.
+
+- **Reasoning Beyond Visible Evidence.** Anticipating safety-critical risks before relevant objects or actors become observable by treating visible agents and environmental context as reliability-weighted evidence, with extensions to mixed traffic, cascading occlusions, and risk-aware planning.
+
+- **Latent Patterns in Social and Multi-Agent Systems.** Explaining and predicting how local interactions and social values give rise to collective patterns, from cross-societal variation in multilingual news narratives to coordination strategies and outcome dynamics in football.
 
 # Honors and Awards
 
