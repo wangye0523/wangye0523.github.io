@@ -72,18 +72,22 @@ He is deeply committed to student mentorship. His students have received nationa
 
 My research develops **human-centered cognitive AI** that can understand individuals and groups, preserve structured differences in human judgment, and reason reliably from incomplete, uncertain, or conflicting evidence. I pursue this goal through three connected directions:
 
-- **Human and Collective Understanding** — modeling emotions, intentions, preferences, human attributes, activities, social narratives, and collective behavior from multimodal and behavioral data ([J12](#J12), [J5](#J5), [J4](#J4), [J2](#J2)).
-- **Human–AI Alignment** — representing plural and sometimes conflicting human judgments rather than reducing them to a single target or average response ([C7](#C7), [J12](#J12), [J2](#J2)).
-- **Evidence-Grounded Reasoning** — building systems that remain reliable under partial observability, hallucinations, uncertainty, long-tailed conditions, and distribution shifts ([J11](#J11), [J10](#J10), [J9](#J9), [J8](#J8), [C6](#C6)).
+- **Human and Collective Understanding** — understanding emotions, intentions, preferences, human attributes, activities, social narratives, and collective behavior from multimodal and behavioral data.
+
+- **Human–AI Alignment** — developing models that can represent plural, contextual, and sometimes conflicting human judgments without reducing them to a single target or average response.
+
+- **Evidence-Grounded Reasoning** — enabling AI systems to reason reliably when evidence is incomplete, uncertain, conflicting, long-tailed, or affected by distribution shifts and hallucinations.
 
 # Selected Research Contributions
 
-The following contributions provide the methodological foundations for my ongoing research programs.
+My previous work has established several methodological foundations for these research directions.
 
-- **Representing human difference and individual change** ([C7](#C7), [J12](#J12)). AGREE reveals and coordinates systematic conflicts among aesthetic attributes, while HCFace models dependencies among age-related attributes to generate coherent, identity-preserving trajectories.
-- **Reasoning under difficult and unreliable evidence** ([J10](#J10), [J9](#J9)). UME identifies challenging tail cases and combines expert specialization with uncertainty-aware fusion, while VEaCap uses visual evidence to correct hallucinated objects and recover omitted content in video captioning.
-- **Understanding structured human and multi-agent interactions** ([J5](#J5), [J4](#J4)). HCBS reasons about actors, actions, and temporal context through hierarchical multimodal interactions, while DEDNet captures within-speaker and between-speaker dependencies for relational emotion understanding.
-- **Generating safety-critical scenarios from language** ([C6](#C6)). NLG-Gen translates natural-language safety requirements into rare and high-risk driving scenarios for targeted autonomous-driving evaluation.
+- **Structured modeling of human judgments and trajectories.** AGREE identifies systematic conflicts among aesthetic attributes and coordinates competing objectives in preference learning ([C7](#C7)). HCFace models dependencies among age-related attributes to generate coherent changes while preserving individual identity ([J12](#J12)).
+
+- **Relational understanding of individuals and groups.** DEDNet models within-speaker and between-speaker dependencies for multimodal emotion understanding ([J4](#J4)). HCBS uses hierarchical multimodal interactions to reason about actors, actions, and temporal context in football ([J5](#J5)).
+
+- **Reliable reasoning under uncertainty and rare conditions.** UME combines expert specialization with uncertainty-aware fusion for challenging tail cases ([J10](#J10)). VEaCap uses visual evidence to correct hallucinated objects and recover omitted content in video captioning ([J9](#J9)). NLG-Gen translates natural-language safety requirements into rare and high-risk driving scenarios for targeted evaluation ([C6](#C6)).
+
 
 # Ongoing Research
 
