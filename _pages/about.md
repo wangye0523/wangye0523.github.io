@@ -68,7 +68,7 @@ He is deeply committed to student mentorship. His students have received nationa
 
 </details>
 
-# Research
+# Research Overview
 
 My research develops **human-centered cognitive AI** that can understand individuals and groups, preserve structured differences in human judgment, and reason reliably from incomplete, uncertain, or conflicting evidence. I pursue this goal through three connected directions:
 
@@ -80,7 +80,7 @@ My research develops **human-centered cognitive AI** that can understand individ
 
 
 
-# Ongoing Research
+# Ongoing Project
 
 - **Human Difference and Individual Dynamics.** Building AI systems that preserve differences in human judgment and individual change, with current work extending conflict-aware preference learning and causal age modeling toward context-sensitive evaluation, plural alignment, and personalized trajectories.
 
@@ -116,9 +116,11 @@ Do not describe these projects as your own PI funding.
 
 # Academic Service
 
-## Editorial Service
+## Professional Service
 
 - **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
+- **Committee Member**, CAAI Technical Committee on Granular Computing and Knowledge Discovery.
+- **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
 
 ## Conference Service
 
@@ -144,12 +146,6 @@ Do not describe these projects as your own PI funding.
 - **IEEE Transactions on Multimedia (TMM)**
 - **IEEE Transactions on Affective Computing (TAFFC)**
 
-## Professional Society Service
-
-- **Committee Member**, CAAI Technical Committee on Granular Computing and Knowledge Discovery.
-- **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
-
-# Invited Talks and Media
 
 ## Invited Talks
 
