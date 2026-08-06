@@ -100,7 +100,7 @@ My research develops **human-centered cognitive AI** that can understand individ
 **Principal Investigator**
 
 - **2024–2026:** National Natural Science Foundation of China, Young Scientists Fund (No. 62306056).
-- **2024-2026:** Chongqing Energy Big Data Center.
+- **2024-2026:** Chongqing Energy Big Data Center, Contract Research Project.
 - **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program.
 - **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (No. KJQN202100629).
 
