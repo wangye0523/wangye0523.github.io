@@ -199,6 +199,7 @@ Do not describe these projects as your own PI funding.
 
 ## Invited Talks
 
+- **2026:** *When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment*, China Granular Computing and Knowledge Discovery Conference (CGCKD), Changchun, Jilin. [[link](https://cgckd2026.ccsfu.edu.cn/#/conference-report/invited-paper-report)]
 - **2025:** *Visual Intelligence through Multi-Granularity Cognitive Computing*, CCF@U (No. 1323), Sichuan University, Chengdu. [[link](https://www.ccf.org.cn/Chapters/Student_Chapters/SCU/hyhdzxdt/2025-10-30/850684.shtml)]
 - **2023:** *Generative Modeling through Latent-Space Disentanglement*, Doctoral Forum, Yan'an University. [[link](https://yau.edu.cn/info/1122/67356.htm)]
 - **2023:** Summer Training Program on Machine Learning, National Center for Applied Mathematics, Chongqing. [[link](https://cqcam.cqnu.edu.cn/info/2018/3631.htm)]
