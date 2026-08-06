@@ -1,4 +1,4 @@
----
+<img width="597" height="780" alt="image" src="https://github.com/user-attachments/assets/7afac9d2-76cb-434a-b8c9-568f866a5dbd" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -68,7 +68,7 @@ He is deeply committed to student mentorship. His students have received nationa
 
 </details>
 
-# Research Overview
+# Overview
 
 My research develops **human-centered cognitive AI** that can understand individuals and groups, preserve structured differences in human judgment, and reason reliably from incomplete, uncertain, or conflicting evidence. I pursue this goal through three connected directions:
 
@@ -80,7 +80,7 @@ My research develops **human-centered cognitive AI** that can understand individ
 
 
 
-# Ongoing Project
+# Ongoing Research
 
 - **Human Difference and Individual Dynamics.** Building AI systems that preserve differences in human judgment and individual change, with current work extending conflict-aware preference learning and causal age modeling toward context-sensitive evaluation, plural alignment, and personalized trajectories.
 
@@ -116,9 +116,13 @@ Do not describe these projects as your own PI funding.
 
 # Academic Service
 
+## Editorial Service
+- **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
+- **Guest Editor**, Special Issue *Explainable AI in Medical Diagnosis: Enhancing Trust and Transparency*, AI, 2026-2027.
+- **Guest Editor**, Special Issue *Advances in Intelligent Transportation Systems Based on Sensor Fusion*, Sensors, 2024-2025. [[link](https://www.mdpi.com/journal/sensors/special_issues/R4X826392X)]
+
 ## Professional Service
 
-- **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
 - **Committee Member**, CAAI Technical Committee on Granular Computing and Knowledge Discovery.
 - **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
 
