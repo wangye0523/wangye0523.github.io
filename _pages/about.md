@@ -236,14 +236,13 @@ Do not describe these projects as your own PI funding.
 
 ## Courses at CQUPT
 
-- **Natural Language Processing**, Fall 2024 and Fall 2025.
-- **AI Literacy and Practice: From Fundamentals to DeepSeek Applications**, Spring 2025 and Fall 2025.
-- **Algorithm Analysis and Design for International Students**, Fall 2025.
-- **Data Structures for International Students**, Spring 2023 and Spring 2025.
-- **Fundamentals of Data Mining**, Spring 2022 and Fall 2024.
-- **Machine Learning Models and Algorithms**, Fall 2022.
+- **Natural Language Processing**, Fall 2024, Fall 2025, Spring 2026.
+- **AI Fundamentals and Practice**, Spring 2025 and Fall 2025.
+- **Algorithm Analysis and Design for International Students**, Fall 2023, Fall 2025.
+- **Data Structures for International Students**, Fall 2020, Fall 2022, Spring 2023 and Spring 2025.
+- **Data Mining**, Spring 2022, Fall 2022, Fall 2024 and Spring 2026.
+- **Machine Learning**, Fall 2022, Spring 2024 and Fall 2025.
 - **Principles of Artificial Intelligence**, Fall 2020.
-- **Data Mining**, Fall 2022.
 - **Big Data Analytics and Mining**, Fall 2023 and Fall 2024.
 
 ## Teaching Experience at Texas A&M University
