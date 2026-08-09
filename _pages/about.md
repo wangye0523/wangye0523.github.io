@@ -70,14 +70,15 @@ He is deeply committed to student mentorship. His students have received nationa
 
 # Overview
 
-My research develops **human-centered cognitive AI** that can understand individuals and groups, preserve structured differences in human judgment, and reason reliably from incomplete, uncertain, or conflicting evidence. I pursue this goal through three connected directions:
+My research focuses on **human-centered cognitive AI**, with an emphasis on understanding human states, aligning with human preferences, and reasoning under uncertainty. My long-term goal is to develop AI systems that can make appropriate decisions for each individual across different real-world situations.
 
-- **Human and Collective Understanding** — understanding emotions, intentions, human attributes, activities, and collective behavior from multimodal and behavioral data. DEDNet models within-speaker and between-speaker dependencies for multimodal emotion understanding ([J4](#J4)), while HCBS reasons about actors, actions, and temporal context through hierarchical multimodal interactions in football ([J5](#J5)).
+I pursue this goal through three connected directions:
 
-- **Human–AI Alignment** — representing plural, contextual, and sometimes conflicting human judgments without reducing them to a single target or average response. AGREE identifies systematic conflicts among aesthetic attributes and coordinates competing objectives in preference learning ([C7](#C7)), while HCFace models dependencies among age-related attributes to generate coherent changes while preserving individual identity ([J12](#J12)).
+- **Human Understanding** — understanding human states, attributes, individual dynamics, and collective behavior from multimodal and behavioral data. DEDNet models within-speaker and between-speaker dependencies for multimodal emotion understanding ([J4](#J4)); HCFace models age-related changes while preserving individual identity ([J12](#J12)); and HCBS reasons about actors, actions, and temporal context through hierarchical multimodal interactions in football ([J5](#J5)).
 
-- **Evidence-Grounded Reasoning** — enabling AI systems to remain reliable when evidence is incomplete, uncertain, long-tailed, or affected by hallucinations and distribution shifts. UME combines expert specialization with uncertainty-aware fusion for challenging tail cases ([J10](#J10)); VEaCap uses visual evidence to correct hallucinated objects and recover omitted content in video captioning ([J9](#J9)); and NLG-Gen translates natural-language safety requirements into rare and high-risk driving scenarios for targeted evaluation ([C6](#C6)).
+- **Human–AI Alignment** — aligning AI systems with diverse human preferences and judgments rather than treating human feedback as a single uniform target. AGREE identifies systematic conflicts among aesthetic attributes and coordinates competing objectives in preference learning ([C7](#C7)).
 
+- **Reasoning under Uncertainty** — enabling AI systems to reason when evidence is incomplete, uncertain, long-tailed, or unreliable. UME combines expert specialization with uncertainty-aware fusion for challenging tail cases ([J10](#J10)); VEaCap uses visual evidence to correct hallucinated objects and recover omitted content in video captioning ([J9](#J9)); and NLG-Gen translates natural-language safety requirements into rare and high-risk driving scenarios for targeted evaluation ([C6](#C6)).
 
 
 # Ongoing Research
