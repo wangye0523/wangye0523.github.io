@@ -80,14 +80,13 @@ I pursue this goal through three connected directions:
 
 - **Reasoning under Uncertainty** — enabling AI systems to reason when evidence is incomplete, uncertain, long-tailed, or unreliable. UME combines expert specialization with uncertainty-aware fusion for challenging tail cases ([J10](#J10)); VEaCap uses visual evidence to correct hallucinated objects and recover omitted content in video captioning ([J9](#J9)); and NLG-Gen translates natural-language safety requirements into rare and high-risk driving scenarios for targeted evaluation ([C6](#C6)).
 
-
 # Ongoing Research
 
-- **Human Difference and Individual Dynamics.** Building AI systems that preserve differences in human judgment and individual change, with current work extending conflict-aware preference learning and causal age modeling toward context-sensitive evaluation, plural alignment, and personalized trajectories.
+- **Individual Differences.** Modeling how AI can account for variation across individuals, especially in preference modeling and personalized prediction.
 
-- **Reasoning Beyond Visible Evidence.** Anticipating safety-critical risks before relevant objects or actors become observable by treating visible agents and environmental context as reliability-weighted evidence, with extensions to mixed traffic, cascading occlusions, and risk-aware planning.
+- **Reasoning Beyond Visible Evidence.** Anticipating hidden risks from observable evidence, currently focusing on reasoning beyond direct observation.
 
-- **Latent Patterns in Social and Multi-Agent Systems.** Explaining and predicting how local interactions and social values give rise to collective patterns, from cross-societal variation in multilingual news narratives to coordination strategies and outcome dynamics in football.
+- **Multi-Agent Dynamics.** Modeling how interactions among multiple agents shape system-level outcomes, particularly through latent interaction patterns.
 
 # Honors and Awards
 
