@@ -165,6 +165,11 @@ My research focuses on **human-centered cognitive AI**, with an emphasis on unde
 
 # Publications
 
+## Books and Monographs
+
+**[B1]** **Ye Wang**, Hong Yu, and Guoyin Wang. **Multi-Granularity Cognitive Representation.** *Science Press*, forthcoming, 2026.
+
+
 ## Journal Papers
 
 <span id="J12"></span>**[J12]** **Ye Wang**, Pan Sun, Xuyang Zhou, Lifeng Shen, Jiaxu Leng, Guoyin Wang, and Hong Yu<sup>&#42;</sup>. **Hierarchical Causal Learning for Face Age Synthesis.** *IEEE Transactions on Image Processing (TIP)*, 2026. [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
