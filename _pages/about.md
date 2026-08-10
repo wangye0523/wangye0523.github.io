@@ -70,9 +70,7 @@ He is deeply committed to student mentorship. His students have received nationa
 
 # Overview
 
-My research focuses on **human-centered cognitive AI**, with an emphasis on understanding human states, aligning with human preferences, and reasoning under uncertainty. My long-term goal is to develop AI systems that can make appropriate decisions for each individual across different real-world situations.
-
-I pursue this goal through three connected directions:
+My research focuses on **human-centered cognitive AI**, with an emphasis on understanding human states, aligning with human preferences, and reasoning under uncertainty. My long-term goal is to develop AI systems that can make appropriate decisions for each individual across different real-world situations. I pursue this goal through three connected directions:
 
 - **Human Understanding** — understanding human states, attributes, individual dynamics, and collective behavior from multimodal and behavioral data. DEDNet models within-speaker and between-speaker dependencies for multimodal emotion understanding ([J4](#J4)); HCFace models age-related changes while preserving individual identity ([J12](#J12)); and HCBS reasons about actors, actions, and temporal context through hierarchical multimodal interactions in football ([J5](#J5)).
 
