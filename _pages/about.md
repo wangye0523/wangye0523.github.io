@@ -80,11 +80,11 @@ My research focuses on **human-centered cognitive AI**, with an emphasis on unde
 
 # Ongoing Research
 
-- **Individual Differences.** Modeling how AI can account for variation across individuals, especially in preference modeling and personalized prediction.
+- **Individual Differences.** Modeling how AI can preserve variation across individuals rather than collapsing them into population-level patterns, enabling context-sensitive preference modeling and personalized trajectories.
 
-- **Reasoning Beyond Visible Evidence.** Anticipating hidden risks from observable evidence, currently focusing on reasoning beyond direct observation.
+- **Reasoning Beyond Visible Evidence.** Reasoning about hidden states, events, or risks that cannot be directly observed, using indirect and incomplete evidence to support reliable decisions.
 
-- **Multi-Agent Dynamics.** Modeling how interactions among multiple agents shape system-level outcomes, particularly through latent interaction patterns.
+- **Multi-Agent Dynamics.** Identifying latent interaction patterns among multiple agents that explain system-level outcomes, including how local interactions and coordination shape collective behavior.
 
 # Honors and Awards
 
