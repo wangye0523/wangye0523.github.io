@@ -98,18 +98,17 @@ My research focuses on **human-centered cognitive AI**, with an emphasis on unde
 
 **Principal Investigator**
 
-- **2024–2026:** National Natural Science Foundation of China, Young Scientists Fund (No. 62306056).
+- **2024–2026:** National Natural Science Foundation of China (NSFC), Young Scientists Fund (62306056).
 - **2024-2026:** Chongqing Energy Big Data Center, Contract Research Project.
 - **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program.
-- **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (No. KJQN202100629).
+- **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (KJQN202100629).
+- **2020-2025:** CQUPT, Talent Recruitment Program. 
 
-<!--
-Add a visible "Selected Collaborative Projects" subsection only after confirming
-the official title, project number, duration, and your formal role. Recommended form:
-- **20XX–20XX:** Official project title (No. XXXX), Core Member/Participant; PI: Guoyin Wang.
-- **20XX–20XX:** Official project title (No. XXXX), Core Member/Participant; PI: Hong Yu.
-Do not describe these projects as your own PI funding.
--->
+**Collaborative Projects**
+- **2022–2027:** NSFC Innovative Research Group Project, Theory and Applications of Multi-Granularity Cognitive Computing (62221005).
+- **2022–2026:** NSFC Key Program, Theory and Applications of Cognitive Machine Learning with Meso-scale Knowledge Representation (62136002).
+- **2022–2025:** National Key R&D Program of China, Intelligent Analysis and Mining of PB-Scale Multi-Source Health Big Data (2021YFF0704100).
+- **2020–2024:** NSFC Key Program, Concept Embedding: Interpretable Deep Representation Learning (61936001).
 
 
 # Academic Service
