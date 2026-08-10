@@ -98,10 +98,10 @@ My research focuses on **human-centered cognitive AI**, with an emphasis on unde
 
 **Principal Investigator**
 
-- **2024–2026:** National Natural Science Foundation of China (NSFC), Young Scientists Fund (62306056), *Controllable Dialogue Generation with Implicit Emotion and Continuous Intent Modeling*.
+- **2024–2026:** NSFC Young Scientists Fund (62306056), *Controllable Dialogue Generation with Implicit Emotion and Continuous Intent Modeling*.
 - **2024–2026:** Chongqing Energy Big Data Center, Contract Research Project.
 - **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program, *Dialogue Generation with Multi-Granularity Feature Representations*.
-- **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (KJQN202100629), *Interpretable Generative Modeling with Multi-Granularity Temporal Feature Disentanglement*.
+- **2021–2024:** Science Research Program of Chongqing Municipal Education Commission (KJQN202100629), *Interpretable Generative Modeling with Multi-Granularity Temporal Feature Disentanglement*.
 - **2020–2025:** CQUPT, Talent Recruitment Program, *Neural Architecture Exploration and Optimization with Temporal Features*.
 
 **Collaborative Projects**
