@@ -98,18 +98,18 @@ My research focuses on **human-centered cognitive AI**, with an emphasis on unde
 
 **Principal Investigator**
 
-- **2024–2026:** National Natural Science Foundation of China (NSFC), Young Scientists Fund (62306056).
-- **2024-2026:** Chongqing Energy Big Data Center, Contract Research Project.
-- **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program.
-- **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (KJQN202100629).
-- **2020-2025:** CQUPT, Talent Recruitment Program. 
+- **2024–2026:** National Natural Science Foundation of China (NSFC), Young Scientists Fund (62306056), *Controllable Dialogue Generation with Implicit Emotion and Continuous Intent Modeling*.
+- **2024–2026:** Chongqing Energy Big Data Center, Contract Research Project.
+- **2022–2023:** Chongqing Returned Overseas Scholars Innovation and Entrepreneurship Support Program, *Dialogue Generation with Multi-Granularity Feature Representations*.
+- **2021–2024:** Science and Technology Research Program of Chongqing Municipal Education Commission (KJQN202100629), *Interpretable Generative Modeling with Multi-Granularity Temporal Feature Disentanglement*.
+- **2020–2025:** CQUPT, Talent Recruitment Program, *Neural Architecture Exploration and Optimization with Temporal Features*.
 
 **Collaborative Projects**
-- **2022–2027:** NSFC Innovative Research Group Project, Theory and Applications of Multi-Granularity Cognitive Computing (62221005).
-- **2022–2026:** NSFC Key Program, Theory and Applications of Cognitive Machine Learning with Meso-scale Knowledge Representation (62136002).
-- **2022–2025:** National Key R&D Program of China, Intelligent Analysis and Mining of PB-Scale Multi-Source Health Big Data (2021YFF0704100).
-- **2020–2024:** NSFC Key Program, Concept Embedding: Interpretable Deep Representation Learning (61936001).
 
+- **2022–2027:** NSFC Innovative Research Group Project, *Multi-Granularity Cognitive Computing* (62221005).
+- **2022–2026:** NSFC Key Program, *Meso-scale Knowledge Representation for Cognitive Machine Learning* (62136002).
+- **2022–2025:** National Key R&D Program of China, *Intelligent Mining of PB-Scale Multi-Source Health Big Data* (2021YFF0704100).
+- **2020–2024:** NSFC Key Program, *Concept Embedding for Interpretable Deep Representation Learning* (61936001).
 
 # Academic Service
 
