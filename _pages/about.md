@@ -309,30 +309,30 @@ My current research examines three sources of complexity in real-world AI: indiv
 
 ## M.S. Students
 
-- **Xiaolin Zhou** (2026) — Project Manager, China Tower; research on multimodal sarcasm understanding.
-- **[Pan Sun](https://github.com/SE-hash/HCFace)** (2026) — Big Data Engineer, Bambu Lab; research on causal modeling for face age synthesis ([J12](#J12)).
-- **[Zixuan Wu](https://github.com/CQUPTWZX)** (2025) — Ph.D. student at CQUPT; research on uncertainty-aware sequence learning ([J10](#J10)).
-- **[Wei Zhang](https://github.com/ZhangW1212)** (2025) — Ph.D. student at South China University of Technology; research on multimodal emotion understanding ([J4](#J4)).
+- **Xiaolin Zhou** (2026) — Project Manager, China Tower.
+- **[Pan Sun](https://github.com/SE-hash/HCFace)** (2026) — Big Data Engineer, Bambu Lab ([J12](#J12)).
+- **[Zixuan Wu](https://github.com/CQUPTWZX)** (2025) — Ph.D. student at CQUPT ([J10](#J10)).
+- **[Wei Zhang](https://github.com/ZhangW1212)** (2025) — Ph.D. student at South China University of Technology ([J4](#J4)).
 - **[Yongliang Yang](https://asenniu.github.io/)** (2025) — Software Engineer, Tencent PCG.
-- **[Xinyang Li](https://github.com/xinyang183/CRMED)** (2025) — Software Engineer, Changan Automobile; research on multi-turn medical dialogue generation ([J7](#J7)).
-- **[Qingyan Wang](https://github.com/WQYwqy123456/GCFA-123)** (2025) — Algorithm Engineer, Zhihu; research on medical text classification ([J8](#J8)).
-- **[Jiancheng Zhou](https://github.com/no-zjc/VEaCap)** (2025) — Software Engineer, Mashang Consumer Finance; research on hallucination rectification in video captioning ([J9](#J9)).
-- **Daitianxia Li** (2024) — Lecturer, Chongqing City Management College; research on self-supervised and multi-granularity image captioning.
-- **[Qi Wei](https://github.com/jl7650/CCS)** (2024) — IT Consulting Engineer, Guangdong Telecom Planning and Design Institute; research on clinical named entity recognition ([J6](#J6)).
-- **Zheng Wang** (2024) — Software Engineer, Enmotech; research on character- and lexical-level Chinese named entity recognition ([J3](#J3)).
-- **Jingbo Liao** (2023) — Software Engineer, Alibaba; research on interpretable and diverse open-domain dialogue generation.
-- **Qianmengke Zhao** (2023) — Software Engineer, Chongqing Rural Commercial Bank; research on knowledge-guided facial attribute editing ([J2](#J2)).
+- **[Xinyang Li](https://github.com/xinyang183/CRMED)** (2025) — Software Engineer, Changan Automobile ([J7](#J7)).
+- **[Qingyan Wang](https://github.com/WQYwqy123456/GCFA-123)** (2025) — Algorithm Engineer, Zhihu ([J8](#J8)).
+- **[Jiancheng Zhou](https://github.com/no-zjc/VEaCap)** (2025) — Software Engineer, Mashang Consumer Finance ([J9](#J9)).
+- **Daitianxia Li** (2024) — Lecturer, Chongqing City Management College.
+- **[Qi Wei](https://github.com/jl7650/CCS)** (2024) — IT Consulting Engineer, Guangdong Telecom Design Institute ([J6](#J6)).
+- **Zheng Wang** (2024) — Software Engineer, Enmotech ([J3](#J3)).
+- **Jingbo Liao** (2023) — Software Engineer, Alibaba.
+- **Qianmengke Zhao** (2023) — Software Engineer, Chongqing Rural Commercial Bank ([J2](#J2)).
 - **Wenkang Lu** (2023) — Algorithm Engineer, Changan Technology.
 
 ## Undergraduate Students
 
 - **Jie Wei** (2026) — M.S. student at City University of Hong Kong.
 - **Wenqi Dong** (2026) — M.S. student at the University of Hong Kong.
-- **[Xuyang Zhou](https://leopoldsimmons.github.io/)** (2025) — direct-entry Ph.D. student at CQUPT; research on spatio-temporal action understanding ([J5](#J5)).
+- **[Xuyang Zhou](https://leopoldsimmons.github.io/)** (2025) — direct-entry Ph.D. student at CQUPT ([J5](#J5)).
 - **Zhuoyi Yu** (2025) — M.S. student at the University of Electronic Science and Technology of China.
 - **Tingting Lei** (2025) — M.S. student at CQUPT; research on long-tail critical scenario generation ([C6](#C6)).
 - **[Guanmeng Xian](https://gmxian.github.io/)** (2024) — M.S. student at Sichuan University.
-- **[Maocai Dai](https://github.com/Dahat364)** (2024) — M.S. student at CQUPT; research on conflict-aware image aesthetic assessment ([C7](#C7)).
+- **[Maocai Dai](https://github.com/Dahat364)** (2024) — M.S. student at CQUPT ([C7](#C7)).
 - **[Qi Cheng](https://www.linkedin.com/in/qi-cheng-4365a9249/)** (2023) — M.S. student at the University of Michigan, Ann Arbor.
 - **Dongyu Xie** (2023) — M.S. student at the University of Electronic Science and Technology of China.
 - **Xinyi Gao** (2023) — M.S. student at the University of Rochester.
