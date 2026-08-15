@@ -338,5 +338,3 @@ My current research examines three sources of complexity in real-world AI: indiv
 - **Xinyi Gao** (2023) — M.S. student at the University of Rochester.
 
 
-
-
