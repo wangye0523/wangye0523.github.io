@@ -339,6 +339,11 @@ My current research examines three sources of complexity in real-world AI: indiv
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=8QkXJd9WlApv5BhyLEh3AHHCCamaxHhnK7XL2QQNFI0&cl=ffffff&w=a"></script>
 
+<div style="max-width:450px; margin:25px auto 0 auto;">
+<script type="text/javascript" id="mapmyvisitors"
+src="//mapmyvisitors.com/map.js?d=8QkXJd9WlApv5BhyLEh3AHHCCamaxHhnK7XL2QQNFI0&cl=ffffff&w=a"></script>
+</div>
+
 <div style="text-align:center; color:#888; font-size:0.85em; margin-top:30px;">
   Visitors: <span id="visitor-count">...</span>
 </div>
