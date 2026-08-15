@@ -337,4 +337,6 @@ My current research examines three sources of complexity in real-world AI: indiv
 - **Dongyu Xie** (2023) — M.S. student at the University of Electronic Science and Technology of China.
 - **Xinyi Gao** (2023) — M.S. student at the University of Rochester.
 
-
+<div style="text-align:center; color:#888; font-size:0.85em; margin-top:30px;">
+  Visitors: <span id="visitor-count">...</span>
+</div>
