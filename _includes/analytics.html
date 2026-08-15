@@ -14,4 +14,17 @@ gtag('config', "{{ site.google_analytics_id }}");
 <script data-goatcounter="https://wangye0523.goatcounter.com/count"
         async src="https://gc.zgo.at/count.js"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const el = document.getElementById("visitor-count");
+  if (!el) return;
+
+  fetch("https://wangye0523.goatcounter.com/counter/TOTAL.json")
+    .then(response => response.json())
+    .then(data => {
+      el.textContent = data.count;
+    });
+});
+</script>
+
 {% endif %}
