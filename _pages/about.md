@@ -114,9 +114,9 @@ My current research examines three sources of complexity in real-world AI: indiv
 # Academic Service
 
 ## Editorial Service
-- **Young Editorial Board Member**, *CAAI Transactions on Intelligent Systems*.
-- **Guest Editor**, Special Issue *Explainable AI in Medical Diagnosis: Enhancing Trust and Transparency*, AI, 2026-2027.
-- **Guest Editor**, Special Issue *Advances in Intelligent Transportation Systems Based on Sensor Fusion*, Sensors, 2024-2025. [[link](https://www.mdpi.com/journal/sensors/special_issues/R4X826392X)]
+- **Young Editorial Board Member**, CAAI Transactions on Intelligent Systems.
+- **Guest Editor**, Special Issue, Explainable AI in Medical Diagnosis: Enhancing Trust and Transparency, AI, 2026-2027.
+- **Guest Editor**, Special Issue, Advances in Intelligent Transportation Systems Based on Sensor Fusion, Sensors, 2024-2025. [[link](https://www.mdpi.com/journal/sensors/special_issues/R4X826392X)]
 
 ## Professional Service
 
