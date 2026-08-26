@@ -41,7 +41,7 @@ He is deeply committed to student mentorship. His students have received nationa
 
 
 # News
-- **2026.08:** When Evidence Conflicts was accepted to Findings of EMNLP 2026. [[paper]][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
+- **2026.08:** When Evidence Conflicts was accepted to Findings of EMNLP 2026. [paper][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
 - **2026.08:** EnDist was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
 - **2026.07:** NLG-Gen received the Best Student Paper Award at NCAA 2026. [[conference](https://aaci.org.hk/ncaa2026/)]
 - **2026.05:** AGREE was selected as an ICML 2026 Spotlight paper (Top 2.2%). [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
