@@ -23,7 +23,7 @@ His research focuses on **human-centered cognitive AI**, with an emphasis on und
 
 He is deeply committed to student mentorship. His students have received national innovation awards and major prizes in the Challenge Cup, RoboCom, and the MCM/ICM. His graduates have joined leading technology companies such as Tencent, ByteDance, and Xiaohongshu, or continued their studies at universities including the University of Michigan and Zhejiang University.
 
-[Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · [Curriculum Vitae (August 2026)](https://wangye0523.github.io/Ye_Wang_CV.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=en) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [Chinese Homepage](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · [Curriculum Vitae (September 2026)](https://wangye0523.github.io/Ye_Wang_CV.pdf)
 
 
 # Employment
