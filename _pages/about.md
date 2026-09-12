@@ -43,7 +43,7 @@ He is deeply committed to student mentorship. His students have received nationa
 # News
 - **2026.08:** When Evidence Conflicts was accepted to Findings of EMNLP 2026. [paper][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
 - **2026.08:** EnDist was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
-- **2026.07:** NLG-Gen received the Best Student Paper Award at NCAA 2026. [[conference](https://aaci.org.hk/ncaa2026/)]
+- **2026.07:** NLG-Gen received the Best Student Paper Award at NCAA 2026. [[conference](https://aaci.org.hk/ncaa2026/)][[code](alksmxkq.github.io/NLG-Gen/)]
 - **2026.05:** AGREE was selected as an ICML 2026 Spotlight paper (Top 2.2%). [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
 - **2026.04:** HCFace was accepted by IEEE Transactions on Image Processing (TIP). [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
 - **2026.03:** UME was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
@@ -330,8 +330,8 @@ My current research examines three sources of complexity in real-world AI: indiv
 - **Jie Wei** (2026) — M.S. student at City University of Hong Kong.
 - **Wenqi Dong** (2026) — M.S. student at the University of Hong Kong.
 - **[Xuyang Zhou](https://leopoldsimmons.github.io/)** (2025) — direct-entry Ph.D. student at CQUPT ([J5](#J5)).
-- **Zhuoyi Yu** (2025) — M.S. student at the University of Electronic Science and Technology of China.
-- **Tingting Lei** (2025) — M.S. student at CQUPT; research on long-tail critical scenario generation ([C6](#C6)).
+- **[Zhuoyi Yu](https://github.com/Jasonyu728)** (2025) — M.S. student at the University of Electronic Science and Technology of China.
+- **[Tingting Lei](alksmxkq.github.io/NLG-Gen/)** (2025) — M.S. student at CQUPT; research on long-tail critical scenario generation ([C6](#C6)).
 - **[Guanmeng Xian](https://gmxian.github.io/)** (2024) — M.S. student at Sichuan University.
 - **[Maocai Dai](https://github.com/Dahat364)** (2024) — M.S. student at CQUPT ([C7](#C7)).
 - **[Qi Cheng](https://www.linkedin.com/in/qi-cheng-4365a9249/)** (2023) — M.S. student at the University of Michigan, Ann Arbor.
