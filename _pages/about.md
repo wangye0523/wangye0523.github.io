@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div style="text-align: right; margin-bottom: 1rem;">
-  <a href="/zh/">中文</a> | <strong>English</strong>
+  <strong>English</strong> | <a href="/zh.html">中文</a> 
 </div>
 
 Ye Wang is an Associate Professor in the School of Artificial Intelligence at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) (CQUPT). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html) and previously worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
