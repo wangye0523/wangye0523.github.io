@@ -1,9 +1,8 @@
 ---
-permalink: /zh/
+permalink: /zh.html
 title: ""
 excerpt: ""
 author_profile: true
-lang: zh
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -16,7 +15,7 @@ lang: zh
 <span class='anchor' id='about-me'></span>
 
 <div style="text-align: right; margin-bottom: 1rem;">
-  <strong>中文</strong> | <a href="/">English</a>
+ <a href="/">English</a> | <strong>中文</strong> 
 </div>
 
 王烨，重庆邮电大学人工智能学院副教授。博士毕业于 [Texas A&M University](https://engineering.tamu.edu/ce/index.html) 计算机工程专业，曾任 [Samsung Research America](https://sra.samsung.com/) 研究科学家。
@@ -256,35 +255,36 @@ lang: zh
 
 ## 博士研究生
 
-- [周旭阳（Xuyang Zhou）](https://leopoldsimmons.github.io/) — 直博生；多模态足球理解与推理（[J5](#J5)）。
-- [吴子轩（Zixuan Wu）](https://github.com/CQUPTWZX) — 不确定性感知学习与自动驾驶推理（[J10](#J10)）。
+- [武子轩（Zixuan Wu）](https://github.com/CQUPTWZX) — 不确定性感知学习与自动驾驶推理（[J10](#J10)）。
+- [周绪洋（Xuyang Zhou）](https://leopoldsimmons.github.io/) — 直博生；多模态足球理解与推理（[J5](#J5)）。
 
 ## 硕士研究生
 
 - [戴茂才（Maocai Dai）](https://github.com/Dahat364) — 图像审美评价中的人机偏好对齐（[C7](#C7)）。
-- 陈红冰（Hongbing Chen）
-- 杨捷（Jie Yang）
-- 任浩坤（Haokun Ren）
-- 雷亚辉（Yahui Lei）
-- 刘思怡（Siyi Liu）
-- 曹格彰（Gezhang Cao）
-- 彭晶莹（Jingying Peng）
-- 胡俊（Jun Hu）
-- 尤浩（Hao You）
+- 陈泓冰
+- 杨捷
+- 雷亚辉
+- 刘斯翼
+- 任豪坤
+- 尤浩
+- 唐杰
+- 胡俊
+- 彭晶莹
+- 曹格章
 - [雷婷婷（Tingting Lei）](https://alksmxkq.github.io/NLG-Gen/) — 自动驾驶长尾关键场景生成（[C6](#C6)）。
-- 唐杰（Jie Tang）
-- 邱佳怡（Jiayi Qiu）
-- 佘海雁（Haiyan She）
-- 周智宇（Zhiyu Zhou）
-- 苏庆彬（Qingbin Su）
-- 王明月（Mingyue Wang）
-- 姚金航（Jinhang Yao）
+- 邱佳怡
+- 苏庆彬
+- 周智宇
+- 王明月
+- 佘海雁
+- 姚金航
 
 ## 本科生
 
 - [王鑫哲（Xinzhe Wang）](https://github.com/Wangxz729) — 冲突证据条件下的 meta-review generation（[C8](#C8)）。
-- 黄毅（Yi Huang）
-- 康睿哲（Ruizhe Kang）
+- 黄壹
+- 康睿喆
+- 李姝睿
 
 # 合作者
 
