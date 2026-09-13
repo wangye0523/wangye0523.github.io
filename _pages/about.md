@@ -17,6 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div style="text-align: right; margin-bottom: 1rem;">
+  <a href="/zh/">中文</a> | <strong>English</strong>
+</div>
+
 Ye Wang is an Associate Professor in the School of Artificial Intelligence at [Chongqing University of Posts and Telecommunications](https://english.cqupt.edu.cn/) (CQUPT). He received his Ph.D. in Computer Engineering from [Texas A&M University](https://engineering.tamu.edu/ce/index.html) and previously worked as a Research Scientist at [Samsung Research America](https://sra.samsung.com/).
 
 His research focuses on **human-centered cognitive AI**, with an emphasis on understanding human states, aligning with human preferences, and reasoning under uncertainty. His long-term goal is to develop AI systems that can make appropriate decisions for each individual across different real-world situations. He has served as principal investigator for projects supported by the National Natural Science Foundation of China and provincial research programs. He has published in leading journals and conferences, including IEEE TIP, TAFFC, TKDE, TASLP, TCSVT, ICML, and ICLR. His work has received **ICML 2026 Spotlight (Top 2.2%)**, the **Best Student Paper Award at NCAA 2026**, the **Best Conference Paper Award at Brain Informatics 2024**, and a **Best Paper Candidate recognition at IEEE ISPCE-ASIA 2023**.
