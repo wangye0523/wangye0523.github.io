@@ -24,7 +24,7 @@ author_profile: true
 
 研究成果发表于 IEEE TIP、TAFFC、TKDE、TASLP、TCSVT、ICML、ICLR 等期刊和会议。相关工作获得 **ICML 2026 Spotlight（Top 2.2%）**、**NCAA 2026 Best Student Paper Award**、**Brain Informatics 2024 Best Conference Paper Award**，以及 **IEEE ISPCE-ASIA 2023 Best Paper Candidate**。
 
-我长期参与本科生、硕士生和博士生的科研指导。指导学生获得“挑战杯”、RoboCom、MCM/ICM 等国家级竞赛奖项。毕业生进入腾讯、字节跳动、小红书等企业，或赴密歇根大学、浙江大学等高校继续深造。
+长期参与本科生、硕士生和博士生的科研指导。指导学生获得挑战杯、RoboCom、MCM/ICM 等国家级竞赛奖项。毕业生进入腾讯、字节跳动、小红书等企业，或赴密歇根大学、浙江大学等高校继续深造。
 
 [Google Scholar](https://scholar.google.com/citations?user=UNxKb0cAAAAJ&hl=zh-CN) · [DBLP](https://dblp.org/pid/44/6292-6.html) · [ORCID](https://orcid.org/0000-0002-1748-6890) · [重庆邮电大学主页](https://faculty.cqupt.edu.cn/wangye/zh_CN/index.htm) · [英文简历（2026年9月）](https://wangye0523.github.io/Ye_Wang_CV.pdf)
 
@@ -218,8 +218,8 @@ author_profile: true
 
 ## 教学荣誉
 
-- **2025：** 国际学生《数据结构》课程负责人，课程获评重庆市一流本科课程。
-- **2024：** 重庆市来华留学教育突出贡献奖。
+- **2025：** 《数据结构》（留学生）课程负责人，课程获评重庆市一流本科课程。
+- **2024：** 重庆市来华留学教育先进工作者。
 - **2023：** RoboCom 机器人开发者大赛全国总决赛优秀指导教师。
 
 ## 学生获奖
@@ -286,52 +286,36 @@ author_profile: true
 - 康睿喆
 - 李姝睿
 
-# 合作者
-
-- [王国胤（Guoyin Wang）](https://faculty.cqupt.edu.cn/wanggy/zh_CN/index.htm)，重庆邮电大学。
-- [于洪（Hong Yu）](https://faculty.cqupt.edu.cn/yuhong/zh_CN/index.htm)，重庆邮电大学。
-- [刘群（Qun Liu）](https://faculty.cqupt.edu.cn/liuqun/zh_CN/index.htm)，重庆邮电大学。
-- [刘丽（Li Liu）](https://scholar.google.com/citations?user=uoNJ6goAAAAJ&hl=zh-CN)，重庆邮电大学。
-- [冷嘉旭（Jiaxu Leng）](https://scholar.google.com/citations?user=KpX-CCcAAAAJ&hl=zh-CN)，重庆邮电大学。
-- [William K. Cheung](https://scholar.google.com/citations?user=e42JkYIAAAAJ&hl=zh-CN)，香港浸会大学。
-- [沈立峰（Lifeng Shen）](https://www.lshenae.cn/)，香港科技大学。
-- [Mi Lu](https://scholar.google.com/citations?user=crjEvpQAAAAJ&hl=en)，Texas A&M University。
-- [Yoonsuck Choe](https://scholar.google.com/citations?user=nFb_T4wAAAAJ&hl=en)，Texas A&M University。
-- [Han Wang](https://scholar.google.com/citations?user=8MS58WkAAAAJ&hl=en)，Samsung Research America。
-- [Fei Tao](https://scholar.google.com/citations?hl=zh-CN&user=KhWMky4AAAAJ)，Amazon。
-- [Xinxiang Zhang](https://scholar.google.com/citations?user=OcCQAs4AAAAJ&hl=zh-CN)，Southern Methodist University。
-- [Xiao Li](https://scholar.google.com/citations?user=y9iRoggAAAAJ&hl=en)，University of Oxford。
-
 # 毕业生
 
 ## 硕士研究生
 
-- **周晓琳（Xiaolin Zhou）**（2026）— 中国铁塔，项目经理。
-- **[孙攀（Pan Sun）](https://github.com/SE-hash/HCFace)**（2026）— Bambu Lab，大数据工程师（[J12](#J12)）。
-- **[吴子轩（Zixuan Wu）](https://github.com/CQUPTWZX)**（2025）— 重庆邮电大学博士研究生（[J10](#J10)）。
+- **周晓林（Xiaolin Zhou）**（2026）— 中国铁塔，项目经理。
+- **[孙盼（Pan Sun）](https://github.com/SE-hash/HCFace)**（2026）— Bambu Lab，大数据工程师（[J12](#J12)）。
+- **[武子轩（Zixuan Wu）](https://github.com/CQUPTWZX)**（2025）— 重庆邮电大学博士研究生（[J10](#J10)）。
 - **[张伟（Wei Zhang）](https://github.com/ZhangW1212)**（2025）— 华南理工大学博士研究生（[J4](#J4)）。
 - **[杨永亮（Yongliang Yang）](https://asenniu.github.io/)**（2025）— 腾讯 PCG，软件工程师。
-- **[李欣阳（Xinyang Li）](https://github.com/xinyang183/CRMED)**（2025）— 长安汽车，软件工程师（[J7](#J7)）。
-- **[王清妍（Qingyan Wang）](https://github.com/WQYwqy123456/GCFA-123)**（2025）— 知乎，算法工程师（[J8](#J8)）。
+- **[李新洋（Xinyang Li）](https://github.com/xinyang183/CRMED)**（2025）— 长安汽车，软件工程师（[J7](#J7)）。
+- **[王青艳（Qingyan Wang）](https://github.com/WQYwqy123456/GCFA-123)**（2025）— 知乎，算法工程师（[J8](#J8)）。
 - **[周建成（Jiancheng Zhou）](https://github.com/no-zjc/VEaCap)**（2025）— 马上消费金融，软件工程师（[J9](#J9)）。
-- **李代天霞（Daitianxia Li）**（2024）— 重庆城市管理职业学院，讲师。
-- **[魏琦（Qi Wei）](https://github.com/jl7650/CCS)**（2024）— 广东省电信规划设计院，IT 咨询工程师（[J6](#J6)）。
-- **王政（Zheng Wang）**（2024）— 恩墨科技，软件工程师（[J3](#J3)）。
-- **廖景博（Jingbo Liao）**（2023）— 阿里巴巴，软件工程师。
-- **赵倩梦柯（Qianmengke Zhao）**（2023）— 重庆农村商业银行，软件工程师（[J2](#J2)）。
-- **卢文康（Wenkang Lu）**（2023）— 长安科技，算法工程师。
+- **李戴天霞（Daitianxia Li）**（2024）— 重庆城市管理职业学院，讲师。
+- **[魏琪（Qi Wei）](https://github.com/jl7650/CCS)**（2024）— 广东省电信规划设计院，IT 咨询工程师（[J6](#J6)）。
+- **王正（Zheng Wang）**（2024）— 恩墨科技，软件工程师（[J3](#J3)）。
+- **廖靖波（Jingbo Liao）**（2023）— 阿里巴巴，软件工程师。
+- **赵钱蒙可（Qianmengke Zhao）**（2023）— 重庆农村商业银行，软件工程师（[J2](#J2)）。
+- **卢文糠（Wenkang Lu）**（2023）— 长安科技，算法工程师。
 
 ## 本科生
 
 - **魏杰（Jie Wei）**（2026）— 香港城市大学硕士研究生。
 - **董文琪（Wenqi Dong）**（2026）— 香港大学硕士研究生。
-- **[周旭阳（Xuyang Zhou）](https://leopoldsimmons.github.io/)**（2025）— 重庆邮电大学直博生（[J5](#J5)）。
-- **[余卓毅（Zhuoyi Yu）](https://github.com/Jasonyu728)**（2025）— 电子科技大学硕士研究生。
+- **[周绪洋（Xuyang Zhou）](https://leopoldsimmons.github.io/)**（2025）— 重庆邮电大学直博生（[J5](#J5)）。
+- **[于卓仡（Zhuoyi Yu）](https://github.com/Jasonyu728)**（2025）— 电子科技大学硕士研究生。
 - **[雷婷婷（Tingting Lei）](https://alksmxkq.github.io/NLG-Gen/)**（2025）— 重庆邮电大学硕士研究生；研究自动驾驶长尾关键场景生成（[C6](#C6)）。
-- **[鲜冠蒙（Guanmeng Xian）](https://gmxian.github.io/)**（2024）— 四川大学硕士研究生。
+- **[贤冠萌（Guanmeng Xian）](https://gmxian.github.io/)**（2024）— 四川大学硕士研究生。
 - **[戴茂才（Maocai Dai）](https://github.com/Dahat364)**（2024）— 重庆邮电大学硕士研究生（[C7](#C7)）。
-- **[程琦（Qi Cheng）](https://www.linkedin.com/in/qi-cheng-4365a9249/)**（2023）— University of Michigan, Ann Arbor 硕士研究生。
-- **谢董宇（Dongyu Xie）**（2023）— 电子科技大学硕士研究生。
+- **[程麒（Qi Cheng）](https://www.linkedin.com/in/qi-cheng-4365a9249/)**（2023）— University of Michigan, Ann Arbor 硕士研究生。
+- **谢东宇（Dongyu Xie）**（2023）— 电子科技大学硕士研究生。
 - **高欣怡（Xinyi Gao）**（2023）— University of Rochester 硕士研究生。
 
 <div style="width:450px; max-width:100%; margin:25px auto 0 auto;">
