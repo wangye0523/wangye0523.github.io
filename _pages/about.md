@@ -129,7 +129,7 @@ My current research examines three sources of complexity in real-world AI: indiv
 - **Corresponding Member**, CAAI Technical Committee on Artificial Intelligence Foundations.
 
 ## Conference Service
-- **Session Chair**, Multimodality and Language Grounding to Vision, Robotics and Beyond, Empirical Methods in Natural Language Processing (EMNLP), 2026.
+- **Session Chair**, Multimodality and Language Grounding to Vision, Robotics and Beyond, EMNLP, 2026.
 - **Session Chair**, Mesoscopic Cognitive Machine Learning Workshop, International Joint Conference on Rough Sets (IJCRS), 2026.
 - **Competition Chair**, International Conference on Neural Computing for Advanced Applications (NCAA), 2023–2026.
 - **Web Chair**, IEEE International Conference on Medical Artificial Intelligence (MedAI), 2024.
