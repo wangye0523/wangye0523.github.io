@@ -206,7 +206,7 @@ My current research examines three sources of complexity in real-world AI: indiv
 
 <span id="C7"></span>**[C7]** **Ye Wang**, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, and Hong Yu. **When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment.** *International Conference on Machine Learning (ICML)*, 2026. **Spotlight, Top 2.2%.** [[paper](https://proceedings.mlr.press/v306/wang26aj.html)] [[code](https://github.com/Dahat364/AGREE)]
 
-<span id="C6"></span>**[C6]** Tingting Lei, Yifan Zhu, Runxi Zhang, Feng Hu, Hong Yu, and **Ye Wang**. **NLG-Gen: Natural Language-Guided Generation of Long-Tail Critical Scenarios for Autonomous Driving.** *International Conference on Neural Computing for Advanced Applications (NCAA)*, 2026. **Best Student Paper Award.** [[conference](https://aaci.org.hk/ncaa2026/)]
+<span id="C6"></span>**[C6]** Tingting Lei, Yifan Zhu, Runxi Zhang, Feng Hu, Hong Yu, and **Ye Wang**. **NLG-Gen: Natural Language-Guided Generation of Long-Tail Critical Scenarios for Autonomous Driving.** *International Conference on Neural Computing for Advanced Applications (NCAA)*, 2026. **Best Student Paper Award.** [[conference](https://aaci.org.hk/ncaa2026/)][[code](https://alksmxkq.github.io/NLG-Gen/)]
 
 <span id="C5"></span>**[C5]** Wenbo Wu, Qingyi Si, Xiurui Pan, **Ye Wang**, and Jie Zhang. **LouisKV: Efficient KV Cache Retrieval for Long Input-Output Sequences.** *International Conference on Learning Representations (ICLR)*, 2026. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
 
