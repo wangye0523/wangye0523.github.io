@@ -1,4 +1,4 @@
----
+<img width="3720" height="1665" alt="f6ba8784e327f5e7af2981297f9cfc23" src="https://github.com/user-attachments/assets/b05da528-a1e2-4bb9-b08f-4b3a355e048d" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -45,7 +45,7 @@ He is deeply committed to student mentorship. His students have received nationa
 
 
 # News
-- **2026.08:** When Evidence Conflicts was accepted to Findings of EMNLP 2026. [[paper](https://arxiv.org/pdf/2609.24028)][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
+- **2026.08:** When Evidence Conflicts was accepted to Findings of EMNLP 2026. [[paper](https://aclanthology.org/2026.findings-emnlp.746/)][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
 - **2026.08:** EnDist was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
 - **2026.07:** NLG-Gen received the Best Student Paper Award at NCAA 2026. [[conference](https://aaci.org.hk/ncaa2026/)][[code](https://alksmxkq.github.io/NLG-Gen/)]
 - **2026.05:** AGREE was selected as an ICML 2026 Spotlight paper (Top 2.2%). [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
@@ -202,7 +202,7 @@ My current research examines three sources of complexity in real-world AI: indiv
 <span id="J1"></span>**[J1]** **Ye Wang**, Xinxiang Zhang, Mi Lu, Han Wang, and Yoonsuck Choe. **Attention Augmentation with Multi-Residual in Bidirectional LSTM.** *Neurocomputing*, 2020.
 
 ## Conference Papers
-<span id="C8"></span>**[C8]** Xinzhe Wang, Fei Tao, Jiang Xie, Hong Yu and **Ye Wang**. **When Evidence Conflicts: Reliability-aware Meta-review Generation.** *2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Findings*, 2026. 
+<span id="C8"></span>**[C8]** Xinzhe Wang, Fei Tao, Jiang Xie, Hong Yu and **Ye Wang**. **When Evidence Conflicts: Reliability-aware Meta-review Generation.** *2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Findings*, 2026. [[paper](https://aclanthology.org/2026.findings-emnlp.746/)][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
 
 <span id="C7"></span>**[C7]** **Ye Wang**, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, and Hong Yu. **When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment.** *International Conference on Machine Learning (ICML)*, 2026. **Spotlight, Top 2.2%.** [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
 
