@@ -45,10 +45,10 @@ He is deeply committed to student mentorship. His students have received nationa
 
 
 # News
-- **2026.08:** When Evidence Conflicts was accepted to Findings of EMNLP 2026. [[paper](https://arxiv.org/pdf/2609.24028)][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
+- **2026.08:** When Evidence Conflicts was accepted to Findings of EMNLP 2026. [[paper](https://aclanthology.org/2026.findings-emnlp.746)][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
 - **2026.08:** EnDist was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). [[paper](https://ieeexplore.ieee.org/document/11627428)] [[code](https://github.com/hegy1024/EnDist)]
 - **2026.07:** NLG-Gen received the Best Student Paper Award at NCAA 2026. [[conference](https://aaci.org.hk/ncaa2026/)][[code](https://alksmxkq.github.io/NLG-Gen/)]
-- **2026.05:** AGREE was selected as an ICML 2026 Spotlight paper (Top 2.2%). [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
+- **2026.05:** AGREE was selected as an ICML 2026 Spotlight paper (Top 2.2%). [[paper](https://proceedings.mlr.press/v306/wang26aj.html)] [[code](https://github.com/Dahat364/AGREE)]
 - **2026.04:** HCFace was accepted by IEEE Transactions on Image Processing (TIP). [[paper](https://ieeexplore.ieee.org/document/11511429)] [[code](https://github.com/SE-hash/HCFace)]
 - **2026.03:** UME was accepted by IEEE Transactions on Audio, Speech, and Language Processing (TASLP). [[paper](https://ieeexplore.ieee.org/abstract/document/11447416/)] [[code](https://github.com/CQUPTWZX/Multi-experts)]
 - **2026.01:** LouisKV was accepted at ICLR 2026. [[paper](https://openreview.net/forum?id=6RJ8fZwm4P)]
@@ -202,9 +202,9 @@ My current research examines three sources of complexity in real-world AI: indiv
 <span id="J1"></span>**[J1]** **Ye Wang**, Xinxiang Zhang, Mi Lu, Han Wang, and Yoonsuck Choe. **Attention Augmentation with Multi-Residual in Bidirectional LSTM.** *Neurocomputing*, 2020.
 
 ## Conference Papers
-<span id="C8"></span>**[C8]** Xinzhe Wang, Fei Tao, Jiang Xie, Hong Yu and **Ye Wang**. **When Evidence Conflicts: Reliability-aware Meta-review Generation.** *2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Findings*, 2026. 
+<span id="C8"></span>**[C8]** Xinzhe Wang, Fei Tao, Jiang Xie, Hong Yu and **Ye Wang**. **When Evidence Conflicts: Reliability-aware Meta-review Generation.** *2026 Conference on Empirical Methods in Natural Language Processing (EMNLP), Findings*, 2026. [[paper](https://aclanthology.org/2026.findings-emnlp.746)][[code](https://github.com/Wangxz729/reliability-aware-meta-review)]
 
-<span id="C7"></span>**[C7]** **Ye Wang**, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, and Hong Yu. **When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment.** *International Conference on Machine Learning (ICML)*, 2026. **Spotlight, Top 2.2%.** [[paper](https://openreview.net/pdf?id=GrIs035ec3)] [[code](https://github.com/Dahat364/AGREE)]
+<span id="C7"></span>**[C7]** **Ye Wang**, Maocai Dai, Jiang Xie, Xiuli Bi, Fei Tao, Xiao Li, and Hong Yu. **When Attributes Disagree: Gradient Conflict in Image Aesthetic Assessment.** *International Conference on Machine Learning (ICML)*, 2026. **Spotlight, Top 2.2%.** [[paper](https://proceedings.mlr.press/v306/wang26aj.html)] [[code](https://github.com/Dahat364/AGREE)]
 
 <span id="C6"></span>**[C6]** Tingting Lei, Yifan Zhu, Runxi Zhang, Feng Hu, Hong Yu, and **Ye Wang**. **NLG-Gen: Natural Language-Guided Generation of Long-Tail Critical Scenarios for Autonomous Driving.** *International Conference on Neural Computing for Advanced Applications (NCAA)*, 2026. **Best Student Paper Award.** [[conference](https://aaci.org.hk/ncaa2026/)]
 
